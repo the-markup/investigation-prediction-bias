@@ -8,7 +8,7 @@
 
 _Satellite view of the neighborhood of Northridge, in Los Angeles, Calif., with PredPol predictions heat map overlay_
 
-This repository contains the code and data for the analysis we carried out for our [investigation](https://themarkup.org/prediction-bias/2021/12/01/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them), which is described in detail in our [methodology](https://themarkup.org/show-your-work/2021/12/01/)how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods]. It relies on the R package [Targets](https://docs.ropensci.org/targets/) to generate a reproducible analysis pipeline.
+This repository contains the code and data for the analysis we carried out for our [investigation](https://themarkup.org/prediction-bias/2021/12/01/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them), which is described in detail in our [methodology](https://themarkup.org/show-your-work/2021/12/01/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods). It relies on the R package [Targets](https://docs.ropensci.org/targets/) to generate a reproducible analysis pipeline.
 
 For the sake of convenience, we've already committed the output from the pipeline to the repository. You will find it in the `out` folder. If you want to re-run the analysis and verify the steps yourself, follow the instructions in the TK section of the Readme.
 
