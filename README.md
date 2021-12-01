@@ -69,7 +69,7 @@ To run the analysis
   - glue
   - tarchetypes
   - leaflet
-- Download the input data using the `download-data.sh` script. (This script requires `wget` to be installed on your computer)
+- Extract the contents of `in.tar.xz`.
 
 ### Run Analysis
 
