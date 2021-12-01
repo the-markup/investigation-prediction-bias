@@ -1,0 +1,153 @@
+department,demo,value,plot_name
+alexandriapd,Asian,0.12338189360590655,race_corr_pred_count
+alexandriapd,African American,0.2903800994462306,race_corr_pred_count
+alexandriapd,Latino,-0.03410629523367488,race_corr_pred_count
+alexandriapd,White,-0.3233315474050623,race_corr_pred_count
+birminghampd,Asian,-0.08668824362665162,race_corr_pred_count
+birminghampd,African American,0.3156313844574073,race_corr_pred_count
+birminghampd,Latino,0.04500878720039763,race_corr_pred_count
+birminghampd,White,-0.3479559389192905,race_corr_pred_count
+boonecounty,Asian,-0.19468153963811435,race_corr_pred_count
+boonecounty,African American,-0.11000763141095961,race_corr_pred_count
+boonecounty,Latino,0.15158661465531503,race_corr_pred_count
+boonecounty,White,0.04110004722622528,race_corr_pred_count
+clovisca,Asian,0.05738033295177261,race_corr_pred_count
+clovisca,African American,0.12927293081531405,race_corr_pred_count
+clovisca,Latino,0.047641614216956674,race_corr_pred_count
+clovisca,White,-0.04850055534987041,race_corr_pred_count
+cpd,Asian,-0.08945197700644283,race_corr_pred_count
+cpd,African American,0.26772099344903183,race_corr_pred_count
+cpd,Latino,0.22366564009665948,race_corr_pred_count
+cpd,White,-0.23320158102766797,race_corr_pred_count
+cpso,Asian,-0.03254706388463148,race_corr_pred_count
+cpso,African American,-0.1630318180707372,race_corr_pred_count
+cpso,Latino,0.2015177966259874,race_corr_pred_count
+cpso,White,0.20705936888177454,race_corr_pred_count
+decaturga,Asian,-0.2992481203007519,race_corr_pred_count
+decaturga,African American,0.1368421052631579,race_corr_pred_count
+decaturga,Latino,0.08120300751879699,race_corr_pred_count
+decaturga,White,-0.05112781954887218,race_corr_pred_count
+elgin,Asian,-0.08966376204240357,race_corr_pred_count
+elgin,African American,0.16881990641692782,race_corr_pred_count
+elgin,Latino,0.5553285665645217,race_corr_pred_count
+elgin,White,-0.5563159686755192,race_corr_pred_count
+elmonte,Asian,-0.3743471718155261,race_corr_pred_count
+elmonte,African American,0.018870339551323816,race_corr_pred_count
+elmonte,Latino,0.44106526385007383,race_corr_pred_count
+elmonte,White,-0.4818882976017704,race_corr_pred_count
+farmersbranch,Asian,0.21001649096633423,race_corr_pred_count
+farmersbranch,African American,0.30914021827597044,race_corr_pred_count
+farmersbranch,Latino,-0.2024193548387097,race_corr_pred_count
+farmersbranch,White,0.051209677419354845,race_corr_pred_count
+forsythso,Asian,-0.10882959441631611,race_corr_pred_count
+forsythso,African American,0.08243750986918719,race_corr_pred_count
+forsythso,Latino,-0.0846934862708926,race_corr_pred_count
+forsythso,White,0.10139377137576572,race_corr_pred_count
+frederick,Asian,0.023547929279411885,race_corr_pred_count
+frederick,African American,0.4236079609599685,race_corr_pred_count
+frederick,Latino,0.3337492505826211,race_corr_pred_count
+frederick,White,-0.4650635208711435,race_corr_pred_count
+fresnopd,Asian,-0.0013786677064889152,race_corr_pred_count
+fresnopd,African American,0.28717063017871314,race_corr_pred_count
+fresnopd,Latino,0.2609715536943171,race_corr_pred_count
+fresnopd,White,-0.33460092126553986,race_corr_pred_count
+ftmyerspd,Asian,-0.10050580381629502,race_corr_pred_count
+ftmyerspd,African American,0.3716569566071962,race_corr_pred_count
+ftmyerspd,Latino,0.13189268478315924,race_corr_pred_count
+ftmyerspd,White,-0.31516872111852523,race_corr_pred_count
+gloucestertwppd,Asian,-0.1765527623506228,race_corr_pred_count
+gloucestertwppd,African American,0.1343389204646351,race_corr_pred_count
+gloucestertwppd,Latino,-0.03599315018276703,race_corr_pred_count
+gloucestertwppd,White,-0.08013377066049265,race_corr_pred_count
+gvpd,Asian,0.03565120479536903,race_corr_pred_count
+gvpd,African American,-0.08224783208299744,race_corr_pred_count
+gvpd,Latino,0.13539370847220986,race_corr_pred_count
+gvpd,White,-0.08235294117647059,race_corr_pred_count
+haverhill,Asian,-0.09189332734852998,race_corr_pred_count
+haverhill,African American,0.11744299826859132,race_corr_pred_count
+haverhill,Latino,0.4812382739212007,race_corr_pred_count
+haverhill,White,-0.35778611632270163,race_corr_pred_count
+homewood,Asian,0.1337698213044419,race_corr_pred_count
+homewood,African American,0.22918026199528485,race_corr_pred_count
+homewood,Latino,0.3869290228579748,race_corr_pred_count
+homewood,White,-0.2939130434782608,race_corr_pred_count
+jacksonvilletx,Asian,-0.4193139346887673,race_corr_pred_count
+jacksonvilletx,African American,0.6153846153846154,race_corr_pred_count
+jacksonvilletx,Latino,0.7307692307692308,race_corr_pred_count
+jacksonvilletx,White,-0.7692307692307693,race_corr_pred_count
+jeffcomacc,Asian,-0.09331747846632557,race_corr_pred_count
+jeffcomacc,African American,0.022758055458615045,race_corr_pred_count
+jeffcomacc,Latino,-0.01221679860322292,race_corr_pred_count
+jeffcomacc,White,0.0020718932319954545,race_corr_pred_count
+la,Asian,0.0356614786547435,race_corr_pred_count
+la,African American,0.16527575099255065,race_corr_pred_count
+la,Latino,0.05684793459332613,race_corr_pred_count
+la,White,-0.1126740374595079,race_corr_pred_count
+livermore,Asian,0.47699948452988583,race_corr_pred_count
+livermore,African American,0.2973237656751425,race_corr_pred_count
+livermore,Latino,0.07685627442466349,race_corr_pred_count
+livermore,White,-0.38384715588363005,race_corr_pred_count
+merced,Asian,-0.14827089764743095,race_corr_pred_count
+merced,African American,0.23260851672692665,race_corr_pred_count
+merced,Latino,0.46573829531812727,race_corr_pred_count
+merced,White,-0.5244177671068427,race_corr_pred_count
+modesto,Asian,0.10771090097498641,race_corr_pred_count
+modesto,African American,0.3592386829633517,race_corr_pred_count
+modesto,Latino,-0.12559439458353017,race_corr_pred_count
+modesto,White,0.04249724452842072,race_corr_pred_count
+nilespolice,Asian,-0.17843459222769567,race_corr_pred_count
+nilespolice,African American,0.0649324190700183,race_corr_pred_count
+nilespolice,Latino,0.07612268392338992,race_corr_pred_count
+nilespolice,White,0.10727969348659004,race_corr_pred_count
+ocalapdcom,Asian,-0.10543457429531373,race_corr_pred_count
+ocalapdcom,African American,0.13926296311708644,race_corr_pred_count
+ocalapdcom,Latino,0.021779464544681718,race_corr_pred_count
+ocalapdcom,White,-0.2814062248024512,race_corr_pred_count
+ocfl,Asian,0.23732523927754498,race_corr_pred_count
+ocfl,African American,0.3320479596281004,race_corr_pred_count
+ocfl,Latino,0.3280591565445956,race_corr_pred_count
+ocfl,White,-0.4358653172493773,race_corr_pred_count
+ocoeepd,Asian,0,race_corr_pred_count
+ocoeepd,African American,0.06785714285714285,race_corr_pred_count
+ocoeepd,Latino,0.23928571428571424,race_corr_pred_count
+ocoeepd,White,-0.03928571428571428,race_corr_pred_count
+piscataway,Asian,0.22633126035516482,race_corr_pred_count
+piscataway,African American,0.004443001418991474,race_corr_pred_count
+piscataway,Latino,-0.09254955570745044,race_corr_pred_count
+piscataway,White,-0.04962406015037594,race_corr_pred_count
+plainfieldpdnj,Asian,-0.5736558892229789,race_corr_pred_count
+plainfieldpdnj,African American,-0.36302521008403366,race_corr_pred_count
+plainfieldpdnj,Latino,0.7431372549019609,race_corr_pred_count
+plainfieldpdnj,White,-0.6731563851510296,race_corr_pred_count
+portagemipd,Asian,-0.1343720964436209,race_corr_pred_count
+portagemipd,African American,0.2883094141316469,race_corr_pred_count
+portagemipd,Latino,-0.06847975586847584,race_corr_pred_count
+portagemipd,White,-0.21527883880825055,race_corr_pred_count
+salisbury,Asian,-0.09165621236197571,race_corr_pred_count
+salisbury,African American,0.4507399577167019,race_corr_pred_count
+salisbury,Latino,0.30420882982862785,race_corr_pred_count
+salisbury,White,-0.440169133192389,race_corr_pred_count
+southjordan,Asian,0.5189158667419536,race_corr_pred_count
+southjordan,African American,0.43349372732742814,race_corr_pred_count
+southjordan,Latino,-0.011857707509881422,race_corr_pred_count
+southjordan,White,-0.011857707509881422,race_corr_pred_count
+tacoma,Asian,0.08929779498668307,race_corr_pred_count
+tacoma,African American,0.19700409945710243,race_corr_pred_count
+tacoma,Latino,0.22701595347930723,race_corr_pred_count
+tacoma,White,-0.2262564696957316,race_corr_pred_count
+templeterracepd,Asian,-0.07101242471885613,race_corr_pred_count
+templeterracepd,African American,0.07078133117639267,race_corr_pred_count
+templeterracepd,Latino,0.576068376068376,race_corr_pred_count
+templeterracepd,White,-0.29846153846153844,race_corr_pred_count
+tracypd,Asian,-0.0885078907723092,race_corr_pred_count
+tracypd,African American,0.16605096990079796,race_corr_pred_count
+tracypd,Latino,-0.01963109354413702,race_corr_pred_count
+tracypd,White,0.018708827404479576,race_corr_pred_count
+turlockpolice,Asian,0.0679854547636682,race_corr_pred_count
+turlockpolice,African American,0.28434801445860125,race_corr_pred_count
+turlockpolice,Latino,0.40365853658536593,race_corr_pred_count
+turlockpolice,White,-0.4205574912891987,race_corr_pred_count
+westspringfieldpolice,Asian,0.3526720247691269,race_corr_pred_count
+westspringfieldpolice,African American,0.018918762971435348,race_corr_pred_count
+westspringfieldpolice,Latino,0.46466165413533833,race_corr_pred_count
+westspringfieldpolice,White,-0.46917293233082713,race_corr_pred_count

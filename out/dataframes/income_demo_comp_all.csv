@@ -1,0 +1,17 @@
+demo,prank_filter,mean_val
+Between 120 and 150k,in_max_tb,0.012735486245977947
+Between 120 and 150k,in_med_tb,0.02089583963817382
+Between 120 and 150k,in_min_tb,0.021539367854609526
+Between 120 and 150k,total,0.019140764900882998
+Between 75 and 100k,in_max_tb,0.048495728971576474
+Between 75 and 100k,in_med_tb,0.04290101606729875
+Between 75 and 100k,in_min_tb,0.05272063787044782
+Between 75 and 100k,total,0.05170245723718481
+Greater than 200k,in_max_tb,0.020568952016914065
+Greater than 200k,in_med_tb,0.03211552148426488
+Greater than 200k,in_min_tb,0.04567310788704599
+Greater than 200k,total,0.03482887949726343
+Less than 45k,in_max_tb,0.34969773345809313
+Less than 45k,in_med_tb,0.27605654344138836
+Less than 45k,in_min_tb,0.17062534696865425
+Less than 45k,total,0.25955925978771127

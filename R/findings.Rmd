@@ -1,0 +1,281 @@
+---
+title: "Findings"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(targets)
+library(glue)
+library(tidyverse)
+tar_load(bg_ranked_pop_bounds_bg_race)
+tar_load(boi_2010)
+tar_load(housing_block_map)
+tar_load(arrests_per_capita)
+tar_load(arrests_per_capita_plot)
+tar_load(uof_per_capita)
+tar_load(policing_patterns)
+source("R/preprocessing/calculate-demographic-proportions.R")
+```
+# Findings
+
+This file contains the anecdotal findings that appear in our story TK and methodology TK.
+
+
+## Intro
+```{r intro-bg}
+num_bg_df <- bg_ranked_pop_bounds_bg_race %>% group_by(department) %>% summarise(num_bg = n())
+```
+ 
+The 38 jurisdictions contained a varying number of block groups. The smallest was composed of `r min(num_bg_df$num_bg)` block groups and the largest was composed of `r max(num_bg_df$num_bg)` block groups.
+
+
+```{r intro}
+pc <- bg_ranked_pop_bounds_bg_race %>%
+  group_by(department) %>%
+  summarise(
+    mean = mean(pred_count)
+  )
+```
+For the 38 jurisdictions we analyzed,the average number of predictions on a block group varied from `r min(pc$mean)` predictions to `r max(pc$mean)`.
+
+
+## Disparate Impact Findings
+
+```{r methods}
+iqr_df <- bg_ranked_pop_bounds_bg_race %>%
+  select(department, county, tract, block_group, pred_count, gt_iqr_upper, lt_iqr_lower) %>%
+  group_by(department) %>%
+  summarise(
+    total = n(),
+    num_gt_iqr = sum(if_else(gt_iqr_upper == TRUE, 1, 0)),
+    num_lt_iqr = sum(if_else(lt_iqr_lower == TRUE, 1, 0)),
+  ) %>%
+  mutate(
+    pct_gt_iqr = num_gt_iqr / total,
+    pct_lt_iqr = num_lt_iqr / total
+  )
+```
+
+Using the IQR method, the average percentage of jurisdictions’ block groups in the most-targeted group would have been `r mean(iqr_df$pct_gt_iqr)` percent, whereas in the least-targeted group would have been `r mean(iqr_df$pct_lt_iqr)` percent, this was due to the fact that for some jurisdictions there were quite a few block groups with no predictions. 
+
+### Race
+```{r salisbury}
+
+sal <- bg_ranked_pop_bounds_bg_race %>% filter(department == "salisbury")
+sal_black_max_mean <- get_demo_proportions(sal, "bg", "black", "lb", "in_max_tb", "race")$black_lb__in_max_tb
+sal_black_med_mean <- get_demo_proportions(sal, "bg", "black", "lb", "in_med_tb", "race")$black_lb__in_med_tb
+```
+In Salisbury, Md., at least `r sal_black_med_mean` percent of residents in the jurisdiction’s median block group are Black, according to the Census Bureau. However, when we look at the block groups most targeted by PredPol, on average at least `r sal_black_max_mean`` percent of residents there were Black. 
+
+
+```{r birmingham}
+
+birm <- bg_ranked_pop_bounds_bg_race %>% filter(department == "birminghampd")
+birm_black_max_mean <- get_demo_proportions(birm, "bg", "latino", "lb", "in_max_tb", "race")$latino_lb__in_max_tb
+birm_black_med_mean <- get_demo_proportions(birm, "bg", "latino", "lb", "in_med_tb", "race")$latino_lb__in_med_tb
+birm_times <- birm_black_max_mean / birm_black_med_mean
+```
+In Birmingham, Al., the percentage of Latino residents in PredPol’s most targeted block groups on average was at least `r birm_times` times as high as the median targeted block groups in the city. 
+
+```{r portage}
+
+port <- bg_ranked_pop_bounds_bg_race %>% filter(department == "portagemipd")
+port_black_max_mean <- get_demo_proportions(port, "bg", "black", "lb", "in_max_tb", "race")$black_lb__in_max_tb
+port_black_med_mean <- get_demo_proportions(port, "bg", "black", "lb", "in_med_tb", "race")$black_lb__in_med_tb
+port_times <- port_black_max_mean / port_black_med_mean
+```
+For Black residents in Portage, Mich., the most targeted block groups contained at least `r port_times` times as many Black residents as the city overall.
+```{r jacksonvilletx}
+jxbg <- bg_ranked_pop_bounds_bg_race %>% filter(department == "jacksonvilletx", tract == 950500, block_group == 1)
+jx_start <- as.Date("2018-02-24")
+jx_end <- as.Date("2019-10-30")
+jx_time <- as.numeric(jx_end - jx_start)
+```
+In one block group in Jacksonville, Tex. (block group 1 of the 950500 census tract) PredPol predicted that either an assault or a vehicle burglary would occur at multiple locations in that block group `r jxbg$pred_count` times over nearly two years. That’s `r jxbg$pred_count/jx_time` predictions each and every day. This block group’s population is at least `r (jxbg$black_lb + jxbg$latino_lb)/jxbg$total_race_lb` of Black and Latino. The remaining is between `r jxbg$white_lb/jxbg$total_race_lb` to `r jxbg$white_ub/jxbg$total_race_ub` was white.
+
+```{r jacksonvilletx2}
+jx_total <- bg_ranked_pop_bounds_bg_race %>% filter(department == "jacksonvilletx")
+jxbg2 <- bg_ranked_pop_bounds_bg_race %>% filter(department == "jacksonvilletx" & pred_count > 7500)
+
+jx_total_black <- sum(jx_total$black_lb)
+jxbg2_black <- sum(jxbg2$black_lb) / jx_total_black
+
+jx_total_white <- sum(jx_total$white_lb)
+jxbg2_white <- sum(jxbg2$white_lb) / jx_total_white
+```
+
+In fact, at least `r jxbg2_black` percent of Jacksonville’s Black population lived in block groups that were targeted more than 7,500 times in two years. Only `r jxbg2_white` of Jacksonville's White population lived in those block groups.
+
+
+### Race Block Level Analysis
+
+```{r census_2010_boi_0}
+disprop_boi <- boi_2010 %>% filter(mtb_black_pop > bg_median_black_pop | mtb_latino_pop > bg_median_latino_pop)
+
+num_bg_stable <- boi_2010 %>% nrow()
+num_bg_total <- bg_ranked_pop_bounds_bg_race %>% nrow()
+num_disprop_poc <- disprop_boi %>% nrow()
+
+```
+In the resulting `r num_bg_stable` reasonably stable block groups (`r num_bg_stable/num_bg_total` percent of the block groups in our data), we found that `r num_disprop_poc` (`r num_disprop_poc/num_bg_stable`) of the targeted blocks within them had even higher concentrations of Black and Latino residents than the overall block group. (See more in the Limitations section.)
+
+```{r census_2010_boi_1}
+
+northridge <- disprop_boi %>% filter(client == "la" & tract == 115401)
+northridge_mtb_pct <- northridge$mtb_pred_count/northridge$preds_in_bg
+
+elgin <- disprop_boi %>% filter(client == "elgin" & tract == 851000)
+elgin_mtb_pct <- elgin$mtb_pred_count/elgin$preds_in_bg
+elgin_white_median <- elgin$bg_median_white_pop
+elgin_black_median <- elgin$bg_median_black_pop
+elgin_mtb_black <- elgin$mtb_black_pop
+```
+
+
+In some cases, zooming in on blocks showed that predictions that appeared to target majority White block groups had in fact targeted the blocks within them where people of color lived. For example, every single prediction in a majority White block-group in Los Angeles’ Northridge neighborhood (block group `r northridge$block_group` of the `r northridge$tract` census tract) occurred on a block whose residents were almost all Latino. 
+
+ - `r northridge_mtb_pct` percent of predictions occurred on the most targeted block
+ - The median white population in the blocks is `r northridge$bg_median_white_pop` percent white.
+ - The most targeted block is, `r northridge$mtb_white_pop` percent White and `r northridge$mtb_latino_pop` percent Latino.
+
+
+The most-targeted block in a majority White block-group in Elgin, Ill. (block group 1 of the 851000 census tract) had `r elgin$mtb_black_pop/elgin$bg_median_black_pop` times more Black residents than the rest of the block-group. 
+
+ - `r elgin_mtb_pct` percent of predictions occurred on the most targeted block
+ - The median block is `r elgin_white_median` percent white.
+ - The median block is, `r elgin_black_median` percent black.
+ - The most targeted block is, `r elgin_mtb_black` percent black.
+
+```{r census_2010_boi_2}
+
+maj_white_bg <- boi_2010 %>% filter(bg_median_white_pop > .50) %>% drop_na()%>% nrow()
+disp_maj_white_bg <- disprop_boi %>% filter(bg_median_white_pop > .50) %>% drop_na() %>% nrow()
+maj_white_block_groups_with_maj_bh_pop_in_mtb <- boi_2010 %>% filter(bg_median_white_pop > .50) %>% filter( mtb_latino_pop >0.50 |  mtb_black_pop > 0.50 | mtb_latino_pop + mtb_black_pop > 0.50) %>% nrow()
+# 
+maj_bh_bg <- boi_2010 %>% filter(bg_median_black_pop + bg_median_latino_pop > 0.50) %>% nrow()
+disp_white <- boi_2010 %>% filter(bg_median_black_pop + bg_median_latino_pop > 0.50) %>% filter(mtb_white_pop > bg_median_white_pop) %>% nrow()
+
+```
+
+
+For `r disp_maj_white_bg` (`r disp_maj_white_bg/maj_white_bg`) of the `r maj_white_bg` stable, majority-White block groups, predictions most frequently targeted the blocks inside of them that had higher percentages of Black or Latino residents. In only `r disp_white` (`r disp_white/maj_bh_bg` percent) of the `r maj_bh_bg` stable, majority-Black and -Hispanic block groups, did the most targeted blocks have higher percentages of White people than the block group overall.
+```
+
+```{r northridge}
+northridge <- disprop_boi %>% filter(client == "la" & tract == 115401) 
+northridge_mtb_pct <- northridge$mtb_pred_count/northridge$preds_in_bg
+northridge_white_median <- northridge$bg_median_white_pop
+northridge_mtb_latino <- northridge$mtb_latino_pop
+```
+
+
+```{r elgin}
+elgin <- disprop_boi %>% filter(client == "elgin" & tract == 851000) 
+elgin_mtb_pct <- elgin$mtb_pred_count/elgin$preds_in_bg
+elgin_white_median <- elgin$bg_median_white_pop
+elgin_black_median <- elgin$bg_median_black_pop
+elgin_mtb_black <- elgin$mtb_black_pop
+```
+### Income
+
+```{r haverhill}
+hvrhil <- bg_ranked_pop_bounds_bg_race %>% filter(department == "haverhill")
+hvrhil_max <- bg_ranked_pop_bounds_bg_race %>% filter(department == "haverhill" & in_max_tb == TRUE)
+lt45_total <- sum(hvrhil$lt.45k_lb)
+lt45_max_tb <- sum(hvrhil_max$lt.45k_lb)
+```
+In the most targeted block groups, the disparity was even more dramatic. In Haverhill, Mass., for instance, `r lt45_max_tb/lt45_total` percent of the jurisdiction’s `r lt45_total` low-income households were located in the most extremely targeted block groups. 
+
+```{r decatur}
+decatur_total <- bg_ranked_pop_bounds_bg_race %>% filter(department == "decaturga")
+decatur_high_pred <- bg_ranked_pop_bounds_bg_race %>% filter(department == "decaturga" & pred_count > 11000)
+```
+In Decatur, Ga., at least one in four (`r sum(decatur_high_pred$lt.45k_lb)/ sum(decatur_total$lt.45k_lb)` percent) of the jurisdiction’s low income households lived on a single block group that Predpol targeted constantly—11,561 predictions over two years. 
+
+ For a majority of the jurisdictions in our data, census blocks groups where PredPol never predicted crimes were composed of more households that earned at or above $200,000 a year than the rest of the agency’s patrol area. 
+
+
+```{r merced}
+
+merced_total <- bg_ranked_pop_bounds_bg_race %>% filter(department == "merced")
+merced_min_tb <- merced_total %>% filter(in_min_tb == TRUE)
+merced_med_tb <- merced_total %>% filter(in_med_tb == TRUE)
+
+merced_median <- merced_total %>% filter(pred_pop_rank == 25)
+
+merced_min_tb_45k_mean <- mean(merced_min_tb$lt.45k_lb)
+merced_min_tb_200k_mean <- mean(merced_min_tb$gt.200k_lb)
+
+merced_med_tb_45k_mean <- mean(merced_med_tb$lt.45k_lb)
+merced_med_tb_200k_mean <- mean(merced_med_tb$gt.200k_lb)
+```
+
+In Merced, Calif., for instance, the least targeted block groups had at least `r merced_min_tb_200k_mean` wealthier households on average, the median targeted block groups in the jurisdiction had `r merced_med_tb_200k_mean`. 
+
+```{r birmingham_income}
+bham_200k_min_tb_mean <- bg_ranked_pop_bounds_bg_race %>%
+  filter(department == "birminghampd" & pred_count == 0) %>%
+  summarise(mean_200 = mean(gt.200k_lb))
+```
+
+And in Birmingham, Ala., the median block group didn’t have a single wealthy household. But block groups where PredPol never made predictions had at least `r bham_200k_min_tb_mean` wealthier households on average
+
+## Arrests and Use of Force Analysis
+
+
+```{r sal_demo}
+salisbury_mtb <- filter(arrests_per_capita, client == "salisbury")$arrest_max_tb_pc
+salisbury_jt <- filter(arrests_per_capita, client == "salisbury")$arrest_jur_total
+sal_prop <- salisbury_mtb / salisbury_jt
+
+sal <- filter(bg_ranked_pop_bounds_bg_race, department == "salisbury")
+mtb <- filter(sal, in_max_tb == TRUE)
+black_pop_mtb <- sum(mtb$black_lb) / sum(mtb$total_race_lb)
+black_pop_jur <- sum(sal$black_lb) / sum(sal$total_race_lb)
+latino_pop_mtb <- sum(mtb$latino_lb) / sum(mtb$total_race_lb)
+latino_pop_jur <- sum(sal$latino_lb) / sum(sal$total_race_lb)
+
+
+latino_prop <- latino_pop_mtb / latino_pop_jur
+black_prop <- black_pop_mtb / black_pop_jur
+# latino_prop
+```
+
+For example, data provided by Salisbury, Ga., from 2018 until 2020 shows per capita arrests on the most targeted block groups, those in the top 5% for predictions,  were more than `r sal_prop` times  the jurisdiction as a whole. The proportion of Black residents living in these targeted block groups is `r black_prop` that of the jurisdiction as a whole, according to Census figures., and the Latino population there is `r latino_prop` times as high.
+
+
+<!--
+race_corr_df <- read_csv("out/dataframes/race_corr_pred_count.csv") 
+race_corr_df %>% group_by(demo) %>% mutate(avg_corr = median(value)) %>% select(demo, avg_corr) %>% unique() -->
+
+```{r uof}
+niles_uof <- filter(uof_per_capita, client == "nilespolice")$uof_max_tb_pc / filter(uof_per_capita, client == "nilespolice")$uof_jur_total_pc
+
+plainfield_uof <- filter(uof_per_capita, client == "plainfieldpdnj")$uof_max_tb_pc / filter(uof_per_capita, client == "plainfieldpdnj")$uof_jur_total_pc
+
+piscataway_uof <- filter(uof_per_capita, client == "piscataway")$uof_max_tb_pc / filter(uof_per_capita, client == "piscataway")$uof_jur_total_pc
+
+```
+
+In Plainfield N.J., per capita use-of-force rates in the jurisdiction’s most extremely targeted block groups were `r plainfield_uof` times the rate of the entire jurisdiction. In Niles, Ill. per capita use-of-force it was `r niles_uof` times the rate of the jurisdiction. In Piscataway it was more than `r piscataway_uof`` times. 
+
+
+### Public Housing
+
+```{r housing}
+targeted_housing <- housing_block_map %>% filter(housing_count > 0 & percentage > 0.95) %>% select(client) %>% unique() %>% nrow()
+```
+
+For `r targeted_housing` different jurisdictions, blocks with public housing communities were targeted by PredPol nearly every single day that the agency used the software
+
+### Policing Patterns
+```{r overall_policing_patterns}
+pp <- policing_patterns %>% filter(race == "black" & times > 1) %>% select(client) %>% unique() %>% nrow()
+
+pp_total <- policing_patterns %>% select(client) %>% unique() %>% nrow()
+```
+
+We found that per-capita arrest rates were higher for Black people than White people in `r pp` (`r pp/pp_total` percent) of the jurisdictions with usable statistics in our dataset. Officers in more than a third of these departments arrested Black people at more than three times the rate of White people. Officers in Decatur, Ga., for example, arrested Black people at a rate nine times the rate of White people.
+
+

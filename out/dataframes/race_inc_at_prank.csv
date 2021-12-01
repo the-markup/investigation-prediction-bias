@@ -1,0 +1,13 @@
+demo,prank_filter,pct_inc,min_pop_est,plot_name
+Asian,in_max_tb,0.002366056557845952,est,race_inc_at_prank
+Asian,in_med_tb,-0.037255261010488636,est,race_inc_at_prank
+Asian,in_min_tb,-0.01694568652982377,est,race_inc_at_prank
+African American,in_max_tb,0.2848478422548442,est,race_inc_at_prank
+African American,in_med_tb,0.3906484077023832,est,race_inc_at_prank
+African American,in_min_tb,-0.2586652579631717,est,race_inc_at_prank
+Latino,in_max_tb,0.16173039808689071,est,race_inc_at_prank
+Latino,in_med_tb,-0.1192838942558924,est,race_inc_at_prank
+Latino,in_min_tb,-0.15428308854290615,est,race_inc_at_prank
+White,in_max_tb,-0.17074309176264793,est,race_inc_at_prank
+White,in_med_tb,-0.04504916926976699,est,race_inc_at_prank
+White,in_min_tb,0.2778260629968382,est,race_inc_at_prank

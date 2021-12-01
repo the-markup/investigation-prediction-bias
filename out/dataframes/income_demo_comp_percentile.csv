@@ -1,0 +1,1521 @@
+department,client_name,demo,pop_est,prank_filter,values,demo_num
+alexandriapd,"Alexandria,  La.",Less than 45k,est,0 to 10th,0.26536885245901637,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,0 to 10th,0.16854508196721313,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,0 to 10th,0.05225409836065574,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,0 to 10th,0.08862704918032786,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,10th to 20th,0.4781725888324873,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,10th to 20th,0.0532994923857868,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,10th to 20th,0.0868020304568528,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,10th to 20th,0.0817258883248731,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,20th to 30th,0.3907129455909944,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,20th to 30th,0.1449343339587242,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,20th to 30th,0.0698874296435272,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,20th to 30th,0.027204502814258912,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,30th to 40th,0.5857805255023184,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,30th to 40th,0.0571870170015456,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,30th to 40th,0.03863987635239567,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,30th to 40th,0.05100463678516229,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,40th to 50th,0.5275177836016474,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,40th to 50th,0.08910520404342943,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,40th to 50th,0.04380381879445901,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,40th to 50th,0.03444402845376263,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,50th to 60th,0.6933240611961057,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,50th to 60th,0.09735744089012517,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,50th to 60th,0.015994436717663423,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,50th to 60th,0.024339360222531293,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,60th to 70th,0.6682279469164715,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,60th to 70th,0.09094457455113193,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,60th to 70th,0.02419984387197502,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,60th to 70th,0.02029664324746292,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,70th to 80th,0.6271836386876865,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,70th to 80th,0.11163187047294418,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,70th to 80th,0.015764806135492117,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,70th to 80th,0.03110353642948445,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,80th to 90th,0.7363922627080521,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,80th to 90th,0.04048582995951417,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,80th to 90th,0.0413855150697256,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,80th to 90th,0.02699055330634278,1
+alexandriapd,"Alexandria,  La.",Less than 45k,est,90th to 100th,0.5526627218934911,4
+alexandriapd,"Alexandria,  La.",Between 75 and 100k,est,90th to 100th,0.08362919132149901,3
+alexandriapd,"Alexandria,  La.",Between 120 and 150k,est,90th to 100th,0.029585798816568046,2
+alexandriapd,"Alexandria,  La.",Greater than 200k,est,90th to 100th,0.009072978303747535,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,0 to 10th,0.3603551660516605,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,0 to 10th,0.12009916974169742,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,0 to 10th,0.06884225092250923,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,0 to 10th,0.09547970479704797,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,10th to 20th,0.40815780675359414,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,10th to 20th,0.1335339351387496,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,10th to 20th,0.05168839852892009,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,10th to 20th,0.056703443664326315,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,20th to 30th,0.45518987341772155,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,20th to 30th,0.10244725738396625,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,20th to 30th,0.054177215189873416,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,20th to 30th,0.066582278481012655,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,30th to 40th,0.508505367464905,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,30th to 40th,0.12113955408753097,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,30th to 40th,0.029314616019818333,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,30th to 40th,0.039966969446738235,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,40th to 50th,0.5706507185575292,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,40th to 50th,0.08381683477639917,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,40th to 50th,0.029188610193698117,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,40th to 50th,0.04355976077836294,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,50th to 60th,0.5257214554579673,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,50th to 60th,0.12120451693851945,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,50th to 60th,0.02643245503973233,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,50th to 60th,0.026348808030112924,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,60th to 70th,0.6021217943363127,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,60th to 70th,0.061398379416924234,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,60th to 70th,0.029237323531868684,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,60th to 70th,0.01829421100994069,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,70th to 80th,0.5541948733551381,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,70th to 80th,0.09097132425648437,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,70th to 80th,0.018711493116300295,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,70th to 80th,0.03225070358256636,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,80th to 90th,0.6991797432239658,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,80th to 90th,0.07221825962910128,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,80th to 90th,0.005349500713266762,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,80th to 90th,0.015513552068473609,1
+birminghampd,"Birmingham, Ala.",Less than 45k,est,90th to 100th,0.5939764761791613,4
+birminghampd,"Birmingham, Ala.",Between 75 and 100k,est,90th to 100th,0.08429369133895687,3
+birminghampd,"Birmingham, Ala.",Between 120 and 150k,est,90th to 100th,0.03285018415112273,2
+birminghampd,"Birmingham, Ala.",Greater than 200k,est,90th to 100th,0.03409765949863372,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,0 to 10th,0.17715430861723447,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,0 to 10th,0.13026052104208416,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,0 to 10th,0.08897795591182364,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,0 to 10th,0.24208416833667334,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,10th to 20th,0.2293249888243183,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,10th to 20th,0.12874385337505587,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,10th to 20th,0.05677246312025033,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,10th to 20th,0.2248547161376844,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,20th to 30th,0.2930327868852459,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,20th to 30th,0.13934426229508196,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,20th to 30th,0.05327868852459016,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,20th to 30th,0.1260245901639344,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,30th to 40th,0.25516693163751986,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,30th to 40th,0.20985691573926868,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,30th to 40th,0.10731319554848967,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,30th to 40th,0.07154213036565978,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,40th to 50th,0.23944476576055523,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,40th to 50th,0.07807981492192019,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,40th to 50th,0.11336032388663968,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,40th to 50th,0.22903412377096588,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,50th to 60th,0.2637586628618019,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,50th to 60th,0.16306563391765186,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,50th to 60th,0.05707297187117815,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,50th to 60th,0.16958825927435792,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,60th to 70th,0.38287937743190664,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,60th to 70th,0.09727626459143969,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,60th to 70th,0.05525291828793774,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,60th to 70th,0.014396887159533073,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,70th to 80th,0.24574889354763568,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,70th to 80th,0.1222921034241789,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,70th to 80th,0.05567202422548335,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,70th to 80th,0.12042860470533427,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,80th to 90th,0.22644515248065544,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,80th to 90th,0.20937642239417387,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,80th to 90th,0.08375056895766955,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,80th to 90th,0.08329540282203005,1
+boonecounty,"Boone County, Ind.",Less than 45k,est,90th to 100th,0.28319502074688796,4
+boonecounty,"Boone County, Ind.",Between 75 and 100k,est,90th to 100th,0.12811203319502074,3
+boonecounty,"Boone County, Ind.",Between 120 and 150k,est,90th to 100th,0.08973029045643154,2
+boonecounty,"Boone County, Ind.",Greater than 200k,est,90th to 100th,0.04616182572614108,1
+clovisca,"Clovis, Calif.",Less than 45k,est,0 to 10th,0.15405723245785966,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,0 to 10th,0.10740885927087417,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,0 to 10th,0.10662485299882399,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,0 to 10th,0.16424931399451195,1
+clovisca,"Clovis, Calif.",Less than 45k,est,10th to 20th,0.3750333422245932,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,10th to 20th,0.17578020805548147,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,10th to 20th,0.04161109629234463,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,10th to 20th,0.03921045612163244,1
+clovisca,"Clovis, Calif.",Less than 45k,est,20th to 30th,0.244257521837593,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,20th to 30th,0.1649951472015529,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,20th to 30th,0.08573277256551277,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,20th to 30th,0.08476221287609188,1
+clovisca,"Clovis, Calif.",Less than 45k,est,30th to 40th,0.43515217987386895,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,30th to 40th,0.12585686865917192,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,30th to 40th,0.051549218535782836,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,30th to 40th,0.023032629558541268,1
+clovisca,"Clovis, Calif.",Less than 45k,est,40th to 50th,0.24643936124298663,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,40th to 50th,0.12063012516184722,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,40th to 50th,0.12300388433318947,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,40th to 50th,0.11242986620630126,1
+clovisca,"Clovis, Calif.",Less than 45k,est,50th to 60th,0.31942125765164164,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,50th to 60th,0.16388425153032832,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,50th to 60th,0.09265442404006678,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,50th to 60th,0.02810239287701725,1
+clovisca,"Clovis, Calif.",Less than 45k,est,60th to 70th,0.3174442190669371,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,60th to 70th,0.11511156186612576,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,60th to 70th,0.09279918864097363,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,60th to 70th,0.053498985801217036,1
+clovisca,"Clovis, Calif.",Less than 45k,est,70th to 80th,0.4042483660130719,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,70th to 80th,0.09117647058823529,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,70th to 80th,0.04183006535947712,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,70th to 80th,0.04738562091503268,1
+clovisca,"Clovis, Calif.",Less than 45k,est,80th to 90th,0.2931985294117647,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,80th to 90th,0.13832720588235295,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,80th to 90th,0.08639705882352941,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,80th to 90th,0.08777573529411764,1
+clovisca,"Clovis, Calif.",Less than 45k,est,90th to 100th,0.2958933913516454,4
+clovisca,"Clovis, Calif.",Between 75 and 100k,est,90th to 100th,0.1233342398694588,3
+clovisca,"Clovis, Calif.",Between 120 and 150k,est,90th to 100th,0.0988577644819146,2
+clovisca,"Clovis, Calif.",Greater than 200k,est,90th to 100th,0.08512374218112592,1
+cpd,"Cocoa, Fla.",Less than 45k,est,0 to 10th,0.29081334113516677,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,0 to 10th,0.1339964891749561,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,0 to 10th,0.1211234640140433,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,0 to 10th,0.05500292568753657,1
+cpd,"Cocoa, Fla.",Less than 45k,est,10th to 20th,0.6718606782768103,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,10th to 20th,0.06874427131072411,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,10th to 20th,0.03666361136571952,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,10th to 20th,0.022914757103574702,1
+cpd,"Cocoa, Fla.",Less than 45k,est,20th to 30th,0.7367088607594937,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,20th to 30th,0.04810126582278481,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,20th to 30th,0,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,20th to 30th,0,1
+cpd,"Cocoa, Fla.",Less than 45k,est,30th to 40th,0.29919763513513514,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,30th to 40th,0.11043074324324324,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,30th to 40th,0.06271114864864864,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,30th to 40th,0.05827702702702703,1
+cpd,"Cocoa, Fla.",Less than 45k,est,40th to 50th,0.43355704697986575,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,40th to 50th,0.09060402684563758,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,40th to 50th,0.03959731543624161,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,40th to 50th,0.018120805369127517,1
+cpd,"Cocoa, Fla.",Less than 45k,est,50th to 60th,0.6818181818181818,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,50th to 60th,0.047979797979797977,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,50th to 60th,0.027777777777777776,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,50th to 60th,0.027777777777777776,1
+cpd,"Cocoa, Fla.",Less than 45k,est,60th to 70th,0.42448979591836733,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,60th to 70th,0.04693877551020408,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,60th to 70th,0.06938775510204082,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,60th to 70th,0.036734693877551024,1
+cpd,"Cocoa, Fla.",Less than 45k,est,70th to 80th,0.5546623794212219,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,70th to 80th,0.09485530546623794,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,70th to 80th,0.003215434083601286,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,70th to 80th,0.02009646302250804,1
+cpd,"Cocoa, Fla.",Less than 45k,est,80th to 90th,0.7055805003207184,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,80th to 90th,0.03207184092366902,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,80th to 90th,0.02052597819114817,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,80th to 90th,0,1
+cpd,"Cocoa, Fla.",Less than 45k,est,90th to 100th,0.7712800519818064,4
+cpd,"Cocoa, Fla.",Between 75 and 100k,est,90th to 100th,0.04548408057179987,3
+cpd,"Cocoa, Fla.",Between 120 and 150k,est,90th to 100th,0.025341130604288498,2
+cpd,"Cocoa, Fla.",Greater than 200k,est,90th to 100th,0.007147498375568551,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,0 to 10th,0.43095087497364537,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,0 to 10th,0.11237613324899852,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,0 to 10th,0.05186590765338393,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,0 to 10th,0.0196078431372549,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,10th to 20th,0.4475911458333333,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,10th to 20th,0.13785807291666666,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,10th to 20th,0.03955078125,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,10th to 20th,0.019205729166666668,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,20th to 30th,0.45138313731986085,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,20th to 30th,0.09408646678813981,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,20th to 30th,0.0414112970018221,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,20th to 30th,0.05052178234222296,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,30th to 40th,0.5874386069355559,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,30th to 40th,0.09421044798333085,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,30th to 40th,0.016371483851763655,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,30th to 40th,0.03869623455871409,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,40th to 50th,0.5966963622865628,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,40th to 50th,0.07925018559762435,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,40th to 50th,0.029138827023014107,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,40th to 50th,0.006495916852264291,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,50th to 60th,0.5329990294403106,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,50th to 60th,0.08573277256551277,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,50th to 60th,0.04205758654157231,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,50th to 60th,0.03849886768036234,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,60th to 70th,0.5612813370473537,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,60th to 70th,0.09958217270194986,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,60th to 70th,0.042061281337047354,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,60th to 70th,0.032590529247910865,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,70th to 80th,0.32799181725196047,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,70th to 80th,0.1260654619843164,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,70th to 80th,0.07245141493351517,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,70th to 80th,0.07713944766450732,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,80th to 90th,0.3805931767529573,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,80th to 90th,0.12900737184982,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,80th to 90th,0.0639465112292131,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,80th to 90th,0.04423109891993828,1
+cpso,"Calcasieu Parish, La.",Less than 45k,est,90th to 100th,0.45084136887880505,4
+cpso,"Calcasieu Parish, La.",Between 75 and 100k,est,90th to 100th,0.1218566836831159,3
+cpso,"Calcasieu Parish, La.",Between 120 and 150k,est,90th to 100th,0.04575534127434298,2
+cpso,"Calcasieu Parish, La.",Greater than 200k,est,90th to 100th,0.03743618831537152,1
+decaturga,"Decatur, Ga.",Less than 45k,est,0 to 10th,0.17105263157894737,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,0 to 10th,0.13333333333333333,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,0 to 10th,0.08596491228070176,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,0 to 10th,0.18596491228070175,1
+decaturga,"Decatur, Ga.",Less than 45k,est,10th to 20th,0.5344202898550725,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,10th to 20th,0.041666666666666664,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,10th to 20th,0.059782608695652176,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,10th to 20th,0.15217391304347827,1
+decaturga,"Decatur, Ga.",Less than 45k,est,20th to 30th,0.2333743842364532,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,20th to 30th,0.1434729064039409,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,20th to 30th,0.0332512315270936,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,20th to 30th,0.1705665024630542,1
+decaturga,"Decatur, Ga.",Less than 45k,est,30th to 40th,0.3384747215081405,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,30th to 40th,0.08226221079691516,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,30th to 40th,0.05912596401028278,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,30th to 40th,0.14824335904027422,1
+decaturga,"Decatur, Ga.",Less than 45k,est,40th to 50th,0.22399445214979197,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,40th to 50th,0.0839112343966713,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,40th to 50th,0.08599167822468794,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,40th to 50th,0.18307905686546463,1
+decaturga,"Decatur, Ga.",Less than 45k,est,50th to 60th,0.25655172413793104,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,50th to 60th,0.10482758620689656,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,50th to 60th,0.06206896551724138,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,50th to 60th,0.20344827586206896,1
+decaturga,"Decatur, Ga.",Less than 45k,est,60th to 70th,0.18911174785100288,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,60th to 70th,0.0964660936007641,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,60th to 70th,0.09837631327602674,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,60th to 70th,0.282712511938873,1
+decaturga,"Decatur, Ga.",Less than 45k,est,70th to 80th,0.20664869721473494,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,70th to 80th,0.10512129380053908,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,70th to 80th,0.06019766397124888,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,70th to 80th,0.22461814914645103,1
+decaturga,"Decatur, Ga.",Less than 45k,est,80th to 90th,0.23236514522821577,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,80th to 90th,0.08298755186721991,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,80th to 90th,0.07634854771784233,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,80th to 90th,0.22904564315352696,1
+decaturga,"Decatur, Ga.",Less than 45k,est,90th to 100th,0.4608150470219436,4
+decaturga,"Decatur, Ga.",Between 75 and 100k,est,90th to 100th,0.13972234661889835,3
+decaturga,"Decatur, Ga.",Between 120 and 150k,est,90th to 100th,0.03493058665472459,2
+decaturga,"Decatur, Ga.",Greater than 200k,est,90th to 100th,0.11598746081504702,1
+elgin,"Elgin, Ill.",Less than 45k,est,0 to 10th,0.15708021666236782,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,0 to 10th,0.1722121915570458,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,0 to 10th,0.12724615252342877,2
+elgin,"Elgin, Ill.",Greater than 200k,est,0 to 10th,0.11873441664517238,1
+elgin,"Elgin, Ill.",Less than 45k,est,10th to 20th,0.21657882127455677,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,10th to 20th,0.14885800990257148,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,10th to 20th,0.10062290368950647,2
+elgin,"Elgin, Ill.",Greater than 200k,est,10th to 20th,0.14151094074429005,1
+elgin,"Elgin, Ill.",Less than 45k,est,20th to 30th,0.18935960591133005,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,20th to 30th,0.13655172413793104,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,20th to 30th,0.08788177339901478,2
+elgin,"Elgin, Ill.",Greater than 200k,est,20th to 30th,0.08571428571428572,1
+elgin,"Elgin, Ill.",Less than 45k,est,30th to 40th,0.3696083292017848,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,30th to 40th,0.1752602875557759,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,30th to 40th,0.052553296975706494,2
+elgin,"Elgin, Ill.",Greater than 200k,est,30th to 40th,0.0436291522062469,1
+elgin,"Elgin, Ill.",Less than 45k,est,40th to 50th,0.275885404917663,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,40th to 50th,0.14527408075795173,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,40th to 50th,0.09993232573877735,2
+elgin,"Elgin, Ill.",Greater than 200k,est,40th to 50th,0.06451612903225806,1
+elgin,"Elgin, Ill.",Less than 45k,est,50th to 60th,0.2054778417773598,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,50th to 60th,0.2003056306571059,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,50th to 60th,0.06406488773950864,2
+elgin,"Elgin, Ill.",Greater than 200k,est,50th to 60th,0.09321735041730339,1
+elgin,"Elgin, Ill.",Less than 45k,est,60th to 70th,0.3936230248306998,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,60th to 70th,0.1343115124153499,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,60th to 70th,0.062076749435665914,2
+elgin,"Elgin, Ill.",Greater than 200k,est,60th to 70th,0.012415349887133182,1
+elgin,"Elgin, Ill.",Less than 45k,est,70th to 80th,0.43457538994800693,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,70th to 80th,0.1169844020797227,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,70th to 80th,0.05524263431542461,2
+elgin,"Elgin, Ill.",Greater than 200k,est,70th to 80th,0.04094454072790295,1
+elgin,"Elgin, Ill.",Less than 45k,est,80th to 90th,0.28528289891926256,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,80th to 90th,0.10425937698664971,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,80th to 90th,0.07596948506039415,2
+elgin,"Elgin, Ill.",Greater than 200k,est,80th to 90th,0.0878893833439288,1
+elgin,"Elgin, Ill.",Less than 45k,est,90th to 100th,0.46032732546094884,4
+elgin,"Elgin, Ill.",Between 75 and 100k,est,90th to 100th,0.14563911332090326,3
+elgin,"Elgin, Ill.",Between 120 and 150k,est,90th to 100th,0.03480422622747048,2
+elgin,"Elgin, Ill.",Greater than 200k,est,90th to 100th,0.027346177750155375,1
+elmonte,"El Monte, Calif.",Less than 45k,est,0 to 10th,0.31314821010371363,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,0 to 10th,0.117096018735363,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,0 to 10th,0.1050518568082971,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,0 to 10th,0.12177985948477751,1
+elmonte,"El Monte, Calif.",Less than 45k,est,10th to 20th,0.4492753623188406,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,10th to 20th,0.16106719367588934,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,10th to 20th,0.03985507246376811,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,10th to 20th,0.05204216073781291,1
+elmonte,"El Monte, Calif.",Less than 45k,est,20th to 30th,0.4132860040567951,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,20th to 30th,0.13463488843813387,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,20th to 30th,0.06566937119675456,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,20th to 30th,0.01977687626774848,1
+elmonte,"El Monte, Calif.",Less than 45k,est,30th to 40th,0.5056916177992411,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,30th to 40th,0.12832011038289065,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,30th to 40th,0.03897895826146947,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,30th to 40th,0.011728182131769576,1
+elmonte,"El Monte, Calif.",Less than 45k,est,40th to 50th,0.5183058147882269,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,40th to 50th,0.12383345297918162,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,40th to 50th,0.03732950466618808,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,40th to 50th,0.00466618808327351,1
+elmonte,"El Monte, Calif.",Less than 45k,est,50th to 60th,0.446821900566394,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,50th to 60th,0.10855884203901825,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,50th to 60th,0.04971680302076778,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,50th to 60th,0.018879798615481436,1
+elmonte,"El Monte, Calif.",Less than 45k,est,60th to 70th,0.5295441755768149,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,60th to 70th,0.10945413618458076,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,60th to 70th,0.0469893078221722,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,60th to 70th,0.027855936972425437,1
+elmonte,"El Monte, Calif.",Less than 45k,est,70th to 80th,0.48032088242667337,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,70th to 80th,0.10328403108548509,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,70th to 80th,0.029832038104788166,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,70th to 80th,0.011782401604412133,1
+elmonte,"El Monte, Calif.",Less than 45k,est,80th to 90th,0.46359447004608295,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,80th to 90th,0.10752688172043011,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,80th to 90th,0.04393241167434716,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,80th to 90th,0.013517665130568356,1
+elmonte,"El Monte, Calif.",Less than 45k,est,90th to 100th,0.5485,4
+elmonte,"El Monte, Calif.",Between 75 and 100k,est,90th to 100th,0.0905,3
+elmonte,"El Monte, Calif.",Between 120 and 150k,est,90th to 100th,0.01775,2
+elmonte,"El Monte, Calif.",Greater than 200k,est,90th to 100th,0.01575,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,0 to 10th,0.399702823179792,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,0 to 10th,0.09905894006934125,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,0 to 10th,0.0549777117384844,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,0 to 10th,0.029717682020802376,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,10th to 20th,0.2550043516100957,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,10th to 20th,0.14882506527415143,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,10th to 20th,0.05134899912967798,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,10th to 20th,0.09834638816362054,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,20th to 30th,0.40620782726045884,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,20th to 30th,0.08569500674763833,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,20th to 30th,0.05668016194331984,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,20th to 30th,0.029014844804318488,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,30th to 40th,0.22242479489516864,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,30th to 40th,0.12397447584320875,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,30th to 40th,0.105742935278031,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,30th to 40th,0.1659070191431176,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,40th to 50th,0.27454718779790277,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,40th to 50th,0.1572926596758818,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,40th to 50th,0.06959008579599618,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,40th to 50th,0.03336510962821735,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,50th to 60th,0.18152350081037277,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,50th to 60th,0.07455429497568881,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,50th to 60th,0.11102106969205834,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,50th to 60th,0.20097244732576985,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,60th to 70th,0.15973920130399347,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,60th to 70th,0.21271393643031786,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,60th to 70th,0.08475957620211899,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,60th to 70th,0.07660961695191525,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,70th to 80th,0.41323529411764703,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,70th to 80th,0.14852941176470588,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,70th to 80th,0.041176470588235294,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,70th to 80th,0.041176470588235294,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,80th to 90th,0.22706571242680545,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,80th to 90th,0.17566688353936238,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,80th to 90th,0.062459336369551074,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,80th to 90th,0.048145738451528954,1
+farmersbranch,"Farmers Branch, Texas",Less than 45k,est,90th to 100th,0.25576208178438664,4
+farmersbranch,"Farmers Branch, Texas",Between 75 and 100k,est,90th to 100th,0.14572490706319702,3
+farmersbranch,"Farmers Branch, Texas",Between 120 and 150k,est,90th to 100th,0.05774473358116481,2
+farmersbranch,"Farmers Branch, Texas",Greater than 200k,est,90th to 100th,0.04287484510532838,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,0 to 10th,0.20430260720900414,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,0 to 10th,0.11910528565322695,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,0 to 10th,0.11511611340646816,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,0 to 10th,0.18592392078643682,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,10th to 20th,0.18200066912010707,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,10th to 20th,0.13047842087654735,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,10th to 20th,0.10120441619270659,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,10th to 20th,0.19856139176982268,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,20th to 30th,0.17954366640440597,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,20th to 30th,0.12745869394177814,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,20th to 30th,0.10668764752163651,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,20th to 30th,0.15562549173878837,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,30th to 40th,0.18023590333716916,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,30th to 40th,0.13046605293440736,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,30th to 40th,0.0962313003452244,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,30th to 40th,0.1937571921749137,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,40th to 50th,0.1915966386554622,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,40th to 50th,0.10991596638655463,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,40th to 50th,0.0880672268907563,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,40th to 50th,0.16627450980392156,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,50th to 60th,0.13699003956883612,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,50th to 60th,0.14190203301951154,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,50th to 60th,0.10178741983899577,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,50th to 60th,0.23195524628189385,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,60th to 70th,0.2110042011112617,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,60th to 70th,0.15286624203821655,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,60th to 70th,0.10326602520666757,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,60th to 70th,0.12820165334056105,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,70th to 80th,0.1984659635666347,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,70th to 80th,0.12450349267223668,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,70th to 80th,0.08218052321599781,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,70th to 80th,0.16230653335159567,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,80th to 90th,0.16321211368995905,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,80th to 90th,0.12150924661784783,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,80th to 90th,0.11257291795953829,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,80th to 90th,0.15775102395432544,1
+forsythso,"Forsyth County, Ga.",Less than 45k,est,90th to 100th,0.24295942720763722,4
+forsythso,"Forsyth County, Ga.",Between 75 and 100k,est,90th to 100th,0.15107398568019093,3
+forsythso,"Forsyth County, Ga.",Between 120 and 150k,est,90th to 100th,0.07374701670644392,2
+forsythso,"Forsyth County, Ga.",Greater than 200k,est,90th to 100th,0.08663484486873509,1
+frederick,"Frederick, Md.",Less than 45k,est,0 to 10th,0.24900310146211785,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,0 to 10th,0.14621178555604786,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,0 to 10th,0.0669029685423128,2
+frederick,"Frederick, Md.",Greater than 200k,est,0 to 10th,0.1581745680106336,1
+frederick,"Frederick, Md.",Less than 45k,est,10th to 20th,0.23945012787723785,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,10th to 20th,0.1604859335038363,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,10th to 20th,0.06777493606138107,2
+frederick,"Frederick, Md.",Greater than 200k,est,10th to 20th,0.09718670076726342,1
+frederick,"Frederick, Md.",Less than 45k,est,20th to 30th,0.15837860426243208,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,20th to 30th,0.14417049728374426,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,20th to 30th,0.10196406184705391,2
+frederick,"Frederick, Md.",Greater than 200k,est,20th to 30th,0.12661930631007104,1
+frederick,"Frederick, Md.",Less than 45k,est,30th to 40th,0.31311296767163094,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,30th to 40th,0.13040319651289503,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,30th to 40th,0.05957137667998547,2
+frederick,"Frederick, Md.",Greater than 200k,est,30th to 40th,0.12459135488557936,1
+frederick,"Frederick, Md.",Less than 45k,est,40th to 50th,0.17446307737569874,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,40th to 50th,0.13680494263018536,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,40th to 50th,0.10032362459546926,2
+frederick,"Frederick, Md.",Greater than 200k,est,40th to 50th,0.09767578699617535,1
+frederick,"Frederick, Md.",Less than 45k,est,50th to 60th,0.41457286432160806,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,50th to 60th,0.11746231155778894,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,50th to 60th,0.0364321608040201,2
+frederick,"Frederick, Md.",Greater than 200k,est,50th to 60th,0.03329145728643216,1
+frederick,"Frederick, Md.",Less than 45k,est,60th to 70th,0.3190626408292023,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,60th to 70th,0.18386660657954032,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,60th to 70th,0.10094637223974763,2
+frederick,"Frederick, Md.",Greater than 200k,est,60th to 70th,0.06128886885984678,1
+frederick,"Frederick, Md.",Less than 45k,est,70th to 80th,0.3941195903534853,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,70th to 80th,0.14337628014535844,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,70th to 80th,0.05219689461513049,2
+frederick,"Frederick, Md.",Greater than 200k,est,70th to 80th,0.005285761480013214,1
+frederick,"Frederick, Md.",Less than 45k,est,80th to 90th,0.2607190412782956,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,80th to 90th,0.1448735019973369,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,80th to 90th,0.08442077230359521,2
+frederick,"Frederick, Md.",Greater than 200k,est,80th to 90th,0.07030625832223701,1
+frederick,"Frederick, Md.",Less than 45k,est,90th to 100th,0.3922185105128709,4
+frederick,"Frederick, Md.",Between 75 and 100k,est,90th to 100th,0.12124189428178424,3
+frederick,"Frederick, Md.",Between 120 and 150k,est,90th to 100th,0.022597759874238555,2
+frederick,"Frederick, Md.",Greater than 200k,est,90th to 100th,0.01984672823737473,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,0 to 10th,0.3529367011564212,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,0 to 10th,0.1365642118076689,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,0 to 10th,0.05964698721850274,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,0 to 10th,0.07509129640900791,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,10th to 20th,0.3089983022071307,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,10th to 20th,0.15200905489530278,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,10th to 20th,0.07226938313525749,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,10th to 20th,0.08262591963780419,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,20th to 30th,0.39320758831225466,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,20th to 30th,0.15160270388137811,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,20th to 30th,0.04797208896641954,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,20th to 30th,0.03946794592237244,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,30th to 40th,0.4366493369939833,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,30th to 40th,0.13137449617384192,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,30th to 40th,0.034055727554179564,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,30th to 40th,0.05508499328231789,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,40th to 50th,0.3775749292199551,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,40th to 50th,0.13101630381724105,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,40th to 50th,0.07463633701064142,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,40th to 50th,0.07038953431611833,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,50th to 60th,0.41553734635991174,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,50th to 60th,0.1254727387330602,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,50th to 60th,0.05598014497321147,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,50th to 60th,0.04420107154112827,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,60th to 70th,0.523659626320065,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,60th to 70th,0.09352152721364744,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,60th to 70th,0.04066815597075548,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,60th to 70th,0.016348497156783104,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,70th to 80th,0.5891513256917912,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,70th to 80th,0.08643047354405464,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,70th to 80th,0.023503531318744934,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,70th to 80th,0.0140673845085099,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,80th to 90th,0.5822647838554347,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,80th to 90th,0.07953254341827626,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,80th to 90th,0.031650706054211976,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,80th to 90th,0.014445706865768545,1
+fresnopd,"Fresno, Calif.",Less than 45k,est,90th to 100th,0.6997471228776384,4
+fresnopd,"Fresno, Calif.",Between 75 and 100k,est,90th to 100th,0.0680703927336533,3
+fresnopd,"Fresno, Calif.",Between 120 and 150k,est,90th to 100th,0.014398513701811427,2
+fresnopd,"Fresno, Calif.",Greater than 200k,est,90th to 100th,0.003767353047427362,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,0 to 10th,0.3892882818116463,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,0 to 10th,0.12904385334291876,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,0 to 10th,0.037742631200575125,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,0 to 10th,0.08303378864126527,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,10th to 20th,0.38788447992486497,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,10th to 20th,0.12092040385066917,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,10th to 20th,0.07865696172810518,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,10th to 20th,0.07137825780699694,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,20th to 30th,0.645906579608237,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,20th to 30th,0.09291813159216473,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,20th to 30th,0.012556504269211451,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,20th to 30th,0.045705675539929685,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,30th to 40th,0.4341745211310429,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,30th to 40th,0.10945576162967467,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,30th to 40th,0.06232897537245363,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,30th to 40th,0.03587716631194892,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,40th to 50th,0.5410562180579216,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,40th to 50th,0.0797274275979557,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,40th to 50th,0.03713798977853492,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,40th to 50th,0.016354344122657582,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,50th to 60th,0.5747168432590427,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,50th to 60th,0.08951406649616368,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,50th to 60th,0.03251735476799415,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,50th to 60th,0.021191085129704055,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,60th to 70th,0.412327947336924,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,60th to 70th,0.12327947336923997,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,60th to 70th,0.031119090365050867,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,60th to 70th,0.04727707959305805,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,70th to 80th,0.6909465020576132,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,70th to 80th,0.08436213991769548,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,70th to 80th,0.01810699588477366,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,70th to 80th,0.00205761316872428,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,80th to 90th,0.6142722414335114,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,80th to 90th,0.05721471235460547,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,80th to 90th,0.03269412134548884,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,80th to 90th,0.06633134234517447,1
+ftmyerspd,"Fort Myers, Fla.",Less than 45k,est,90th to 100th,0.4836272040302267,4
+ftmyerspd,"Fort Myers, Fla.",Between 75 and 100k,est,90th to 100th,0.0796765212780061,3
+ftmyerspd,"Fort Myers, Fla.",Between 120 and 150k,est,90th to 100th,0.06283971894471696,2
+ftmyerspd,"Fort Myers, Fla.",Greater than 200k,est,90th to 100th,0.051173273233461485,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,0 to 10th,0,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,0 to 10th,0,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,0 to 10th,0,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,0 to 10th,0,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,10th to 20th,0,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,10th to 20th,0,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,10th to 20th,0,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,10th to 20th,0,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,20th to 30th,0,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,20th to 30th,0,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,20th to 30th,0,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,20th to 30th,0,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,30th to 40th,0.3327532196310477,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,30th to 40th,0.14027149321266968,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,30th to 40th,0.05777932474765054,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,30th to 40th,0.0991994430908458,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,40th to 50th,0.2618279569892473,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,40th to 50th,0.16559139784946236,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,40th to 50th,0.11370967741935484,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,40th to 50th,0.05860215053763441,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,50th to 60th,0.235423197492163,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,50th to 60th,0.14796238244514107,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,50th to 60th,0.09780564263322884,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,50th to 60th,0.07742946708463949,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,60th to 70th,0.19593147751605997,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,60th to 70th,0.17194860813704496,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,60th to 70th,0.09079229122055675,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,60th to 70th,0.07773019271948609,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,70th to 80th,0.17355371900826447,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,70th to 80th,0.11968166513621059,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,70th to 80th,0.1564126109580655,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,70th to 80th,0.06825834098561372,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,80th to 90th,0.35819975339087545,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,80th to 90th,0.14385532264693793,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,80th to 90th,0.07377722975750103,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,80th to 90th,0.06720098643649815,1
+gloucestertwppd,"Gloucester township , N.J",Less than 45k,est,90th to 100th,0.39115929941618016,4
+gloucestertwppd,"Gloucester township , N.J",Between 75 and 100k,est,90th to 100th,0.12527105921601334,3
+gloucestertwppd,"Gloucester township , N.J",Between 120 and 150k,est,90th to 100th,0.08557130942452043,2
+gloucestertwppd,"Gloucester township , N.J",Greater than 200k,est,90th to 100th,0.04020016680567139,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,0 to 10th,0.25674740484429065,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,0 to 10th,0.1930795847750865,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,0 to 10th,0.02422145328719723,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,0 to 10th,0.10934256055363321,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,10th to 20th,0.6219931271477663,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,10th to 20th,0.029209621993127148,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,10th to 20th,0.02577319587628866,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,10th to 20th,0.029209621993127148,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,20th to 30th,0.37267080745341613,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,20th to 30th,0.13043478260869565,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,20th to 30th,0.043478260869565216,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,20th to 30th,0.031055900621118012,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,30th to 40th,0.4445927903871829,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,30th to 40th,0.14686248331108145,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,30th to 40th,0.042723631508678236,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,30th to 40th,0.04672897196261682,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,40th to 50th,0.6390532544378699,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,40th to 50th,0.014792899408284023,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,40th to 50th,0.014792899408284023,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,40th to 50th,0.04142011834319527,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,50th to 60th,0.6821052631578948,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,50th to 60th,0.07578947368421053,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,50th to 60th,0,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,50th to 60th,0.029473684210526315,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,60th to 70th,0.6842105263157895,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,60th to 70th,0.09263157894736843,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,60th to 70th,0,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,60th to 70th,0,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,70th to 80th,0.5777126099706745,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,70th to 80th,0.08211143695014662,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,70th to 80th,0,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,70th to 80th,0.04105571847507331,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,80th to 90th,0.5194174757281553,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,80th to 90th,0.05242718446601942,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,80th to 90th,0.059223300970873784,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,80th to 90th,0.037864077669902914,1
+gvpd,"Grass Valley, Calif.",Less than 45k,est,90th to 100th,0.6409883720930233,4
+gvpd,"Grass Valley, Calif.",Between 75 and 100k,est,90th to 100th,0.09375,3
+gvpd,"Grass Valley, Calif.",Between 120 and 150k,est,90th to 100th,0.030523255813953487,2
+gvpd,"Grass Valley, Calif.",Greater than 200k,est,90th to 100th,0.005813953488372093,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,0 to 10th,0.16380789022298456,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,0 to 10th,0.14493996569468268,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,0 to 10th,0.05231560891938251,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,0 to 10th,0.11149228130360206,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,10th to 20th,0.15757290686735653,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,10th to 20th,0.08984007525870179,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,10th to 20th,0.13029162746942616,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,10th to 20th,0.08043273753527752,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,20th to 30th,0.19808949220713926,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,20th to 30th,0.2066365007541478,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,20th to 30th,0.08396178984414278,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,20th to 30th,0.06535947712418301,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,30th to 40th,0.35228095582910934,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,30th to 40th,0.13540912382331644,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,30th to 40th,0.10861694424330195,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,30th to 40th,0.05286024619840695,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,40th to 50th,0.2107375815353738,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,40th to 50th,0.11339688911189162,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,40th to 50th,0.08178625188158554,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,40th to 50th,0.11490215755143,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,50th to 60th,0.29545454545454547,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,50th to 60th,0.19545454545454546,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,50th to 60th,0.0959090909090909,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,50th to 60th,0.04090909090909091,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,60th to 70th,0.34595744680851065,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,60th to 70th,0.09489361702127659,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,60th to 70th,0.07829787234042553,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,60th to 70th,0.06595744680851064,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,70th to 80th,0.30878951426368545,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,70th to 80th,0.17501927525057825,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,70th to 80th,0.07787201233616037,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,70th to 80th,0.03469545104086353,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,80th to 90th,0.48580626280362893,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,80th to 90th,0.11530582382206614,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,80th to 90th,0.02048580626280363,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,80th to 90th,0.033947907521217444,1
+haverhill,"Haverhill, Mass.",Less than 45k,est,90th to 100th,0.5222034851039911,4
+haverhill,"Haverhill, Mass.",Between 75 and 100k,est,90th to 100th,0.112141652613828,3
+haverhill,"Haverhill, Mass.",Between 120 and 150k,est,90th to 100th,0.05255761663856099,2
+haverhill,"Haverhill, Mass.",Greater than 200k,est,90th to 100th,0.031197301854974706,1
+homewood,"Homewood, Ala.",Less than 45k,est,0 to 10th,0.18478747203579418,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,0 to 10th,0.09082774049217002,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,0 to 10th,0.12259507829977628,2
+homewood,"Homewood, Ala.",Greater than 200k,est,0 to 10th,0.26666666666666666,1
+homewood,"Homewood, Ala.",Less than 45k,est,10th to 20th,0.30474732006125577,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,10th to 20th,0.16156202143950996,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,10th to 20th,0.05359877488514548,2
+homewood,"Homewood, Ala.",Greater than 200k,est,10th to 20th,0.08728943338437979,1
+homewood,"Homewood, Ala.",Less than 45k,est,20th to 30th,0.6663851351351351,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,20th to 30th,0.04222972972972973,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,20th to 30th,0.016891891891891893,2
+homewood,"Homewood, Ala.",Greater than 200k,est,20th to 30th,0.03547297297297297,1
+homewood,"Homewood, Ala.",Less than 45k,est,30th to 40th,0.3937677053824363,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,30th to 40th,0.09405099150141644,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,30th to 40th,0.04815864022662889,2
+homewood,"Homewood, Ala.",Greater than 200k,est,30th to 40th,0.031161473087818695,1
+homewood,"Homewood, Ala.",Less than 45k,est,40th to 50th,0.32682926829268294,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,40th to 50th,0.055609756097560976,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,40th to 50th,0.07707317073170732,2
+homewood,"Homewood, Ala.",Greater than 200k,est,40th to 50th,0.11902439024390243,1
+homewood,"Homewood, Ala.",Less than 45k,est,50th to 60th,0.2988293284041898,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,50th to 60th,0.10474430067775724,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,50th to 60th,0.11768330252618607,2
+homewood,"Homewood, Ala.",Greater than 200k,est,50th to 60th,0.15095502156500307,1
+homewood,"Homewood, Ala.",Less than 45k,est,60th to 70th,0.17682242990654207,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,60th to 70th,0.07738317757009346,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,60th to 70th,0.09981308411214954,2
+homewood,"Homewood, Ala.",Greater than 200k,est,60th to 70th,0.20299065420560747,1
+homewood,"Homewood, Ala.",Less than 45k,est,70th to 80th,0.43290371493555724,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,70th to 80th,0.0841546626231994,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,70th to 80th,0.0310841546626232,2
+homewood,"Homewood, Ala.",Greater than 200k,est,70th to 80th,0.09931766489764973,1
+homewood,"Homewood, Ala.",Less than 45k,est,80th to 90th,0.4330117899249732,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,80th to 90th,0.11789924973204716,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,80th to 90th,0.03322615219721329,2
+homewood,"Homewood, Ala.",Greater than 200k,est,80th to 90th,0.05787781350482315,1
+homewood,"Homewood, Ala.",Less than 45k,est,90th to 100th,0.4487568223165555,4
+homewood,"Homewood, Ala.",Between 75 and 100k,est,90th to 100th,0.09338993329290479,3
+homewood,"Homewood, Ala.",Between 120 and 150k,est,90th to 100th,0.030927835051546393,2
+homewood,"Homewood, Ala.",Greater than 200k,est,90th to 100th,0.01879927228623408,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,0 to 10th,0.24648985959438377,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,0 to 10th,0.08346333853354135,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,0 to 10th,0.0873634945397816,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,0 to 10th,0.06786271450858035,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,10th to 20th,0.413075780089153,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,10th to 20th,0.0713224368499257,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,10th to 20th,0.04457652303120357,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,10th to 20th,0,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,20th to 30th,0.4887063655030801,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,20th to 30th,0.17659137577002054,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,20th to 30th,0.006160164271047228,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,20th to 30th,0.030800821355236138,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,30th to 40th,0.5197183098591549,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,30th to 40th,0.09295774647887324,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,30th to 40th,0,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,30th to 40th,0.05352112676056338,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,40th to 50th,0.580078125,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,40th to 50th,0.056640625,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,40th to 50th,0,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,40th to 50th,0.01953125,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,50th to 60th,0.6059850374064838,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,50th to 60th,0,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,50th to 60th,0.05486284289276808,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,50th to 60th,0.03740648379052369,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,60th to 70th,0.4094616639477977,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,60th to 70th,0.08319738988580751,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,60th to 70th,0.024469820554649267,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,60th to 70th,0.02936378466557912,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,70th to 80th,0.6483739837398373,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,70th to 80th,0.016260162601626018,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,70th to 80th,0.06910569105691057,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,70th to 80th,0,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,80th to 90th,0.556657223796034,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,80th to 90th,0.07223796033994334,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,80th to 90th,0.06940509915014165,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,80th to 90th,0.007082152974504249,1
+jacksonvilletx,"Jacksonville, Texas",Less than 45k,est,90th to 100th,0.667989417989418,4
+jacksonvilletx,"Jacksonville, Texas",Between 75 and 100k,est,90th to 100th,0.12301587301587301,3
+jacksonvilletx,"Jacksonville, Texas",Between 120 and 150k,est,90th to 100th,0,2
+jacksonvilletx,"Jacksonville, Texas",Greater than 200k,est,90th to 100th,0,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,0 to 10th,0,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,0 to 10th,0,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,0 to 10th,0,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,0 to 10th,0,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,10th to 20th,0,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,10th to 20th,0,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,10th to 20th,0,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,10th to 20th,0,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,20th to 30th,0,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,20th to 30th,0,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,20th to 30th,0,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,20th to 30th,0,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,30th to 40th,0,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,30th to 40th,0,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,30th to 40th,0,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,30th to 40th,0,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,40th to 50th,0,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,40th to 50th,0,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,40th to 50th,0,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,40th to 50th,0,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,50th to 60th,0.3889230348972205,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,50th to 60th,0.12627193881035306,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,50th to 60th,0.04527760704773612,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,50th to 60th,0.05989209861367206,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,60th to 70th,0.4144137931034483,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,60th to 70th,0.1153448275862069,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,60th to 70th,0.04610344827586207,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,60th to 70th,0.05517241379310345,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,70th to 80th,0.47329453051442266,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,70th to 80th,0.10318411366943422,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,70th to 80th,0.04352477959428229,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,70th to 80th,0.039544637507489516,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,80th to 90th,0.3801109978480009,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,80th to 90th,0.13073394495412843,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,80th to 90th,0.06045418507192207,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,80th to 90th,0.047542190508551366,1
+jeffcomacc,"Jefferson County, Ala.",Less than 45k,est,90th to 100th,0.4254921977541199,4
+jeffcomacc,"Jefferson County, Ala.",Between 75 and 100k,est,90th to 100th,0.14851976082835058,3
+jeffcomacc,"Jefferson County, Ala.",Between 120 and 150k,est,90th to 100th,0.041505031354819893,2
+jeffcomacc,"Jefferson County, Ala.",Greater than 200k,est,90th to 100th,0.02549219775411988,1
+la,"Los Angeles, Calif.",Less than 45k,est,0 to 10th,0.34121536558398197,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,0 to 10th,0.10879393959298062,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,0 to 10th,0.06201626763878398,2
+la,"Los Angeles, Calif.",Greater than 200k,est,0 to 10th,0.11460693837783398,1
+la,"Los Angeles, Calif.",Less than 45k,est,10th to 20th,0.3192397390261635,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,10th to 20th,0.1092804335715837,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,10th to 20th,0.06124009781797925,2
+la,"Los Angeles, Calif.",Greater than 200k,est,10th to 20th,0.15236377713363106,1
+la,"Los Angeles, Calif.",Less than 45k,est,20th to 30th,0.390631513573756,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,20th to 30th,0.11144857626570702,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,20th to 30th,0.05530741941247033,2
+la,"Los Angeles, Calif.",Greater than 200k,est,20th to 30th,0.10003147784215138,1
+la,"Los Angeles, Calif.",Less than 45k,est,30th to 40th,0.37563014215237317,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,30th to 40th,0.11303691959578546,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,30th to 40th,0.056260630642417896,2
+la,"Los Angeles, Calif.",Greater than 200k,est,30th to 40th,0.10695676936219994,1
+la,"Los Angeles, Calif.",Less than 45k,est,40th to 50th,0.4161035341254691,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,40th to 50th,0.10523985454123147,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,40th to 50th,0.05726168787335506,2
+la,"Los Angeles, Calif.",Greater than 200k,est,40th to 50th,0.0902584723925935,1
+la,"Los Angeles, Calif.",Less than 45k,est,50th to 60th,0.4158288894716904,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,50th to 60th,0.11112568114928462,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,50th to 60th,0.053297199638663056,2
+la,"Los Angeles, Calif.",Greater than 200k,est,50th to 60th,0.08047032083224058,1
+la,"Los Angeles, Calif.",Less than 45k,est,60th to 70th,0.4117446436976051,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,60th to 70th,0.11379712557041807,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,60th to 70th,0.05591972879136171,2
+la,"Los Angeles, Calif.",Greater than 200k,est,60th to 70th,0.088845385155829,1
+la,"Los Angeles, Calif.",Less than 45k,est,70th to 80th,0.4544668529949933,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,70th to 80th,0.1066294010013472,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,70th to 80th,0.04723892251288547,2
+la,"Los Angeles, Calif.",Greater than 200k,est,70th to 80th,0.06142132319921715,1
+la,"Los Angeles, Calif.",Less than 45k,est,80th to 90th,0.4348437520251967,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,80th to 90th,0.11171957020465828,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,80th to 90th,0.052311640506525994,2
+la,"Los Angeles, Calif.",Greater than 200k,est,80th to 90th,0.07328943787020595,1
+la,"Los Angeles, Calif.",Less than 45k,est,90th to 100th,0.43907969323107704,4
+la,"Los Angeles, Calif.",Between 75 and 100k,est,90th to 100th,0.10728020451261532,3
+la,"Los Angeles, Calif.",Between 120 and 150k,est,90th to 100th,0.05307880404579304,2
+la,"Los Angeles, Calif.",Greater than 200k,est,90th to 100th,0.07416361009225297,1
+livermore,"Livermore, Calif.",Less than 45k,est,0 to 10th,0.09171005206247497,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,0 to 10th,0.11333600320384461,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,0 to 10th,0.09331197436924309,2
+livermore,"Livermore, Calif.",Greater than 200k,est,0 to 10th,0.23307969563476172,1
+livermore,"Livermore, Calif.",Less than 45k,est,10th to 20th,0.10284237726098192,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,10th to 20th,0.13540051679586562,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,10th to 20th,0.08320413436692506,2
+livermore,"Livermore, Calif.",Greater than 200k,est,10th to 20th,0.28527131782945736,1
+livermore,"Livermore, Calif.",Less than 45k,est,20th to 30th,0.11476997578692494,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,20th to 30th,0.13559322033898305,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,20th to 30th,0.11186440677966102,2
+livermore,"Livermore, Calif.",Greater than 200k,est,20th to 30th,0.1539951573849879,1
+livermore,"Livermore, Calif.",Less than 45k,est,30th to 40th,0.12614980289093297,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,30th to 40th,0.07818659658344283,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,30th to 40th,0.12549277266754272,2
+livermore,"Livermore, Calif.",Greater than 200k,est,30th to 40th,0.26938239159001315,1
+livermore,"Livermore, Calif.",Less than 45k,est,40th to 50th,0.24065554916618748,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,40th to 50th,0.121046578493387,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,40th to 50th,0.07303047728579644,2
+livermore,"Livermore, Calif.",Greater than 200k,est,40th to 50th,0.11730879815986199,1
+livermore,"Livermore, Calif.",Less than 45k,est,50th to 60th,0.2910330361824856,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,50th to 60th,0.09910854745673833,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,50th to 60th,0.12585212375458835,2
+livermore,"Livermore, Calif.",Greater than 200k,est,50th to 60th,0.18982695332983743,1
+livermore,"Livermore, Calif.",Less than 45k,est,60th to 70th,0.14683007306151308,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,60th to 70th,0.09568701390525572,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,60th to 70th,0.07070469007777516,2
+livermore,"Livermore, Calif.",Greater than 200k,est,60th to 70th,0.27079896299787887,1
+livermore,"Livermore, Calif.",Less than 45k,est,70th to 80th,0.18531781557743957,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,70th to 80th,0.11168307967770814,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,70th to 80th,0.13115487914055507,2
+livermore,"Livermore, Calif.",Greater than 200k,est,70th to 80th,0.14659803043867503,1
+livermore,"Livermore, Calif.",Less than 45k,est,80th to 90th,0.11512624507760019,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,80th to 90th,0.09543664581885569,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,80th to 90th,0.08918230252490156,2
+livermore,"Livermore, Calif.",Greater than 200k,est,80th to 90th,0.3516330785267547,1
+livermore,"Livermore, Calif.",Less than 45k,est,90th to 100th,0.20509679000245037,4
+livermore,"Livermore, Calif.",Between 75 and 100k,est,90th to 100th,0.1038961038961039,3
+livermore,"Livermore, Calif.",Between 120 and 150k,est,90th to 100th,0.08723352119578534,2
+livermore,"Livermore, Calif.",Greater than 200k,est,90th to 100th,0.21293800539083557,1
+merced,"Merced, Calif.",Less than 45k,est,0 to 10th,0.22465613856342334,4
+merced,"Merced, Calif.",Between 75 and 100k,est,0 to 10th,0.1390728476821192,3
+merced,"Merced, Calif.",Between 120 and 150k,est,0 to 10th,0.06928171166581763,2
+merced,"Merced, Calif.",Greater than 200k,est,0 to 10th,0.11818644931227713,1
+merced,"Merced, Calif.",Less than 45k,est,10th to 20th,0.28950448692937963,4
+merced,"Merced, Calif.",Between 75 and 100k,est,10th to 20th,0.09715177526336324,3
+merced,"Merced, Calif.",Between 120 and 150k,est,10th to 20th,0.053843152555598905,2
+merced,"Merced, Calif.",Greater than 200k,est,10th to 20th,0.08271556769410847,1
+merced,"Merced, Calif.",Less than 45k,est,20th to 30th,0.3739484396200814,4
+merced,"Merced, Calif.",Between 75 and 100k,est,20th to 30th,0.11994572591587517,3
+merced,"Merced, Calif.",Between 120 and 150k,est,20th to 30th,0.06485753052917231,2
+merced,"Merced, Calif.",Greater than 200k,est,20th to 30th,0.0966078697421981,1
+merced,"Merced, Calif.",Less than 45k,est,30th to 40th,0.4198680636398913,4
+merced,"Merced, Calif.",Between 75 and 100k,est,30th to 40th,0.1715172681412495,3
+merced,"Merced, Calif.",Between 120 and 150k,est,30th to 40th,0.038804811796662786,2
+merced,"Merced, Calif.",Greater than 200k,est,30th to 40th,0.017462165308498253,1
+merced,"Merced, Calif.",Less than 45k,est,40th to 50th,0.6882282040980313,4
+merced,"Merced, Calif.",Between 75 and 100k,est,40th to 50th,0.06227400562474889,3
+merced,"Merced, Calif.",Between 120 and 150k,est,40th to 50th,0.023302531137002813,2
+merced,"Merced, Calif.",Greater than 200k,est,40th to 50th,0.014061872237846525,1
+merced,"Merced, Calif.",Less than 45k,est,50th to 60th,0.5766823161189358,4
+merced,"Merced, Calif.",Between 75 and 100k,est,50th to 60th,0.11971830985915492,3
+merced,"Merced, Calif.",Between 120 and 150k,est,50th to 60th,0.030907668231611892,2
+merced,"Merced, Calif.",Greater than 200k,est,50th to 60th,0,1
+merced,"Merced, Calif.",Less than 45k,est,60th to 70th,0.6893802102210946,4
+merced,"Merced, Calif.",Between 75 and 100k,est,60th to 70th,0.07538963392533526,3
+merced,"Merced, Calif.",Between 120 and 150k,est,60th to 70th,0.027183762232693004,2
+merced,"Merced, Calif.",Greater than 200k,est,60th to 70th,0.012323305545487495,1
+merced,"Merced, Calif.",Less than 45k,est,70th to 80th,0.4002233804914371,4
+merced,"Merced, Calif.",Between 75 and 100k,est,70th to 80th,0.11727475800446761,3
+merced,"Merced, Calif.",Between 120 and 150k,est,70th to 80th,0.04895755770662696,2
+merced,"Merced, Calif.",Greater than 200k,est,70th to 80th,0.05472822040208489,1
+merced,"Merced, Calif.",Less than 45k,est,80th to 90th,0.7469823584029712,4
+merced,"Merced, Calif.",Between 75 and 100k,est,80th to 90th,0.030176415970287838,3
+merced,"Merced, Calif.",Between 120 and 150k,est,80th to 90th,0.015784586815227482,2
+merced,"Merced, Calif.",Greater than 200k,est,80th to 90th,0.01021355617455896,1
+merced,"Merced, Calif.",Less than 45k,est,90th to 100th,0.674671669793621,4
+merced,"Merced, Calif.",Between 75 and 100k,est,90th to 100th,0.04878048780487805,3
+merced,"Merced, Calif.",Between 120 and 150k,est,90th to 100th,0.025891181988742965,2
+merced,"Merced, Calif.",Greater than 200k,est,90th to 100th,0.007879924953095686,1
+modesto,"Modesto, Calif.",Less than 45k,est,0 to 10th,0.4373568281938326,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,0 to 10th,0.09779735682819383,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,0 to 10th,0.04158590308370044,2
+modesto,"Modesto, Calif.",Greater than 200k,est,0 to 10th,0.03647577092511013,1
+modesto,"Modesto, Calif.",Less than 45k,est,10th to 20th,0.4040713145290048,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,10th to 20th,0.1523416711016498,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,10th to 20th,0.03299627461415647,2
+modesto,"Modesto, Calif.",Greater than 200k,est,10th to 20th,0.032197977647684936,1
+modesto,"Modesto, Calif.",Less than 45k,est,20th to 30th,0.3588737918475977,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,20th to 30th,0.15702479338842976,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,20th to 30th,0.05631040762011486,2
+modesto,"Modesto, Calif.",Greater than 200k,est,20th to 30th,0.04510435635243031,1
+modesto,"Modesto, Calif.",Less than 45k,est,30th to 40th,0.2750301568154403,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,30th to 40th,0.1405307599517491,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,30th to 40th,0.0586248492159228,2
+modesto,"Modesto, Calif.",Greater than 200k,est,30th to 40th,0.05054282267792521,1
+modesto,"Modesto, Calif.",Less than 45k,est,40th to 50th,0.43072682431452197,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,40th to 50th,0.12041201218627594,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,40th to 50th,0.0525170462788336,2
+modesto,"Modesto, Calif.",Greater than 200k,est,40th to 50th,0.020890758740751487,1
+modesto,"Modesto, Calif.",Less than 45k,est,50th to 60th,0.4655131264916468,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,50th to 60th,0.11372315035799523,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,50th to 60th,0.06360381861575179,2
+modesto,"Modesto, Calif.",Greater than 200k,est,50th to 60th,0.06026252983293556,1
+modesto,"Modesto, Calif.",Less than 45k,est,60th to 70th,0.45585215605749485,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,60th to 70th,0.11909650924024641,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,60th to 70th,0.07708102985310378,2
+modesto,"Modesto, Calif.",Greater than 200k,est,60th to 70th,0.03238035065550466,1
+modesto,"Modesto, Calif.",Less than 45k,est,70th to 80th,0.45534497708410754,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,70th to 80th,0.12275486188529666,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,70th to 80th,0.045336306205871424,2
+modesto,"Modesto, Calif.",Greater than 200k,est,70th to 80th,0.023659110615632355,1
+modesto,"Modesto, Calif.",Less than 45k,est,80th to 90th,0.52624133540812,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,80th to 90th,0.10383363983590324,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,80th to 90th,0.055594850756825576,2
+modesto,"Modesto, Calif.",Greater than 200k,est,80th to 90th,0.03579006931673504,1
+modesto,"Modesto, Calif.",Less than 45k,est,90th to 100th,0.36499054820415877,4
+modesto,"Modesto, Calif.",Between 75 and 100k,est,90th to 100th,0.12688090737240076,3
+modesto,"Modesto, Calif.",Between 120 and 150k,est,90th to 100th,0.07107750472589792,2
+modesto,"Modesto, Calif.",Greater than 200k,est,90th to 100th,0.05512287334593573,1
+nilespolice,"Niles, Ill.",Less than 45k,est,0 to 10th,0.2682060390763766,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,0 to 10th,0.13676731793960922,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,0 to 10th,0.035523978685612786,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,0 to 10th,0.09680284191829484,1
+nilespolice,"Niles, Ill.",Less than 45k,est,10th to 20th,0.20018450184501846,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,10th to 20th,0.19280442804428044,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,10th to 20th,0.015682656826568265,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,10th to 20th,0.09040590405904059,1
+nilespolice,"Niles, Ill.",Less than 45k,est,20th to 30th,0.4636530238240684,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,20th to 30th,0.1178985949908369,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,20th to 30th,0.06536346976175932,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,20th to 30th,0.028711056811240074,1
+nilespolice,"Niles, Ill.",Less than 45k,est,30th to 40th,0.47592067988668557,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,30th to 40th,0.053824362606232294,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,30th to 40th,0.09820585457979225,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,30th to 40th,0.02077431539187913,1
+nilespolice,"Niles, Ill.",Less than 45k,est,40th to 50th,0.3434622467771639,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,40th to 50th,0.19337016574585636,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,40th to 50th,0.09208103130755065,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,40th to 50th,0.043278084714548803,1
+nilespolice,"Niles, Ill.",Less than 45k,est,50th to 60th,0.30279595478881616,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,50th to 60th,0.1041046995835812,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,50th to 60th,0.08804283164782867,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,50th to 60th,0.034503271861986914,1
+nilespolice,"Niles, Ill.",Less than 45k,est,60th to 70th,0.27438468550592526,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,60th to 70th,0.16317228805834094,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,60th to 70th,0.04649042844120328,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,60th to 70th,0.03828623518687329,1
+nilespolice,"Niles, Ill.",Less than 45k,est,70th to 80th,0.4464385866517106,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,70th to 80th,0.142456533931576,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,70th to 80th,0.05945036455412227,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,70th to 80th,0.04262478968031408,1
+nilespolice,"Niles, Ill.",Less than 45k,est,80th to 90th,0.48583964898284804,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,80th to 90th,0.08137215795771839,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,80th to 90th,0.022337455125648185,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,80th to 90th,0.0362983645791783,1
+nilespolice,"Niles, Ill.",Less than 45k,est,90th to 100th,0.3321321321321321,4
+nilespolice,"Niles, Ill.",Between 75 and 100k,est,90th to 100th,0.11171171171171171,3
+nilespolice,"Niles, Ill.",Between 120 and 150k,est,90th to 100th,0.0894894894894895,2
+nilespolice,"Niles, Ill.",Greater than 200k,est,90th to 100th,0.05945945945945946,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,0 to 10th,0,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,0 to 10th,0,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,0 to 10th,0,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,0 to 10th,0,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,10th to 20th,0.4863081491257011,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,10th to 20th,0.10161662817551963,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,10th to 20th,0.036291652919828436,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,10th to 20th,0.037611349389640385,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,20th to 30th,0.5712221901184629,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,20th to 30th,0.08436867957237792,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,20th to 30th,0.022247905229702398,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,20th to 30th,0.023114706732158336,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,30th to 40th,0.5059021922428331,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,30th to 40th,0.0733558178752108,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,30th to 40th,0.046795952782462055,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,30th to 40th,0.02782462057335582,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,40th to 50th,0.5492102065613609,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,40th to 50th,0.07047387606318348,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,40th to 50th,0.010935601458080195,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,40th to 50th,0.04698258404212231,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,50th to 60th,0.579324462640737,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,50th to 60th,0.0511770726714432,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,50th to 60th,0.03411804844762879,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,50th to 60th,0.019106107130672127,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,60th to 70th,0.7089771891096395,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,60th to 70th,0.06254598969830757,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,60th to 70th,0.00772626931567329,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,60th to 70th,0.006622516556291391,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,70th to 80th,0.4505966587112172,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,70th to 80th,0.09116945107398568,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,70th to 80th,0.04821002386634845,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,70th to 80th,0.07470167064439141,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,80th to 90th,0.5868350740830702,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,80th to 90th,0.1025018217148409,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,80th to 90th,0.025261112460529513,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,80th to 90th,0.022103473402963324,1
+ocalapdcom,"Ocala, Fla.",Less than 45k,est,90th to 100th,0.6982626469085335,4
+ocalapdcom,"Ocala, Fla.",Between 75 and 100k,est,90th to 100th,0.056719468574348494,3
+ocalapdcom,"Ocala, Fla.",Between 120 and 150k,est,90th to 100th,0,2
+ocalapdcom,"Ocala, Fla.",Greater than 200k,est,90th to 100th,0.016862544711292796,1
+ocfl,"Orange County, Fla.",Less than 45k,est,0 to 10th,0,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,0 to 10th,0,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,0 to 10th,0,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,0 to 10th,0,1
+ocfl,"Orange County, Fla.",Less than 45k,est,10th to 20th,0,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,10th to 20th,0,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,10th to 20th,0,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,10th to 20th,0,1
+ocfl,"Orange County, Fla.",Less than 45k,est,20th to 30th,0.46604399932481855,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,20th to 30th,0.08884262645586001,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,20th to 30th,0.0406234175434648,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,20th to 30th,0.0722444156867158,1
+ocfl,"Orange County, Fla.",Less than 45k,est,30th to 40th,0.42291135422664583,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,30th to 40th,0.10128595322310877,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,30th to 40th,0.04318499629842889,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,30th to 40th,0.057963861698335666,1
+ocfl,"Orange County, Fla.",Less than 45k,est,40th to 50th,0.3624487390418191,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,40th to 50th,0.1411241804385728,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,40th to 50th,0.05972055103995285,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,40th to 50th,0.05952410185890038,1
+ocfl,"Orange County, Fla.",Less than 45k,est,50th to 60th,0.3503638876093966,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,50th to 60th,0.12033164440350069,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,50th to 60th,0.05586365730078305,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,50th to 60th,0.0823399355135882,1
+ocfl,"Orange County, Fla.",Less than 45k,est,60th to 70th,0.41905972885050446,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,60th to 70th,0.12723549713493074,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,60th to 70th,0.04146506597090344,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,60th to 70th,0.03864128011625411,1
+ocfl,"Orange County, Fla.",Less than 45k,est,70th to 80th,0.3377092221857565,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,70th to 80th,0.13698434668455073,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,70th to 80th,0.06017322812174484,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,70th to 80th,0.06937686391461309,1
+ocfl,"Orange County, Fla.",Less than 45k,est,80th to 90th,0.500912340805839,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,80th to 90th,0.1083451254934088,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,80th to 90th,0.03018172339316303,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,80th to 90th,0.03273255380948834,1
+ocfl,"Orange County, Fla.",Less than 45k,est,90th to 100th,0.494701362506784,4
+ocfl,"Orange County, Fla.",Between 75 and 100k,est,90th to 100th,0.10094547116455768,3
+ocfl,"Orange County, Fla.",Between 120 and 150k,est,90th to 100th,0.03403410551572453,2
+ocfl,"Orange County, Fla.",Greater than 200k,est,90th to 100th,0.036290668113913564,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,0 to 10th,0.600174978127734,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,0 to 10th,0.16710411198600175,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,0 to 10th,0,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,0 to 10th,0,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,10th to 20th,0.18597320724980299,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,10th to 20th,0.1698187549251379,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,10th to 20th,0.04452324665090623,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,10th to 20th,0.12174940898345153,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,20th to 30th,0.18875119161105816,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,20th to 30th,0.14140451223387354,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,20th to 30th,0.07737527804258024,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,20th to 30th,0.18334922148077534,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,30th to 40th,0.16906228610540724,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,30th to 40th,0.10130047912388775,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,30th to 40th,0.0917180013689254,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,30th to 40th,0.028747433264887063,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,40th to 50th,0.16111655239960823,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,40th to 50th,0.11679725759059745,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,40th to 50th,0.11361410381978453,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,40th to 50th,0.2120470127326151,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,50th to 60th,0.1724137931034483,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,50th to 60th,0.17672413793103448,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,50th to 60th,0.12931034482758622,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,50th to 60th,0,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,60th to 70th,0.3935294117647059,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,60th to 70th,0.1888235294117647,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,60th to 70th,0.05,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,60th to 70th,0.024705882352941175,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,70th to 80th,0.32340425531914896,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,70th to 80th,0.18318135764944277,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,70th to 80th,0.052077001013171226,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,70th to 80th,0.03100303951367781,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,80th to 90th,0.4483870967741935,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,80th to 90th,0.18064516129032257,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,80th to 90th,0.03087557603686636,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,80th to 90th,0.009216589861751152,1
+ocoeepd,"Ocoee, Fla.",Less than 45k,est,90th to 100th,0.4589597724502235,4
+ocoeepd,"Ocoee, Fla.",Between 75 and 100k,est,90th to 100th,0.1261682242990654,3
+ocoeepd,"Ocoee, Fla.",Between 120 and 150k,est,90th to 100th,0.059934985778138966,2
+ocoeepd,"Ocoee, Fla.",Greater than 200k,est,90th to 100th,0.0337261275904104,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,0 to 10th,0,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,0 to 10th,0,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,0 to 10th,0,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,0 to 10th,0,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,10th to 20th,0,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,10th to 20th,0,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,10th to 20th,0,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,10th to 20th,0,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,20th to 30th,0.14443084455324356,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,20th to 30th,0.10526315789473684,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,20th to 30th,0.06609547123623011,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,20th to 30th,0.12974296205630356,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,30th to 40th,0.19971195391262603,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,30th to 40th,0.16658665386461835,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,30th to 40th,0.12289966394623139,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,30th to 40th,0.08977436389822371,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,40th to 50th,0.25992555831265507,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,40th to 50th,0.11910669975186104,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,40th to 50th,0.07816377171215881,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,40th to 50th,0.1011166253101737,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,50th to 60th,0.2255109231853418,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,50th to 60th,0.16525722339675827,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,50th to 60th,0.11804087385482734,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,50th to 60th,0.09830866807610994,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,60th to 70th,0.17918825561312607,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,60th to 70th,0.11528497409326424,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,60th to 70th,0.14853195164075994,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,60th to 70th,0.17098445595854922,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,70th to 80th,0.17410265011741027,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,70th to 80th,0.15934250251593424,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,70th to 80th,0.10533378061053338,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,70th to 80th,0.17678631331767863,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,80th to 90th,0.21729323308270676,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,80th to 90th,0.1598997493734336,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,80th to 90th,0.10751879699248121,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,80th to 90th,0.11002506265664161,1
+piscataway,"Piscataway,  N.J",Less than 45k,est,90th to 100th,0.33967391304347827,4
+piscataway,"Piscataway,  N.J",Between 75 and 100k,est,90th to 100th,0.12273550724637682,3
+piscataway,"Piscataway,  N.J",Between 120 and 150k,est,90th to 100th,0.07110507246376811,2
+piscataway,"Piscataway,  N.J",Greater than 200k,est,90th to 100th,0.11594202898550725,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,0 to 10th,0.1073541842772612,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,0 to 10th,0.17075232459847844,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,0 to 10th,0.15046491969568893,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,0 to 10th,0.17582417582417584,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,10th to 20th,0.16934046345811052,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,10th to 20th,0.16310160427807488,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,10th to 20th,0.09180035650623886,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,10th to 20th,0.058823529411764705,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,20th to 30th,0.4117647058823529,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,20th to 30th,0.12299465240641712,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,20th to 30th,0.09251336898395722,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,20th to 30th,0.04973262032085562,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,30th to 40th,0.44881170018281535,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,30th to 40th,0.04296160877513711,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,30th to 40th,0.044789762340036565,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,30th to 40th,0.04296160877513711,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,40th to 50th,0.3366238894373149,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,40th to 50th,0.14116485686080948,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,40th to 50th,0.07502467917077986,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,40th to 50th,0.03751233958538993,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,50th to 60th,0.4815083393763597,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,50th to 60th,0.135605511240029,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,50th to 60th,0.05511240029006526,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,50th to 60th,0.025380710659898477,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,60th to 70th,0.33513513513513515,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,60th to 70th,0.12586872586872586,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,60th to 70th,0.040926640926640924,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,60th to 70th,0.04555984555984556,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,70th to 80th,0.5394524959742351,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,70th to 80th,0.11030595813204509,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,70th to 80th,0.05958132045088567,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,70th to 80th,0.03985507246376811,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,80th to 90th,0.4863636363636364,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,80th to 90th,0.10649350649350649,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,80th to 90th,0.03441558441558441,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,80th to 90th,0,1
+plainfieldpdnj,"Plainfield, N.J",Less than 45k,est,90th to 100th,0.49625668449197863,4
+plainfieldpdnj,"Plainfield, N.J",Between 75 and 100k,est,90th to 100th,0.0962566844919786,3
+plainfieldpdnj,"Plainfield, N.J",Between 120 and 150k,est,90th to 100th,0.02085561497326203,2
+plainfieldpdnj,"Plainfield, N.J",Greater than 200k,est,90th to 100th,0.01818181818181818,1
+portagemipd,"Portage, Mich.",Less than 45k,est,0 to 10th,0.1767363071710898,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,0 to 10th,0.13664596273291926,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,0 to 10th,0.13269339356295878,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,0 to 10th,0.11744776962168267,1
+portagemipd,"Portage, Mich.",Less than 45k,est,10th to 20th,0.29837775202781,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,10th to 20th,0.12398609501738123,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,10th to 20th,0.06778679026651217,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,10th to 20th,0.09733487833140209,1
+portagemipd,"Portage, Mich.",Less than 45k,est,20th to 30th,0.32428502181289387,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,20th to 30th,0.13814832767813864,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,20th to 30th,0.08822103732428502,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,20th to 30th,0.03732428502181289,1
+portagemipd,"Portage, Mich.",Less than 45k,est,30th to 40th,0.302945301542777,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,30th to 40th,0.10098176718092566,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,30th to 40th,0.10659186535764376,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,30th to 40th,0.052244039270687236,1
+portagemipd,"Portage, Mich.",Less than 45k,est,40th to 50th,0.3397790055248619,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,40th to 50th,0.12375690607734807,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,40th to 50th,0.06850828729281767,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,40th to 50th,0.04640883977900553,1
+portagemipd,"Portage, Mich.",Less than 45k,est,50th to 60th,0.3943002977456401,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,50th to 60th,0.13568694172692472,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,50th to 60th,0.06082518077413866,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,50th to 60th,0.04168438962143769,1
+portagemipd,"Portage, Mich.",Less than 45k,est,60th to 70th,0.37540769732550555,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,60th to 70th,0.09556425309849967,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,60th to 70th,0.058382257012393995,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,60th to 70th,0.06327462491846053,1
+portagemipd,"Portage, Mich.",Less than 45k,est,70th to 80th,0.3879837067209776,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,70th to 80th,0.14765784114052954,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,70th to 80th,0.03665987780040733,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,70th to 80th,0.03767820773930754,1
+portagemipd,"Portage, Mich.",Less than 45k,est,80th to 90th,0.38082437275985664,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,80th to 90th,0.16845878136200718,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,80th to 90th,0.03763440860215054,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,80th to 90th,0.008960573476702509,1
+portagemipd,"Portage, Mich.",Less than 45k,est,90th to 100th,0.5947968638631503,4
+portagemipd,"Portage, Mich.",Between 75 and 100k,est,90th to 100th,0.08838203848895225,3
+portagemipd,"Portage, Mich.",Between 120 and 150k,est,90th to 100th,0.019600855310049892,2
+portagemipd,"Portage, Mich.",Greater than 200k,est,90th to 100th,0.0135424091233072,1
+salisbury,"Salisbury, Md.",Less than 45k,est,0 to 10th,0,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,0 to 10th,0,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,0 to 10th,0,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,0 to 10th,0,1
+salisbury,"Salisbury, Md.",Less than 45k,est,10th to 20th,0,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,10th to 20th,0,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,10th to 20th,0,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,10th to 20th,0,1
+salisbury,"Salisbury, Md.",Less than 45k,est,20th to 30th,0.29819121447028424,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,20th to 30th,0.14315245478036176,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,20th to 30th,0.06149870801033592,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,20th to 30th,0.03204134366925065,1
+salisbury,"Salisbury, Md.",Less than 45k,est,30th to 40th,0.3736857915289877,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,30th to 40th,0.09342144788224692,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,30th to 40th,0.08591168519074797,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,30th to 40th,0.08260738960648843,1
+salisbury,"Salisbury, Md.",Less than 45k,est,40th to 50th,0.4792358803986711,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,40th to 50th,0.11254152823920266,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,40th to 50th,0.038621262458471764,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,40th to 50th,0.018272425249169437,1
+salisbury,"Salisbury, Md.",Less than 45k,est,50th to 60th,0.4824509220701963,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,50th to 60th,0.08863771564544913,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,50th to 60th,0.04818560380725759,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,50th to 60th,0.022010707911957167,1
+salisbury,"Salisbury, Md.",Less than 45k,est,60th to 70th,0.6366928183464092,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,60th to 70th,0.06819553409776705,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,60th to 70th,0.012673506336753168,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,60th to 70th,0.009052504526252263,1
+salisbury,"Salisbury, Md.",Less than 45k,est,70th to 80th,0.49090284929625816,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,70th to 80th,0.10298661174047374,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,70th to 80th,0.029866117404737384,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,70th to 80th,0.010298661174047374,1
+salisbury,"Salisbury, Md.",Less than 45k,est,80th to 90th,0.6409959467284309,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,80th to 90th,0.08917197452229299,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,80th to 90th,0.039953676896352056,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,80th to 90th,0.008685581933989578,1
+salisbury,"Salisbury, Md.",Less than 45k,est,90th to 100th,0.6256006989951944,4
+salisbury,"Salisbury, Md.",Between 75 and 100k,est,90th to 100th,0.08387942332896461,3
+salisbury,"Salisbury, Md.",Between 120 and 150k,est,90th to 100th,0.03058103975535168,2
+salisbury,"Salisbury, Md.",Greater than 200k,est,90th to 100th,0.0030581039755351682,1
+southjordan,"South Jordan, Utah",Less than 45k,est,0 to 10th,0.0844,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,0 to 10th,0.248,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,0 to 10th,0.1172,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,0 to 10th,0.0668,1
+southjordan,"South Jordan, Utah",Less than 45k,est,10th to 20th,0.11854103343465046,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,10th to 20th,0.15653495440729484,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,10th to 20th,0.11702127659574468,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,10th to 20th,0.0547112462006079,1
+southjordan,"South Jordan, Utah",Less than 45k,est,20th to 30th,0.07061790668348046,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,20th to 30th,0.15636822194199243,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,20th to 30th,0.2055485498108449,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,20th to 30th,0.15889029003783103,1
+southjordan,"South Jordan, Utah",Less than 45k,est,30th to 40th,0.11393596986817325,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,30th to 40th,0.192090395480226,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,30th to 40th,0.14500941619585686,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,30th to 40th,0.12052730696798493,1
+southjordan,"South Jordan, Utah",Less than 45k,est,40th to 50th,0.22866043613707165,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,40th to 50th,0.12149532710280374,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,40th to 50th,0.0853582554517134,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,40th to 50th,0.07601246105919003,1
+southjordan,"South Jordan, Utah",Less than 45k,est,50th to 60th,0.14635603345280765,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,50th to 60th,0.1816009557945042,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,50th to 60th,0.08064516129032258,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,50th to 60th,0.12425328554360812,1
+southjordan,"South Jordan, Utah",Less than 45k,est,60th to 70th,0.14049586776859505,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,60th to 70th,0.0881542699724518,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,60th to 70th,0.10376492194674013,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,60th to 70th,0.13774104683195593,1
+southjordan,"South Jordan, Utah",Less than 45k,est,70th to 80th,0.227391874180865,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,70th to 80th,0.14875491480996067,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,70th to 80th,0.04783748361730013,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,70th to 80th,0.12975098296199214,1
+southjordan,"South Jordan, Utah",Less than 45k,est,80th to 90th,0.08168442415017757,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,80th to 90th,0.11618467782851344,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,80th to 90th,0.106544901065449,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,80th to 90th,0.17858954845256214,1
+southjordan,"South Jordan, Utah",Less than 45k,est,90th to 100th,0.10873867305489011,4
+southjordan,"South Jordan, Utah",Between 75 and 100k,est,90th to 100th,0.18591813352775752,3
+southjordan,"South Jordan, Utah",Between 120 and 150k,est,90th to 100th,0.10623893344443287,2
+southjordan,"South Jordan, Utah",Greater than 200k,est,90th to 100th,0.14290178106447246,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,0 to 10th,0.23440317345834835,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,0 to 10th,0.15879312417357855,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,0 to 10th,0.07188363986056016,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,0 to 10th,0.10277677605481428,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,10th to 20th,0.2824612403100775,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,10th to 20th,0.16214470284237725,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,10th to 20th,0.05103359173126615,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,10th to 20th,0.08510981912144702,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,20th to 30th,0.3723713455291503,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,20th to 30th,0.1511369464865789,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,20th to 30th,0.051974696529321254,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,20th to 30th,0.04684561463498034,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,30th to 40th,0.35506531920138035,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,30th to 40th,0.12262755730835592,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,30th to 40th,0.054720236628050284,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,30th to 40th,0.043751540547202365,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,40th to 50th,0.3810711316945731,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,40th to 50th,0.11981949887186795,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,40th to 50th,0.07505046906543165,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,40th to 50th,0.036100225626410166,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,50th to 60th,0.33366647629925755,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,50th to 60th,0.13992004568817817,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,50th to 60th,0.04097658480868075,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,50th to 60th,0.03669331810394061,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,60th to 70th,0.39684316578976825,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,60th to 70th,0.1548192096720027,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,60th to 70th,0.04992723609089891,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,60th to 70th,0.030001119444755402,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,70th to 80th,0.44681066828922017,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,70th to 80th,0.13000709867153432,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,70th to 80th,0.059121792921610385,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,70th to 80th,0.0254538079302302,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,80th to 90th,0.4537929589270746,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,80th to 90th,0.06883906119027661,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,80th to 90th,0.039920368818105616,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,80th to 90th,0.04673093042749371,1
+tacoma,"Tacoma, Wash.",Less than 45k,est,90th to 100th,0.48811410459587956,4
+tacoma,"Tacoma, Wash.",Between 75 and 100k,est,90th to 100th,0.10542600558448419,3
+tacoma,"Tacoma, Wash.",Between 120 and 150k,est,90th to 100th,0.03524262319824919,2
+tacoma,"Tacoma, Wash.",Greater than 200k,est,90th to 100th,0.02694136291600634,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,0 to 10th,0.5858274647887324,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,0 to 10th,0.0897887323943662,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,0 to 10th,0.013204225352112676,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,0 to 10th,0.009242957746478873,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,10th to 20th,0.22172619047619047,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,10th to 20th,0.1488095238095238,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,10th to 20th,0.10863095238095238,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,10th to 20th,0.1324404761904762,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,20th to 30th,0.5553719008264463,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,20th to 30th,0.04628099173553719,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,20th to 30th,0.026446280991735537,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,20th to 30th,0.08925619834710743,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,30th to 40th,0.251063829787234,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,30th to 40th,0.18865248226950354,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,30th to 40th,0.03829787234042553,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,30th to 40th,0.0524822695035461,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,40th to 50th,0.5093127809890816,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,40th to 50th,0.05973025048169557,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,40th to 50th,0.014129736673089274,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,40th to 50th,0,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,50th to 60th,0.4327073552425665,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,50th to 60th,0.0837245696400626,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,50th to 60th,0.03990610328638498,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,50th to 60th,0.01486697965571205,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,60th to 70th,0.4968121628249142,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,60th to 70th,0.1579205492888671,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,60th to 70th,0.006866110838646395,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,60th to 70th,0.012260912211868563,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,70th to 80th,0.36131593874078277,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,70th to 80th,0.10096426545660805,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,70th to 80th,0.055019852524106634,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,70th to 80th,0.015314804310833806,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,80th to 90th,0.5290322580645161,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,80th to 90th,0.1053763440860215,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,80th to 90th,0.016129032258064516,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,80th to 90th,0.04086021505376344,1
+templeterracepd,"Temple Terrace, Fla.",Less than 45k,est,90th to 100th,0.36273972602739724,4
+templeterracepd,"Temple Terrace, Fla.",Between 75 and 100k,est,90th to 100th,0.17589041095890412,3
+templeterracepd,"Temple Terrace, Fla.",Between 120 and 150k,est,90th to 100th,0.021369863013698632,2
+templeterracepd,"Temple Terrace, Fla.",Greater than 200k,est,90th to 100th,0.042739726027397264,1
+tracypd,"Tracy, Calif.",Less than 45k,est,0 to 10th,0.1955606582472254,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,0 to 10th,0.16073478760045926,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,0 to 10th,0.08342900880214313,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,0 to 10th,0.101415996938385,1
+tracypd,"Tracy, Calif.",Less than 45k,est,10th to 20th,0.29847328244274807,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,10th to 20th,0.12442748091603054,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,10th to 20th,0.07709923664122137,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,10th to 20th,0.07938931297709924,1
+tracypd,"Tracy, Calif.",Less than 45k,est,20th to 30th,0.1793037672865999,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,20th to 30th,0.16165951359084407,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,20th to 30th,0.08488316642823081,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,20th to 30th,0.0944206008583691,1
+tracypd,"Tracy, Calif.",Less than 45k,est,30th to 40th,0.16220165611300535,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,30th to 40th,0.18071115440818314,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,30th to 40th,0.10423770092547492,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,30th to 40th,0.08134437408670239,1
+tracypd,"Tracy, Calif.",Less than 45k,est,40th to 50th,0.30712858094603596,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,40th to 50th,0.16722185209860094,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,40th to 50th,0.13990672884743505,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,40th to 50th,0.03264490339773484,1
+tracypd,"Tracy, Calif.",Less than 45k,est,50th to 60th,0.19497334348819498,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,50th to 60th,0.1504188880426504,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,50th to 60th,0.06854531607006854,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,50th to 60th,0.08111195734958111,1
+tracypd,"Tracy, Calif.",Less than 45k,est,60th to 70th,0.276326207442597,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,60th to 70th,0.19714964370546317,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,60th to 70th,0.0779889152810768,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,60th to 70th,0.047505938242280284,1
+tracypd,"Tracy, Calif.",Less than 45k,est,70th to 80th,0.17909475740801042,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,70th to 80th,0.1579290133507001,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,70th to 80th,0.12211006186909801,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,70th to 80th,0.10582872028655162,1
+tracypd,"Tracy, Calif.",Less than 45k,est,80th to 90th,0.22782302443319394,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,80th to 90th,0.1994276909531147,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,80th to 90th,0.06779661016949153,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,80th to 90th,0.10917895663658375,1
+tracypd,"Tracy, Calif.",Less than 45k,est,90th to 100th,0.21893735786644614,4
+tracypd,"Tracy, Calif.",Between 75 and 100k,est,90th to 100th,0.13686169113086624,3
+tracypd,"Tracy, Calif.",Between 120 and 150k,est,90th to 100th,0.07608021500930329,2
+tracypd,"Tracy, Calif.",Greater than 200k,est,90th to 100th,0.1252842671077114,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,0 to 10th,0.21074238795757783,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,0 to 10th,0.1488197057817311,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,0 to 10th,0.1087923366404379,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,0 to 10th,0.08723913787204926,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,10th to 20th,0.28388746803069054,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,10th to 20th,0.06990622335890878,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,10th to 20th,0.09718670076726342,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,10th to 20th,0.12361466325660699,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,20th to 30th,0.3411716171617162,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,20th to 30th,0.10891089108910891,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,20th to 30th,0.08622112211221122,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,20th to 30th,0.06353135313531354,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,30th to 40th,0.4065478657273104,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,30th to 40th,0.16162453377538333,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,30th to 40th,0.0435142975549109,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,30th to 40th,0.026937422295897222,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,40th to 50th,0.3445216049382716,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,40th to 50th,0.1564429012345679,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,40th to 50th,0.061342592592592594,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,40th to 50th,0.04205246913580247,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,50th to 60th,0.44823747680890536,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,50th to 60th,0.11243042671614101,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,50th to 60th,0.03191094619666048,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,50th to 60th,0.03228200371057514,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,60th to 70th,0.5214899713467048,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,60th to 70th,0.12779369627507164,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,60th to 70th,0.02349570200573066,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,60th to 70th,0.016045845272206302,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,70th to 80th,0.6371087928464978,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,70th to 80th,0.0935171385991058,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,70th to 80th,0.013040238450074515,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,70th to 80th,0.004843517138599106,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,80th to 90th,0.5676406926406926,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,80th to 90th,0.09199134199134198,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,80th to 90th,0.054653679653679656,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,80th to 90th,0.013528138528138528,1
+turlockpolice,"Turlock, Calif.",Less than 45k,est,90th to 100th,0.34436860068259384,4
+turlockpolice,"Turlock, Calif.",Between 75 and 100k,est,90th to 100th,0.16723549488054607,3
+turlockpolice,"Turlock, Calif.",Between 120 and 150k,est,90th to 100th,0.03924914675767918,2
+turlockpolice,"Turlock, Calif.",Greater than 200k,est,90th to 100th,0.03617747440273038,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,0 to 10th,0.1911341393206678,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,0 to 10th,0.14853195164075994,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,0 to 10th,0.13932066781807714,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,0 to 10th,0.102475532527346,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,10th to 20th,0.19027484143763213,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,10th to 20th,0.080338266384778,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,10th to 20th,0.2156448202959831,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,10th to 20th,0.1109936575052854,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,20th to 30th,0.36954087346024633,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,20th to 30th,0.1702127659574468,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,20th to 30th,0.08958566629339305,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,20th to 30th,0.0335946248600224,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,30th to 40th,0.563894523326572,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,30th to 40th,0.08316430020283976,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,30th to 40th,0.036511156186612576,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,30th to 40th,0.019269776876267748,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,40th to 50th,0.45114345114345117,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,40th to 50th,0.0997920997920998,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,40th to 50th,0.036382536382536385,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,40th to 50th,0,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,50th to 60th,0.39664310954063603,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,50th to 60th,0.13427561837455831,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,50th to 60th,0.018551236749116608,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,50th to 60th,0.028268551236749116,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,60th to 70th,0.560488346281909,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,60th to 70th,0.1453940066592675,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,60th to 70th,0.014428412874583796,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,60th to 70th,0.029966703662597113,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,70th to 80th,0.49177153920619554,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,70th to 80th,0.09486931268151017,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,70th to 80th,0.018393030009680542,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,70th to 80th,0.0377541142303969,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,80th to 90th,0.5623916811091855,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,80th to 90th,0.11265164644714037,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,80th to 90th,0,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,80th to 90th,0.016464471403812825,1
+westspringfieldpolice,"West Springfield Town, Mass.",Less than 45k,est,90th to 100th,0.6005747126436781,4
+westspringfieldpolice,"West Springfield Town, Mass.",Between 75 and 100k,est,90th to 100th,0.07183908045977011,3
+westspringfieldpolice,"West Springfield Town, Mass.",Between 120 and 150k,est,90th to 100th,0.008620689655172414,2
+westspringfieldpolice,"West Springfield Town, Mass.",Greater than 200k,est,90th to 100th,0.08045977011494253,1

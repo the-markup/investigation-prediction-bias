@@ -1,0 +1,9 @@
+demo_val,pop_buckets,num_jur,min_pop_est,pct,plot_name,total_num_jur
+Asian,gt_p50,21,"est, lb, ub",0.5526315789473685,prank_has_maj,38
+Asian,lt_p50,14,lb,0.3684210526315789,prank_has_maj,38
+African American,gt_p50,29,ub,0.7631578947368421,prank_has_maj,38
+African American,lt_p50,4,lb,0.10526315789473684,prank_has_maj,38
+Latino,gt_p50,29,lb,0.7631578947368421,prank_has_maj,38
+Latino,lt_p50,6,"est, ub",0.15789473684210525,prank_has_maj,38
+White,gt_p50,17,"est, lb, ub",0.4473684210526316,prank_has_maj,38
+White,lt_p50,20,ub,0.5263157894736842,prank_has_maj,38

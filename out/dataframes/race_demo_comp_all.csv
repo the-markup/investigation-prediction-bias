@@ -1,0 +1,17 @@
+demo,prank_filter,mean_val
+Asian,in_max_tb,0.04123240340366892
+Asian,in_med_tb,0.03790828252625834
+Asian,in_min_tb,0.03440681406537222
+Asian,total,0.04062491254435658
+African American,in_max_tb,0.15170813230820368
+African American,in_med_tb,0.12801142006090485
+African American,in_min_tb,0.07730581478628377
+African American,total,0.09693444038324478
+Latino,in_max_tb,0.1654170345643438
+Latino,in_med_tb,0.14388771339623868
+Latino,in_min_tb,0.09014434187902762
+Latino,total,0.141005481782814
+White,in_max_tb,0.41295668000371794
+White,in_med_tb,0.47505975529468586
+White,in_min_tb,0.5753611245436475
+White,total,0.5027790246065115

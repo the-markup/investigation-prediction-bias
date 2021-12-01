@@ -1,0 +1,424 @@
+---
+title: "PredPol Data Sheet"
+output: html_document
+params:
+  client: "default"
+  client_name: "default"
+  first_prediction_date: as.Date("1900-01-01")
+  final_prediction_date: as.Date("1900-01-02")
+  confirmed_start: as.Date("1900-01-01")
+  confirmed_end: as.Date("1900-01-02")
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(targets)
+# library(sf)
+# library(tigris)
+library(leaflet)
+library(glue)
+
+## Globals
+BG_DEF_URL <- "https://www.census.gov/programs-surveys/geography/about/glossary.html#par_textimage_4"
+
+## Data
+tar_load(bg_ranked_pop_bounds_bg_race)
+tar_load(demo_prop_buckets_bg_race)
+tar_load(demo_prop_buckets_bg_income)
+
+client_data <- bg_ranked_pop_bounds_bg_race %>%
+  filter(department == params$client) %>%
+  select(geoid, pred_count, total_race_est, contains("est"), contains("_tb"), -contains("moe"), geoid, state, county, tract, block_group, pred_pop_rank)
+min_bg <- filter(client_data, pred_count == min(pred_count))
+max_bg <- filter(client_data, pred_count == max(pred_count))
+
+smallest_bg <- filter(client_data, total_race_est == min(total_race_est))
+largest_bg <- filter(client_data, total_race_est == max(total_race_est))
+
+### Functions
+plot_demo <- function(bg_demo_prop_at_pred_rank, analysis_demo) {
+  plot.grey_box <- c(
+    "Most Targeted\nBlock Groups",
+    "Median Targeted\nBlock Groups",
+    "Least Targeted\nBlock Groups",
+    "Jurisdiction Total"
+  )
+  names(plot.grey_box) <- c("in_max_tb", "in_med_tb", "in_min_tb", "total")
+
+  race.labs <- list(
+    title = glue("Races composition of most, median and least targeted block groups"),
+    x = "Race",
+    y = "Proportion of Block Group ",
+    levels = c("White", "Asian", "Latino", "Black"),
+    factor_names = c("white" = "White", "asian" = "Asian", "latino" = "Latino", "black" = "Black")
+  )
+
+  income.labs <- list(
+    title = glue("Household income composition of most, median and least targeted block groups"),
+    subtitle = "",
+    y = "Percentage Of Block Groups",
+    levels = c(
+      "Greater than 200k",
+      "Between 120 and 150k",
+      "Between 75 and 100k",
+      "Less than 45k"
+    ),
+    factor_names = c(
+      "lt.45k" = "Less than 45k",
+      "bw.75.100k" = " $75k - 100k",
+      "bw.120.150k" = "$120k - 150k",
+      "gt.200k" = "$200k and above"
+    )
+  )
+
+  plot.labs <- list(
+    race = race.labs,
+    income = income.labs
+  )
+
+  legend.labs <- list(
+    race = "Race",
+    income = "Household Income"
+  )
+
+  analysis_demo_label <- legend.labs[[analysis_demo]]
+
+  bg_demo_prop_at_pred_rank %>%
+    filter(department == params$client) %>%
+    pivot_longer(
+      contains("__"),
+      names_to = "demo__prank",
+      values_to = "values"
+    ) %>%
+    separate(demo__prank, c("demo", "prank_filter"), sep = "__") %>%
+    separate(demo, c("demo", "pop_est"), sep = "_") %>%
+    group_by(demo, prank_filter) %>%
+    summarise(
+      name = params$client_name,
+      min_value = min(values),
+      min_pop_est = paste(pop_est[which(values == min(values))], collapse = ", "),
+      plot_name = "dept_prank_demo"
+    ) %>%
+    mutate(
+      demo = plot.labs[[analysis_demo]][["factor_names"]][demo],
+      demo = as_factor(demo),
+      demo = fct_relevel(demo, levels = plot.labs[[analysis_demo]][["levels"]]),
+    ) %>%
+    # filter(prank_filter == targeting_group) %>%
+    remove_missing() %>%
+    ggplot(aes(x = demo, y = min_value)) +
+    geom_col(aes(fill = demo)) +
+    scale_fill_discrete(name = legend.labs[[analysis_demo]]) +
+    scale_y_continuous(labels = scales::percent) +
+    # geom_text(aes(label = format(round(min_value, digits = 1)*100), digits=2, nsmall=1), size = 4, nudge_y = 0.02,  color = "black") +
+    facet_grid(name ~ prank_filter, labeller = labeller(prank_filter = plot.grey_box)) +
+    labs(
+      title = plot.labs[[analysis_demo]][["title"]],
+      subtitle = plot.labs[[analysis_demo]][["subtitle"]],
+      x = plot.labs[[analysis_demo]]["x"],
+      y = plot.labs[[analysis_demo]][["y"]],
+      fill = plot.labs[[analysis_demo]]["x"]
+    ) +
+    theme(
+      legend.position = "top",
+      axis.title.x = element_blank(),
+      axis.text.x = element_blank(),
+      axis.ticks.x = element_blank()
+    )
+}
+
+
+display_table <- function(data) {
+  nicer_labels <- c(
+    "lt.45k" = "Less than 45k",
+    "bw.75.100k" = " $75k - 100k",
+    "bw.120.150k" = "$120k - 150k",
+    "gt.200k" = "$200k and above",
+    "white" = "White",
+    "asian" = "Asian",
+    "latino" = "Latino",
+    "black" = "Black",
+    "in_max_tb" = "Most Targeted Block Groups",
+    "in_med_tb" = "Median Targeted Block Groups",
+    "in_min_tb" = "Least Targeted Block Groups",
+    "total" =   "Jurisdiction Total"
+  )
+
+  df <- data %>%
+    filter(department == params$client) %>%
+    pivot_longer(
+      contains("__"),
+      names_to = "demo__prank",
+      values_to = "values"
+    ) %>%
+    separate(demo__prank, c("demo", "prank_filter"), sep = "__") %>%
+    separate(demo, c("demo", "pop_est"), sep = "_") %>%
+    group_by(demo, prank_filter) %>%
+    summarise(
+      name = params$client_name,
+      min_value = min(values),
+      min_pop_est = paste(pop_est[which(values == min(values))], collapse = ", "),
+      plot_name = "dept_prank_demo"
+    ) %>%
+    mutate(
+      demo = nicer_labels[demo],
+      prank_filter = nicer_labels[prank_filter],
+      min_value = round(min_value * 100, digits = 1)
+      # demo = as_factor(demo),
+      # demo = fct_relevel(demo, levels = plot.labs[[analysis_demo]][["levels"]]),
+    ) %>%
+    remove_missing() %>%
+    select(demo, prank_filter, min_value) %>%
+    arrange(desc(prank_filter))
+
+
+  col_order <- c("prank_filter", "demo", "min_value")
+  df2 <- df[, col_order]
+  # df[order(df$`Accuracy`, df$Kappa, decreasing=TRUE),]
+  return(df2 %>% rename(
+    `Targeting Level ` = prank_filter,
+    `Demographic` = demo,
+    `Proportion of Block Group pop.` = min_value
+  ))
+}
+
+plot_tb_map <- function(df, df_col) {
+  pal_min <- leaflet::colorFactor(
+    "PuRd",
+    domain = df_col
+  )
+
+  leaflet::leaflet(df) %>%
+    leaflet::addProviderTiles(providers$CartoDB.VoyagerLabelsUnder) %>%
+    leaflet::addPolygons(
+      color = "#999", weight = 0.6, opacity = 1,
+      fillColor = ~ pal_min(df_col), fillOpacity = 0.3,
+    ) %>%
+    leaflet::addLegend(
+      pal = pal_min, values = ~df_col, opacity = 0.5,
+      title = "Most Targeted", position = "topright"
+    )
+}
+
+geoid_fmt <- function(x) format(x, nsmall = 0, big.mark = "to")
+pred_fmt <- function(x) format(x, nsmall = 0, big.mark = ",")
+
+conditional <- function(tb, demo, data) {
+  tb_stat <- stat_demo_at_tb(data, demo, tb)
+  jur_stat <- stat_demo_at_tb(data, demo, "total")
+  if (near(tb_stat, jur_stat)) {
+    "similar"
+  }
+  else if (tb_stat > jur_stat) {
+    "greater"
+  } else if (tb_stat < jur_stat) {
+    "smaller"
+  }
+}
+
+stat_demo_at_tb <- function(bg_demo_prop_at_pred_rank, demo_group, targeting_group, client = params$client) {
+  row <- bg_demo_prop_at_pred_rank %>%
+    filter(department == client) %>%
+    pivot_longer(
+      contains("__"),
+      names_to = "demo__prank",
+      values_to = "values"
+    ) %>%
+    separate(demo__prank, c("demo", "prank_filter"), sep = "__") %>%
+    separate(demo, c("demo", "pop_est"), sep = "_") %>%
+    group_by(demo, prank_filter) %>%
+    summarise(
+      name = params$client_name,
+      min_value = min(values),
+      min_pop_est = paste(pop_est[which(values == min(values))], collapse = ", "),
+      plot_name = "dept_prank_demo"
+    ) %>%
+    filter(demo == demo_group & prank_filter == targeting_group) %>%
+    remove_missing()
+  row$min_value
+}
+```
+
+## `r params$client_name`
+
+
+### Introduction
+
+The Markup and Gizmodo have obtained and analyzed actual predictions for more than three dozen departments that used PredPol predictive policing software for at least six months between 2018 and 2020 including yours. Overall, we found:
+
+ - Predpol’s algorithm relentlessly targeted the block groups in each jurisdiction that were  most heavily populated by people of color and the poor, particularly those containing public housing. The algorithm spared block groups with more White residents the same level of scrutiny.
+
+ - The proportion of each juridiction’s Black and Latino residents was higher in the most-targeted block groups and lower in the least-targeted block groups compared to the jurisdiction overall. The opposite was true for the White population: the least-targeted block groups contained a higher proportion of White residents and the most-targeted block groups contained a lower proportion. 
+
+ - For the majority of jurisdictions in our data set (26 jurisdictions), a higher proportion of its low-income households lived in the block groups that were targeted the most. In some jurisdictions, all of its subsidized and public housing were located in block groups Predpol targeted more than the median.
+ 
+ - These vast disparities were caused by the algorithm relentlessly predicting crime in the block groups in each jurisdiction that contained a higher proportion of the low-income residents and Black and Latino residents. They were the subject of crime predictions every shift, every day, and in multiple locations in the same block group.
+ 
+ - We also analyzed arrests statistics by race from the FBI's Uniform Crime Reporting (UCR) project for 29 of the agencies in our data that were in UCR. In 90 percent of them, per-capita arrests were higher for Black people than White people—or any other racial group included in the dataset, mirroring the characteristics of the neighborhoods that the algorithm targeted.
+ 
+ - We analyzed arrest data provided by 10 law enforcement agencies in our data and the rates of arrest in predicted areas remained the same whether PredPol predicted a crime that day or not.
+ 
+
+```{r pred_map, message=FALSE, warning=FALSE, fig.show="hold", out.width="100%"}
+
+# 
+# clien_geojson <- sf::read_sf(glue("datasheets/geojson/{params$client}-geojson-with-data.json"))
+# 
+# client_analysis <- client_data %>%
+#   mutate(
+#     id = str_c(str_pad(state, 2, pad = "0"), str_pad(county, 3, pad = "0"), str_pad(tract, 6, pad = "0"), block_group)
+#   )
+# 
+# client_map_data <- left_join(clien_geojson, client_analysis, by = "id")
+# 
+# #
+# pal <- leaflet::colorBin(
+#   "PuRd",
+#   domain = client_map_data$pred_count
+# )
+# 
+# leaflet::leaflet(client_map_data) %>%
+#   leaflet::addProviderTiles(providers$CartoDB.VoyagerLabelsUnder) %>%
+#   leaflet::addPolygons(
+#     color = "#999", weight = 0.6, opacity = 1,
+#     fillColor = ~ pal(client_map_data$pred_count), fillOpacity = 0.9,
+#   ) %>%
+#   leaflet::addLegend(
+#     pal = pal, values = ~ client_map_data$pred_count, opacity = 0.7,
+#     title = "# Number of predictions", position = "bottomleft"
+#   )
+
+# ggplot2::ggplot(c %>% rename(`Block groups ranked by prediction count` = pred_pop_rank), aes(fill = `Block groups ranked by prediction count`)) +
+#   ggplot2::geom_sf() +
+#   ggplot2::scale_fill_viridis_c() +
+#   ggplot2::theme_void() +
+#   labs(title = "Block Group map")
+
+#
+# knitr::kable(client_data[1:5, ], caption = "Data sample")
+# ggplot(client_data, aes(pred_count)) +
+#   geom_histogram(binwidth = function(x) 2 * IQR(x) / (length(x)^(1/3))) +
+#   labs(title = "Prediction Count Histogram",
+#        x = "Number of predictions a block group recevied",
+#        y = "Number of block groups")
+```
+
+<!-- &nbsp; -->
+<!-- &nbsp; -->
+<!-- &nbsp; -->
+
+### Findings for `r params$client_name`
+
+#### Race and Ethnicity
+
+ In `r params$client_name` the __most targeted block groups__ had:
+ 
+ - A __`r conditional("in_max_tb", "asian", demo_prop_buckets_bg_race)` proportion__  of __Asians__  residents compared to the jurisdiction overall.
+ - A __`r conditional("in_max_tb", "black", demo_prop_buckets_bg_race)` proportion__  of __Black__  residents compared to the jurisdiction overall.
+ - A __`r conditional("in_max_tb", "latino", demo_prop_buckets_bg_race)` proportion__ of __Latino__ residents compared to the jurisdiction overall.
+ - A __`r conditional("in_max_tb", "white", demo_prop_buckets_bg_race)` proportion__  of __White__ residents compared to the jurisdiction overall.
+ 
+  In `r params$client_name` the __least targeted block groups__ had:
+ 
+ - A __`r conditional("in_min_tb", "asian", demo_prop_buckets_bg_race)` proportion__  of __Asian__ residents compared to the jurisdiction overall.
+ - A __`r conditional("in_min_tb", "black", demo_prop_buckets_bg_race)` proportion__  of __Black__ residents compared to the jurisdiction overall.
+ - A __`r conditional("in_min_tb", "latino", demo_prop_buckets_bg_race)` proportion__ of __Latino__ residents compared to the jurisdiction overall.
+ - A __`r conditional("in_min_tb", "white", demo_prop_buckets_bg_race)` proportion__  of __White__ residents compared to the jurisdiction overall.
+
+
+```{r total_jur_race , message=FALSE, warning=FALSE, fig.show="hold", out.width="100%" }
+plot_demo(demo_prop_buckets_bg_race, "race")
+```
+
+#### Household Income
+
+In `r params$client_name` the __most targeted block groups__ had:
+ 
+ - A __`r conditional("in_max_tb", "lt.45k", demo_prop_buckets_bg_income)` proportion__  of households that made __less than $45k__ a year compared to the jurisdiction overall.
+ - A __`r conditional("in_max_tb", "bw.75.100k", demo_prop_buckets_bg_income)` proportion__  of households that made __between $75k - 100k__ a year compared to the jurisdiction overall.
+ - A __`r conditional("in_max_tb", "bw.120.150k", demo_prop_buckets_bg_income)` proportion__ of households that made  __$120k - 150k__ a year compared to the jurisdiction overall.
+ - A __`r conditional("in_max_tb", "gt.200k", demo_prop_buckets_bg_income)` proportion__  of households that made __$200k and above__ a year compared to the jurisdiction overall.
+ 
+
+In `r params$client_name` the __least targeted block groups__ had:
+ 
+ - A __`r conditional("in_min_tb", "lt.45k", demo_prop_buckets_bg_income)` proportion__  of households that made __less than $45k__ a year compared to the jurisdiction overall.
+ - A __`r conditional("in_min_tb", "bw.75.100k",demo_prop_buckets_bg_income)` proportion__  of households that made between __$75k - 100k__ a year compared to the jurisdiction overall.
+ - A __`r conditional("in_min_tb", "bw.120.150k", demo_prop_buckets_bg_income)` proportion__ of households that made  __$120k - 150k__ a year compared to the jurisdiction overall.
+ - A __`r conditional("in_min_tb", "gt.200k", demo_prop_buckets_bg_income)` proportion__  of households that made __$200k and above__ a year compared to the jurisdiction overall.
+ 
+
+
+```{r total_jur_income , message=FALSE, warning=FALSE,  fig.show="hold", out.width="100%" }
+plot_demo(demo_prop_buckets_bg_income, "income")
+```
+
+#### Public Housing
+```{r housing}
+housing <- function() {
+  tar_load(housing_preds)
+  data <- filter(housing_preds, department == params$client)
+  if (nrow(data) == 1) {
+    glue("In {params$client_name} {format(round(data$pct_mtb*100),  nsmall=0, big.mark=", ")}% of public housing was on block groups the software targeted the most. {format(round(data$pct_gt_p50*100),  nsmall=0, big.mark=", ")}`% of public housing was on block groups the software targeted more than the median.")
+  } else {
+    glue("We did not find housing data for {params$client_name}")
+  }
+}
+```
+`r housing()`
+
+### Definitions
+
+We used the Census’ “designated place” boundaries as the boundaries for most jurisdictions. For Sheriff’s departments we confirmed the boundaries with the department.
+
+We defined the most-targeted block groups as those in `r params$client_name` which
+encompassed the highest five percent of predictions. We defined the median-targeted
+block groups as the five percent around the median block group for
+predictions. And we defined the least-targeted block groups as those with the
+bottom five percent of predictions.
+
+In some of the larger jurisdictions, more than five percent of block groups got zero predictions. In those cases, we chose the most populated block groups with no predictions for the five percent. 
+
+We identified public housing through HUD's online lookup tool available at [https://resources.hud.gov](https://resources.hud.gov)
+
+### Methods
+
+We analyzed the distribution of PredPol predictions for `r params$client_name` at the geographic level of a Census block group, which is a cluster of blocks with a population of between a few hundred to a few thousand people, generally. There are **`r length(unique(client_data$geoid))` block groups** in `r params$client_name`, the smallest block group had a population of approximately __`r smallest_bg$total_race_est[1]`__ and the largest had a population of approximately __`r format(largest_bg$total_race_est[1], nsmall=0, big.mark=",")`__. 
+```{r cpso_helper}
+cpso_hack <- function(){
+  if(params$client == "cpso"){
+    ""
+  } else{
+    glue(", we received confirmation that your department used the software between  **{params$confirmed_start}** and **{params$confirmed_end}**")
+  }
+}
+# 
+# , we received confirmation that your department used the software between 
+# **`r params$confirmed_start`** and **`r if_else(params$confirmed_end == "Current", params$final_prediction_date,  params$confirmed_end)`**
+```
+In `r params$client_name` we analyzed **`r format(sum(client_data$pred_count), nsmall=0, big.mark=",")` predictions** and used there locations to determine the block groups that were targeted the most, the median and the least. This data sheet presents the breakdown of the racial groups and household income ranges of the people who lived in those block groups. We also present the breakdowns for `r params$client_name` overall for comparison. The predictions we analyzed were between **`r params$first_prediction_date`** and **`r params$final_prediction_date`** `r cpso_hack()`.
+
+For the race/ethnicity and income analyses, we merged 2018 American Community Survey data and prediction data and observed the makeup of block groups that were targeted above and below the median, those targeted the most and those targeted the least. For the sake of consistency in our analysis we only used demographic groups for which we had reliable population estimates for all the jurisdictions in our data set. These are: 
+
+ - Racial Groups
+    - Black
+    - Asian
+    - Latino
+    - White
+ - Household Income
+    - Less than $45k
+    - Between $100k-$150k
+    - Between $100k-$150k
+    - Greater than $200k  
+
+
+
+```{r, message=FALSE, warning=FALSE}
+knitr:::kable(display_table(demo_prop_buckets_bg_race), caption = glue("Race and Ethnicity Distribution for", params$client_name))
+```
+
+```{r, message=FALSE, warning=FALSE}
+knitr:::kable(display_table(demo_prop_buckets_bg_income), caption = glue("Income  Distribution for", params$client_name))
+```
+
+ 

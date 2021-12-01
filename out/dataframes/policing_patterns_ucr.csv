@@ -1,0 +1,55 @@
+key,client,race,type,per_capita_avg,times
+Asian,modesto,asian,all,0.010871352240032882,0.1527230919157575
+Black or African American,modesto,black,all,0.14398605461940733,2.0227470298727543
+White,modesto,white,all,0.07118342160090335,1
+Asian,birminghampd,asian,all,0.002255639097744361,0.2435366035485314
+Black or African American,birminghampd,black,all,0.020832993102847593,2.2492943960277505
+White,birminghampd,white,all,0.009262012629222131,1
+Asian,tacoma,asian,all,0.0154385638256606,0.6940418009913109
+Black or African American,tacoma,black,all,0.09067083612538158,4.076114275425821
+White,tacoma,white,all,0.022244429375304853,1
+Asian,southjordan,asian,all,0.021916010498687664,1.4982480381712204
+Black or African American,southjordan,black,all,0.059027777777777776,4.0353262405335135
+White,southjordan,white,all,0.014627758515498282,1
+Asian,portagemipd,asian,all,0.0032679738562091504,0.14785287765214078
+Black or African American,portagemipd,black,all,0.17681056853031377,7.999437115094487
+White,portagemipd,white,all,0.022102876238214584,1
+Asian,westspringfieldpolice,asian,all,0.002777777777777778,0.12473509933774835
+Black or African American,westspringfieldpolice,black,all,0.11451398135818908,5.142208622498919
+White,westspringfieldpolice,white,all,0.0222694156859275,1
+Asian,piscataway,asian,all,0.001068828523604977,0.1963956663177334
+Black or African American,piscataway,black,all,0.010953065371462557,2.012609622911886
+White,piscataway,white,all,0.005442220511504576,1
+Asian,gvpd,asian,all,0.025073746312684365,0.4080666603999087
+Black or African American,gvpd,black,all,0.2532051282051282,4.120827010622155
+White,gvpd,white,all,0.061445221445221444,1
+Asian,farmersbranch,asian,all,0.007543916370298524,0.15751570887941896
+Black or African American,farmersbranch,black,all,0.10716348931253611,2.2375556881190874
+White,farmersbranch,white,all,0.04789310490976823,1
+Asian,decaturga,asian,all,0.0015552099533437014,0.31148633636969564
+Black or African American,decaturga,black,all,0.04706492736436407,9.42643259497692
+White,decaturga,white,all,0.004992867332382311,1
+Asian,forsythso,asian,all,0.0023079586106089164,0.12150105365950159
+Black or African American,forsythso,black,all,0.08204386599180526,4.3191485837232095
+White,forsythso,white,all,0.018995379390509756,1
+Asian,gloucestertwppd,asian,all,0.0016266266266266266,0.11259783991239257
+Black or African American,gloucestertwppd,black,all,0.037993034872910066,2.6299419844599816
+White,gloucestertwppd,white,all,0.014446339538060706,1
+Asian,haverhill,asian,all,0.005592841163310962,0.1822557267542616
+Black or African American,haverhill,black,all,0.08547008547008547,2.7852413627061514
+White,haverhill,white,all,0.030686778752647276,1
+Asian,frederick,asian,all,0.004857836833833405,0.1085024411411107
+Black or African American,frederick,black,all,0.10329102021626704,2.307061398885415
+White,frederick,white,all,0.04477168239482872,1
+Asian,livermore,asian,all,0.004612681212476205,0.1376495959743873
+Black or African American,livermore,black,all,0.13358369098712447,3.9863455214313586
+White,livermore,white,all,0.03351031421359561,1
+Asian,homewood,asian,all,0,0
+Black or African American,homewood,black,all,0.04909284951974386,7.477573306131594
+White,homewood,white,all,0.006565345134027349,1
+Asian,clovisca,asian,all,0.0071389346512905,0.14513245827855595
+Black or African American,clovisca,black,all,0.10916369144217246,2.219265992426515
+White,clovisca,white,all,0.04918909757311893,1
+Asian,salisbury,asian,all,0.0025072082236429734,0.11587910428477496
+Black or African American,salisbury,black,all,0.06320302415637102,2.9211414346302793
+White,salisbury,white,all,0.02163641356323798,1

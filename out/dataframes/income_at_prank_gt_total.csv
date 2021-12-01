@@ -1,0 +1,13 @@
+demo,prank_filter,num_jur,min_pop_est,pct,plot_name
+Between 120 and 150k,in_max_tb,5,ub,0.13157894736842105,prank_gt_total
+Between 120 and 150k,in_med_tb,16,lb,0.42105263157894735,prank_gt_total
+Between 120 and 150k,in_min_tb,20,lb,0.5263157894736842,prank_gt_total
+Between 75 and 100k,in_max_tb,9,ub,0.23684210526315788,prank_gt_total
+Between 75 and 100k,in_med_tb,14,"est, lb",0.3684210526315789,prank_gt_total
+Between 75 and 100k,in_min_tb,19,lb,0.5,prank_gt_total
+Greater than 200k,in_max_tb,8,"est, lb, ub",0.21052631578947367,prank_gt_total
+Greater than 200k,in_med_tb,11,lb,0.2894736842105263,prank_gt_total
+Greater than 200k,in_min_tb,20,lb,0.5263157894736842,prank_gt_total
+Less than 45k,in_max_tb,27,ub,0.7105263157894737,prank_gt_total
+Less than 45k,in_med_tb,16,lb,0.42105263157894735,prank_gt_total
+Less than 45k,in_min_tb,8,lb,0.21052631578947367,prank_gt_total

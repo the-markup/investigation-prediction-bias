@@ -1,0 +1,1521 @@
+department,client_name,demo,pop_est,prank_filter,values,demo_num
+alexandriapd,"Alexandria,  La.",Asian,est,0 to 10th,0.0055248618784530384,3
+alexandriapd,"Alexandria,  La.",African American,est,0 to 10th,0.38623807132094423,1
+alexandriapd,"Alexandria,  La.",Latino,est,0 to 10th,0.011719403984597355,2
+alexandriapd,"Alexandria,  La.",White,est,0 to 10th,0.5742507952452703,4
+alexandriapd,"Alexandria,  La.",Asian,est,10th to 20th,0.007845503922751962,3
+alexandriapd,"Alexandria,  La.",African American,est,10th to 20th,0.3544558438945886,1
+alexandriapd,"Alexandria,  La.",Latino,est,10th to 20th,0.04868235767451217,2
+alexandriapd,"Alexandria,  La.",White,est,10th to 20th,0.5817742908871455,4
+alexandriapd,"Alexandria,  La.",Asian,est,20th to 30th,0.04584006462035541,3
+alexandriapd,"Alexandria,  La.",African American,est,20th to 30th,0.29382067851373184,1
+alexandriapd,"Alexandria,  La.",Latino,est,20th to 30th,0.02988691437802908,2
+alexandriapd,"Alexandria,  La.",White,est,20th to 30th,0.5953150242326333,4
+alexandriapd,"Alexandria,  La.",Asian,est,30th to 40th,0.033637954501263855,3
+alexandriapd,"Alexandria,  La.",African American,est,30th to 40th,0.5597900058331713,1
+alexandriapd,"Alexandria,  La.",Latino,est,30th to 40th,0.009138635037915614,2
+alexandriapd,"Alexandria,  La.",White,est,30th to 40th,0.3433793505735952,4
+alexandriapd,"Alexandria,  La.",Asian,est,40th to 50th,0.033413525795241913,3
+alexandriapd,"Alexandria,  La.",African American,est,40th to 50th,0.5070836674685912,1
+alexandriapd,"Alexandria,  La.",Latino,est,40th to 50th,0.005747126436781609,2
+alexandriapd,"Alexandria,  La.",White,est,40th to 50th,0.43491045175086873,4
+alexandriapd,"Alexandria,  La.",Asian,est,50th to 60th,0,3
+alexandriapd,"Alexandria,  La.",African American,est,50th to 60th,0.7012306886619534,1
+alexandriapd,"Alexandria,  La.",Latino,est,50th to 60th,0.02670856245090338,2
+alexandriapd,"Alexandria,  La.",White,est,50th to 60th,0.2631578947368421,4
+alexandriapd,"Alexandria,  La.",Asian,est,60th to 70th,0.013082583810302535,3
+alexandriapd,"Alexandria,  La.",African American,est,60th to 70th,0.7218315617334423,1
+alexandriapd,"Alexandria,  La.",Latino,est,60th to 70th,0.028454619787408014,2
+alexandriapd,"Alexandria,  La.",White,est,60th to 70th,0.20752248569092396,4
+alexandriapd,"Alexandria,  La.",Asian,est,70th to 80th,0.04242693962320131,3
+alexandriapd,"Alexandria,  La.",African American,est,70th to 80th,0.5554072096128171,1
+alexandriapd,"Alexandria,  La.",Latino,est,70th to 80th,0.08248034416258715,2
+alexandriapd,"Alexandria,  La.",White,est,70th to 80th,0.315086782376502,4
+alexandriapd,"Alexandria,  La.",Asian,est,80th to 90th,0.0176678445229682,3
+alexandriapd,"Alexandria,  La.",African American,est,80th to 90th,0.5243816254416961,1
+alexandriapd,"Alexandria,  La.",Latino,est,80th to 90th,0.04187279151943463,2
+alexandriapd,"Alexandria,  La.",White,est,80th to 90th,0.39558303886925794,4
+alexandriapd,"Alexandria,  La.",Asian,est,90th to 100th,0.018884892086330936,3
+alexandriapd,"Alexandria,  La.",African American,est,90th to 100th,0.6345923261390888,1
+alexandriapd,"Alexandria,  La.",Latino,est,90th to 100th,0.009442446043165468,2
+alexandriapd,"Alexandria,  La.",White,est,90th to 100th,0.32464028776978415,4
+birminghampd,"Birmingham, Ala.",Asian,est,0 to 10th,0.013621776890105698,3
+birminghampd,"Birmingham, Ala.",African American,est,0 to 10th,0.272772155023451,1
+birminghampd,"Birmingham, Ala.",Latino,est,0 to 10th,0.03601804268306367,2
+birminghampd,"Birmingham, Ala.",White,est,0 to 10th,0.6543838782792127,4
+birminghampd,"Birmingham, Ala.",Asian,est,10th to 20th,0.01578049100695812,3
+birminghampd,"Birmingham, Ala.",African American,est,10th to 20th,0.4453459367204936,1
+birminghampd,"Birmingham, Ala.",Latino,est,10th to 20th,0.032374950768018905,2
+birminghampd,"Birmingham, Ala.",White,est,10th to 20th,0.47769463043192856,4
+birminghampd,"Birmingham, Ala.",Asian,est,20th to 30th,0.011726046350743688,3
+birminghampd,"Birmingham, Ala.",African American,est,20th to 30th,0.5211345555171221,1
+birminghampd,"Birmingham, Ala.",Latino,est,20th to 30th,0.016568661362850224,2
+birminghampd,"Birmingham, Ala.",White,est,20th to 30th,0.4365963334486337,4
+birminghampd,"Birmingham, Ala.",Asian,est,30th to 40th,0.006673493167614138,3
+birminghampd,"Birmingham, Ala.",African American,est,30th to 40th,0.6276614526323223,1
+birminghampd,"Birmingham, Ala.",Latino,est,30th to 40th,0.030472087850005297,2
+birminghampd,"Birmingham, Ala.",White,est,30th to 40th,0.320680766922072,4
+birminghampd,"Birmingham, Ala.",Asian,est,40th to 50th,0.0021381390554007103,3
+birminghampd,"Birmingham, Ala.",African American,est,40th to 50th,0.6739719751059524,1
+birminghampd,"Birmingham, Ala.",Latino,est,40th to 50th,0.05940972089649116,2
+birminghampd,"Birmingham, Ala.",White,est,40th to 50th,0.241647894314841,4
+birminghampd,"Birmingham, Ala.",Asian,est,50th to 60th,0.011690351806524677,3
+birminghampd,"Birmingham, Ala.",African American,est,50th to 60th,0.613780002191941,1
+birminghampd,"Birmingham, Ala.",Latino,est,50th to 60th,0.04073356957585943,2
+birminghampd,"Birmingham, Ala.",White,est,50th to 60th,0.32535710371533993,4
+birminghampd,"Birmingham, Ala.",Asian,est,60th to 70th,0.003312057961014318,3
+birminghampd,"Birmingham, Ala.",African American,est,60th to 70th,0.7347938588925306,1
+birminghampd,"Birmingham, Ala.",Latino,est,60th to 70th,0.039503191305847854,2
+birminghampd,"Birmingham, Ala.",White,est,60th to 70th,0.21245471795756427,4
+birminghampd,"Birmingham, Ala.",Asian,est,70th to 80th,0.016595830803481076,3
+birminghampd,"Birmingham, Ala.",African American,est,70th to 80th,0.6533427781150914,1
+birminghampd,"Birmingham, Ala.",Latino,est,70th to 80th,0.051811374215745803,2
+birminghampd,"Birmingham, Ala.",White,est,70th to 80th,0.264049112865142,4
+birminghampd,"Birmingham, Ala.",Asian,est,80th to 90th,0.010651960413991086,3
+birminghampd,"Birmingham, Ala.",African American,est,80th to 90th,0.7870741104479867,1
+birminghampd,"Birmingham, Ala.",Latino,est,80th to 90th,0.04283447911158118,2
+birminghampd,"Birmingham, Ala.",White,est,80th to 90th,0.13167636171337915,4
+birminghampd,"Birmingham, Ala.",Asian,est,90th to 100th,0.02403318868914215,3
+birminghampd,"Birmingham, Ala.",African American,est,90th to 100th,0.5963950216966287,1
+birminghampd,"Birmingham, Ala.",Latino,est,90th to 100th,0.055290639454484765,2
+birminghampd,"Birmingham, Ala.",White,est,90th to 100th,0.29669543655524294,4
+boonecounty,"Boone County, Ind.",Asian,est,0 to 10th,0.03766451974236908,3
+boonecounty,"Boone County, Ind.",African American,est,0 to 10th,0.02016241949033884,1
+boonecounty,"Boone County, Ind.",Latino,est,0 to 10th,0.04900588070568468,2
+boonecounty,"Boone County, Ind.",White,est,0 to 10th,0.8468216185942313,4
+boonecounty,"Boone County, Ind.",Asian,est,10th to 20th,0.0032451728054518902,3
+boonecounty,"Boone County, Ind.",African American,est,10th to 20th,0.007463897452539348,1
+boonecounty,"Boone County, Ind.",Latino,est,10th to 20th,0.015252312185623885,2
+boonecounty,"Boone County, Ind.",White,est,10th to 20th,0.9665747201038455,4
+boonecounty,"Boone County, Ind.",Asian,est,20th to 30th,0.003369839932603201,3
+boonecounty,"Boone County, Ind.",African American,est,20th to 30th,0.008424599831508003,1
+boonecounty,"Boone County, Ind.",Latino,est,20th to 30th,0.007582139848357203,2
+boonecounty,"Boone County, Ind.",White,est,20th to 30th,0.9612468407750632,4
+boonecounty,"Boone County, Ind.",Asian,est,30th to 40th,0.004924491135915955,3
+boonecounty,"Boone County, Ind.",African American,est,30th to 40th,0.0026263952724885093,1
+boonecounty,"Boone County, Ind.",Latino,est,30th to 40th,0.0075508864084044645,2
+boonecounty,"Boone County, Ind.",White,est,30th to 40th,0.9803020354563362,4
+boonecounty,"Boone County, Ind.",Asian,est,40th to 50th,0.04183225266680611,3
+boonecounty,"Boone County, Ind.",African American,est,40th to 50th,0.010039740640033466,1
+boonecounty,"Boone County, Ind.",Latino,est,40th to 50th,0.01882451370006275,2
+boonecounty,"Boone County, Ind.",White,est,40th to 50th,0.9169629784563899,4
+boonecounty,"Boone County, Ind.",Asian,est,50th to 60th,0.0211550339715874,3
+boonecounty,"Boone County, Ind.",African American,est,50th to 60th,0.004941321803582459,1
+boonecounty,"Boone County, Ind.",Latino,est,50th to 60th,0.02470660901791229,2
+boonecounty,"Boone County, Ind.",White,est,50th to 60th,0.9464175416924027,4
+boonecounty,"Boone County, Ind.",Asian,est,60th to 70th,0,3
+boonecounty,"Boone County, Ind.",African American,est,60th to 70th,0.011830319418624302,1
+boonecounty,"Boone County, Ind.",Latino,est,60th to 70th,0.04613824573263478,2
+boonecounty,"Boone County, Ind.",White,est,60th to 70th,0.931384147371979,4
+boonecounty,"Boone County, Ind.",Asian,est,70th to 80th,0.0349493769470405,3
+boonecounty,"Boone County, Ind.",African American,est,70th to 80th,0.0444898753894081,1
+boonecounty,"Boone County, Ind.",Latino,est,70th to 80th,0.007009345794392523,2
+boonecounty,"Boone County, Ind.",White,est,70th to 80th,0.8958333333333334,4
+boonecounty,"Boone County, Ind.",Asian,est,80th to 90th,0.057226467241099005,3
+boonecounty,"Boone County, Ind.",African American,est,80th to 90th,0.01495691757437815,1
+boonecounty,"Boone County, Ind.",Latino,est,80th to 90th,0.05682002926353438,2
+boonecounty,"Boone County, Ind.",White,est,80th to 90th,0.8511624126158348,4
+boonecounty,"Boone County, Ind.",Asian,est,90th to 100th,0,3
+boonecounty,"Boone County, Ind.",African American,est,90th to 100th,0.0029498525073746312,1
+boonecounty,"Boone County, Ind.",Latino,est,90th to 100th,0.012389380530973451,2
+boonecounty,"Boone County, Ind.",White,est,90th to 100th,0.9673549655850541,4
+clovisca,"Clovis, Calif.",Asian,est,0 to 10th,0.11193937135047832,3
+clovisca,"Clovis, Calif.",African American,est,0 to 10th,0.01726922599080631,1
+clovisca,"Clovis, Calif.",Latino,est,0 to 10th,0.21592744440303144,2
+clovisca,"Clovis, Calif.",White,est,0 to 10th,0.6040501925705056,4
+clovisca,"Clovis, Calif.",Asian,est,10th to 20th,0.09059068534645967,3
+clovisca,"Clovis, Calif.",African American,est,10th to 20th,0.025179856115107913,1
+clovisca,"Clovis, Calif.",Latino,est,10th to 20th,0.3169254070427868,2
+clovisca,"Clovis, Calif.",White,est,10th to 20th,0.5339833396440742,4
+clovisca,"Clovis, Calif.",Asian,est,20th to 30th,0.10394078398665554,3
+clovisca,"Clovis, Calif.",African American,est,20th to 30th,0.04399499582985821,1
+clovisca,"Clovis, Calif.",Latino,est,20th to 30th,0.31005004170141787,2
+clovisca,"Clovis, Calif.",White,est,20th to 30th,0.5077147623019183,4
+clovisca,"Clovis, Calif.",Asian,est,30th to 40th,0.07120106852974417,3
+clovisca,"Clovis, Calif.",African American,est,30th to 40th,0.012842905578958183,1
+clovisca,"Clovis, Calif.",Latino,est,30th to 40th,0.33638138292407277,2
+clovisca,"Clovis, Calif.",White,est,30th to 40th,0.5420733586766671,4
+clovisca,"Clovis, Calif.",Asian,est,40th to 50th,0.140933704083126,3
+clovisca,"Clovis, Calif.",African American,est,40th to 50th,0.02707449143860676,1
+clovisca,"Clovis, Calif.",Latino,est,40th to 50th,0.2635738328698961,2
+clovisca,"Clovis, Calif.",White,est,40th to 50th,0.5433923606029563,4
+clovisca,"Clovis, Calif.",Asian,est,50th to 60th,0.08063805411121883,3
+clovisca,"Clovis, Calif.",African American,est,50th to 60th,0.016480126905790076,1
+clovisca,"Clovis, Calif.",Latino,est,50th to 60th,0.30792279897770336,2
+clovisca,"Clovis, Calif.",White,est,50th to 60th,0.537498898387239,4
+clovisca,"Clovis, Calif.",Asian,est,60th to 70th,0.08397758020873598,3
+clovisca,"Clovis, Calif.",African American,est,60th to 70th,0.013625821414766138,1
+clovisca,"Clovis, Calif.",Latino,est,60th to 70th,0.3273096250483185,2
+clovisca,"Clovis, Calif.",White,est,60th to 70th,0.5219366061074604,4
+clovisca,"Clovis, Calif.",Asian,est,70th to 80th,0.07776980138789184,3
+clovisca,"Clovis, Calif.",African American,est,70th to 80th,0.040918880114860015,1
+clovisca,"Clovis, Calif.",Latino,est,70th to 80th,0.30437903804737976,2
+clovisca,"Clovis, Calif.",White,est,70th to 80th,0.5400813591768365,4
+clovisca,"Clovis, Calif.",Asian,est,80th to 90th,0.11126429324466791,3
+clovisca,"Clovis, Calif.",African American,est,80th to 90th,0.026437434109155788,1
+clovisca,"Clovis, Calif.",Latino,est,80th to 90th,0.2351796285783797,2
+clovisca,"Clovis, Calif.",White,est,80th to 90th,0.5974373530127322,4
+clovisca,"Clovis, Calif.",Asian,est,90th to 100th,0.12506559384292462,3
+clovisca,"Clovis, Calif.",African American,est,90th to 100th,0.0333654014343187,1
+clovisca,"Clovis, Calif.",Latino,est,90th to 100th,0.29451635473150256,2
+clovisca,"Clovis, Calif.",White,est,90th to 100th,0.5019240860591219,4
+cpd,"Cocoa, Fla.",Asian,est,0 to 10th,0.010026737967914439,3
+cpd,"Cocoa, Fla.",African American,est,0 to 10th,0.03342245989304813,1
+cpd,"Cocoa, Fla.",Latino,est,0 to 10th,0.04924242424242424,2
+cpd,"Cocoa, Fla.",White,est,0 to 10th,0.892379679144385,4
+cpd,"Cocoa, Fla.",Asian,est,10th to 20th,0,3
+cpd,"Cocoa, Fla.",African American,est,10th to 20th,0.7143335565974548,1
+cpd,"Cocoa, Fla.",Latino,est,10th to 20th,0.13228399196249163,2
+cpd,"Cocoa, Fla.",White,est,10th to 20th,0.1336235766912257,4
+cpd,"Cocoa, Fla.",Asian,est,20th to 30th,0.056592414208308246,3
+cpd,"Cocoa, Fla.",African American,est,20th to 30th,0.2588801926550271,1
+cpd,"Cocoa, Fla.",Latino,est,20th to 30th,0.015653220951234198,2
+cpd,"Cocoa, Fla.",White,est,20th to 30th,0.6688741721854304,4
+cpd,"Cocoa, Fla.",Asian,est,30th to 40th,0.03659532756085607,3
+cpd,"Cocoa, Fla.",African American,est,30th to 40th,0.06494036922071557,1
+cpd,"Cocoa, Fla.",Latino,est,30th to 40th,0.11966998856396013,2
+cpd,"Cocoa, Fla.",White,est,30th to 40th,0.7543702009475576,4
+cpd,"Cocoa, Fla.",Asian,est,40th to 50th,0.07925801011804384,3
+cpd,"Cocoa, Fla.",African American,est,40th to 50th,0.15586605637195858,1
+cpd,"Cocoa, Fla.",Latino,est,40th to 50th,0.0669718140207179,2
+cpd,"Cocoa, Fla.",White,est,40th to 50th,0.6511683931582751,4
+cpd,"Cocoa, Fla.",Asian,est,50th to 60th,0,3
+cpd,"Cocoa, Fla.",African American,est,50th to 60th,0.3822525597269625,1
+cpd,"Cocoa, Fla.",Latino,est,50th to 60th,0.10580204778156997,2
+cpd,"Cocoa, Fla.",White,est,50th to 60th,0.42662116040955633,4
+cpd,"Cocoa, Fla.",Asian,est,60th to 70th,0.0028443722064201544,3
+cpd,"Cocoa, Fla.",African American,est,60th to 70th,0.25071109305160505,1
+cpd,"Cocoa, Fla.",Latino,est,60th to 70th,0.08045509955302722,2
+cpd,"Cocoa, Fla.",White,est,60th to 70th,0.6355140186915887,4
+cpd,"Cocoa, Fla.",Asian,est,70th to 80th,0.002736394040741867,3
+cpd,"Cocoa, Fla.",African American,est,70th to 80th,0.08604439039221648,1
+cpd,"Cocoa, Fla.",Latino,est,70th to 80th,0.10641532380662816,2
+cpd,"Cocoa, Fla.",White,est,70th to 80th,0.7543326238978413,4
+cpd,"Cocoa, Fla.",Asian,est,80th to 90th,0,3
+cpd,"Cocoa, Fla.",African American,est,80th to 90th,0.25866896403187595,1
+cpd,"Cocoa, Fla.",Latino,est,80th to 90th,0.24940771053198363,2
+cpd,"Cocoa, Fla.",White,est,80th to 90th,0.44820159379711394,4
+cpd,"Cocoa, Fla.",Asian,est,90th to 100th,5.236973029588898e-4,3
+cpd,"Cocoa, Fla.",African American,est,90th to 100th,0.5501440167583137,1
+cpd,"Cocoa, Fla.",Latino,est,90th to 100th,0.11914113642314741,2
+cpd,"Cocoa, Fla.",White,est,90th to 100th,0.31238544121497774,4
+cpso,"Calcasieu Parish, La.",Asian,est,0 to 10th,0.024394404640054587,3
+cpso,"Calcasieu Parish, La.",African American,est,0 to 10th,0.28207096554077105,1
+cpso,"Calcasieu Parish, La.",Latino,est,0 to 10th,0.0040941658137154556,2
+cpso,"Calcasieu Parish, La.",White,est,0 to 10th,0.6432105083589219,4
+cpso,"Calcasieu Parish, La.",Asian,est,10th to 20th,0.013151650735543353,3
+cpso,"Calcasieu Parish, La.",African American,est,10th to 20th,0.3047251033828215,1
+cpso,"Calcasieu Parish, La.",Latino,est,10th to 20th,0.017083587553386213,2
+cpso,"Calcasieu Parish, La.",White,est,10th to 20th,0.6402277811673784,4
+cpso,"Calcasieu Parish, La.",Asian,est,20th to 30th,0.026257348138471588,3
+cpso,"Calcasieu Parish, La.",African American,est,20th to 30th,0.22991508817766165,1
+cpso,"Calcasieu Parish, La.",Latino,est,20th to 30th,0.06342259960809928,2
+cpso,"Calcasieu Parish, La.",White,est,20th to 30th,0.6612018288700195,4
+cpso,"Calcasieu Parish, La.",Asian,est,30th to 40th,0.01681775554860894,3
+cpso,"Calcasieu Parish, La.",African American,est,30th to 40th,0.482213191622382,1
+cpso,"Calcasieu Parish, La.",Latino,est,30th to 40th,0.03457330415754924,2
+cpso,"Calcasieu Parish, La.",White,est,30th to 40th,0.4350109409190372,4
+cpso,"Calcasieu Parish, La.",Asian,est,40th to 50th,0.0014600477833820015,3
+cpso,"Calcasieu Parish, La.",African American,est,40th to 50th,0.45945049110698166,1
+cpso,"Calcasieu Parish, La.",Latino,est,40th to 50th,0.04121316697637377,2
+cpso,"Calcasieu Parish, La.",White,est,40th to 50th,0.47411733474913725,4
+cpso,"Calcasieu Parish, La.",Asian,est,50th to 60th,0.02539316116000577,3
+cpso,"Calcasieu Parish, La.",African American,est,50th to 60th,0.283220314528928,1
+cpso,"Calcasieu Parish, La.",Latino,est,50th to 60th,0.03484345693262156,2
+cpso,"Calcasieu Parish, La.",White,est,50th to 60th,0.634973308324917,4
+cpso,"Calcasieu Parish, La.",Asian,est,60th to 70th,0.010408549482355561,3
+cpso,"Calcasieu Parish, La.",African American,est,60th to 70th,0.3581765557163531,1
+cpso,"Calcasieu Parish, La.",Latino,est,60th to 70th,0.024935990203718134,2
+cpso,"Calcasieu Parish, La.",White,est,60th to 70th,0.5792051653122565,4
+cpso,"Calcasieu Parish, La.",Asian,est,70th to 80th,0.022662978562896837,3
+cpso,"Calcasieu Parish, La.",African American,est,70th to 80th,0.11853272144338971,1
+cpso,"Calcasieu Parish, La.",Latino,est,70th to 80th,0.0338530206827183,2
+cpso,"Calcasieu Parish, La.",White,est,70th to 80th,0.8004023385930722,4
+cpso,"Calcasieu Parish, La.",Asian,est,80th to 90th,0.003271141264841289,3
+cpso,"Calcasieu Parish, La.",African American,est,80th to 90th,0.12221347225587594,1
+cpso,"Calcasieu Parish, La.",Latino,est,80th to 90th,0.024927307971892416,2
+cpso,"Calcasieu Parish, La.",White,est,80th to 90th,0.8263569178580082,4
+cpso,"Calcasieu Parish, La.",Asian,est,90th to 100th,0.006484252529571042,3
+cpso,"Calcasieu Parish, La.",African American,est,90th to 100th,0.16281886846230584,1
+cpso,"Calcasieu Parish, La.",Latino,est,90th to 100th,0.05201653128117429,2
+cpso,"Calcasieu Parish, La.",White,est,90th to 100th,0.7609377226735072,4
+decaturga,"Decatur, Ga.",Asian,est,0 to 10th,0.03763440860215054,3
+decaturga,"Decatur, Ga.",African American,est,0 to 10th,0.04953917050691244,1
+decaturga,"Decatur, Ga.",Latino,est,0 to 10th,0.04531490015360983,2
+decaturga,"Decatur, Ga.",White,est,0 to 10th,0.8168202764976958,4
+decaturga,"Decatur, Ga.",Asian,est,10th to 20th,0.058173356602675974,3
+decaturga,"Decatur, Ga.",African American,est,10th to 20th,0.3036649214659686,1
+decaturga,"Decatur, Ga.",Latino,est,10th to 20th,0.02268760907504363,2
+decaturga,"Decatur, Ga.",White,est,10th to 20th,0.5538103548574753,4
+decaturga,"Decatur, Ga.",Asian,est,20th to 30th,0.07733019700088209,3
+decaturga,"Decatur, Ga.",African American,est,20th to 30th,0.20788003528374008,1
+decaturga,"Decatur, Ga.",Latino,est,20th to 30th,0.029403116730373418,2
+decaturga,"Decatur, Ga.",White,est,20th to 30th,0.6453984122316966,4
+decaturga,"Decatur, Ga.",Asian,est,30th to 40th,0.03304904051172708,3
+decaturga,"Decatur, Ga.",African American,est,30th to 40th,0.23667377398720682,1
+decaturga,"Decatur, Ga.",Latino,est,30th to 40th,0.04975124378109453,2
+decaturga,"Decatur, Ga.",White,est,30th to 40th,0.650319829424307,4
+decaturga,"Decatur, Ga.",Asian,est,40th to 50th,0.03286516853932584,3
+decaturga,"Decatur, Ga.",African American,est,40th to 50th,0.15140449438202247,1
+decaturga,"Decatur, Ga.",Latino,est,40th to 50th,0.05561797752808989,2
+decaturga,"Decatur, Ga.",White,est,40th to 50th,0.725,4
+decaturga,"Decatur, Ga.",Asian,est,50th to 60th,0.030946761080514033,3
+decaturga,"Decatur, Ga.",African American,est,50th to 60th,0.07631785995279308,1
+decaturga,"Decatur, Ga.",Latino,est,50th to 60th,0.025701547338054027,2
+decaturga,"Decatur, Ga.",White,est,50th to 60th,0.8156307369525309,4
+decaturga,"Decatur, Ga.",Asian,est,60th to 70th,0.06194409148665819,3
+decaturga,"Decatur, Ga.",African American,est,60th to 70th,0.1797966963151207,1
+decaturga,"Decatur, Ga.",Latino,est,60th to 70th,0.04796696315120712,2
+decaturga,"Decatur, Ga.",White,est,60th to 70th,0.6404066073697586,4
+decaturga,"Decatur, Ga.",Asian,est,70th to 80th,0.01575299306868305,3
+decaturga,"Decatur, Ga.",African American,est,70th to 80th,0.15500945179584122,1
+decaturga,"Decatur, Ga.",Latino,est,70th to 80th,0.010396975425330813,2
+decaturga,"Decatur, Ga.",White,est,70th to 80th,0.7696912413358538,4
+decaturga,"Decatur, Ga.",Asian,est,80th to 90th,0.03016726403823178,3
+decaturga,"Decatur, Ga.",African American,est,80th to 90th,0.1260454002389486,1
+decaturga,"Decatur, Ga.",Latino,est,80th to 90th,0.03733572281959379,2
+decaturga,"Decatur, Ga.",White,est,80th to 90th,0.7347670250896058,4
+decaturga,"Decatur, Ga.",Asian,est,90th to 100th,0.031159719356170037,3
+decaturga,"Decatur, Ga.",African American,est,90th to 100th,0.4977300866694181,1
+decaturga,"Decatur, Ga.",Latino,est,90th to 100th,0.04560462236896409,2
+decaturga,"Decatur, Ga.",White,est,90th to 100th,0.41621956252579445,4
+elgin,"Elgin, Ill.",Asian,est,0 to 10th,0.07876945801613452,3
+elgin,"Elgin, Ill.",African American,est,0 to 10th,0.03439950005681173,1
+elgin,"Elgin, Ill.",Latino,est,0 to 10th,0.11853766617429838,2
+elgin,"Elgin, Ill.",White,est,0 to 10th,0.7510794227928644,4
+elgin,"Elgin, Ill.",Asian,est,10th to 20th,0.18154344306529951,3
+elgin,"Elgin, Ill.",African American,est,10th to 20th,0.04565569347004857,1
+elgin,"Elgin, Ill.",Latino,est,10th to 20th,0.1928224500809498,2
+elgin,"Elgin, Ill.",White,est,10th to 20th,0.5567728008634647,4
+elgin,"Elgin, Ill.",Asian,est,20th to 30th,0.0532954903815831,3
+elgin,"Elgin, Ill.",African American,est,20th to 30th,0.0315357931251971,1
+elgin,"Elgin, Ill.",Latino,est,20th to 30th,0.2610532954903816,2
+elgin,"Elgin, Ill.",White,est,20th to 30th,0.6425733207190161,4
+elgin,"Elgin, Ill.",Asian,est,30th to 40th,0.06655391120507399,3
+elgin,"Elgin, Ill.",African American,est,30th to 40th,0.049386892177589854,1
+elgin,"Elgin, Ill.",Latino,est,30th to 40th,0.39813953488372095,2
+elgin,"Elgin, Ill.",White,est,30th to 40th,0.44422832980972515,4
+elgin,"Elgin, Ill.",Asian,est,40th to 50th,0.038394415357766144,3
+elgin,"Elgin, Ill.",African American,est,40th to 50th,0.015291282306989113,1
+elgin,"Elgin, Ill.",Latino,est,40th to 50th,0.3256045873846921,2
+elgin,"Elgin, Ill.",White,est,40th to 50th,0.5984376298512424,4
+elgin,"Elgin, Ill.",Asian,est,50th to 60th,0.11036146394783461,3
+elgin,"Elgin, Ill.",African American,est,50th to 60th,0.03999095397836493,1
+elgin,"Elgin, Ill.",Latino,est,50th to 60th,0.33538125212016134,2
+elgin,"Elgin, Ill.",White,est,50th to 60th,0.49006822207983114,4
+elgin,"Elgin, Ill.",Asian,est,60th to 70th,0.06308851224105462,3
+elgin,"Elgin, Ill.",African American,est,60th to 70th,0.05084745762711865,1
+elgin,"Elgin, Ill.",Latino,est,60th to 70th,0.5719054956343091,2
+elgin,"Elgin, Ill.",White,est,60th to 70th,0.29643896593049135,4
+elgin,"Elgin, Ill.",Asian,est,70th to 80th,0.05544692737430167,3
+elgin,"Elgin, Ill.",African American,est,70th to 80th,0.06082402234636872,1
+elgin,"Elgin, Ill.",Latino,est,70th to 80th,0.506145251396648,2
+elgin,"Elgin, Ill.",White,est,70th to 80th,0.3571927374301676,4
+elgin,"Elgin, Ill.",Asian,est,80th to 90th,0.13301790418839723,3
+elgin,"Elgin, Ill.",African American,est,80th to 90th,0.03371148986504651,1
+elgin,"Elgin, Ill.",Latino,est,80th to 90th,0.443195870745739,2
+elgin,"Elgin, Ill.",White,est,80th to 90th,0.36711651164041076,4
+elgin,"Elgin, Ill.",Asian,est,90th to 100th,0.03232922037637003,3
+elgin,"Elgin, Ill.",African American,est,90th to 100th,0.10987798993589301,1
+elgin,"Elgin, Ill.",Latino,est,90th to 100th,0.5569035637967877,2
+elgin,"Elgin, Ill.",White,est,90th to 100th,0.2886882194802509,4
+elmonte,"El Monte, Calif.",Asian,est,0 to 10th,0.5787159190853123,3
+elmonte,"El Monte, Calif.",African American,est,0 to 10th,0.0032248607446496626,1
+elmonte,"El Monte, Calif.",Latino,est,0 to 10th,0.22329717580377212,2
+elmonte,"El Monte, Calif.",White,est,0 to 10th,0.17121078862503664,4
+elmonte,"El Monte, Calif.",Asian,est,10th to 20th,0.37558886509635975,3
+elmonte,"El Monte, Calif.",African American,est,10th to 20th,0.008907922912205567,1
+elmonte,"El Monte, Calif.",Latino,est,10th to 20th,0.531220556745182,2
+elmonte,"El Monte, Calif.",White,est,10th to 20th,0.04676659528907923,4
+elmonte,"El Monte, Calif.",Asian,est,20th to 30th,0.28664080494605404,3
+elmonte,"El Monte, Calif.",African American,est,20th to 30th,0.00642502121469269,1
+elmonte,"El Monte, Calif.",Latino,est,20th to 30th,0.6275306097708813,2
+elmonte,"El Monte, Calif.",White,est,20th to 30th,0.07655473390714027,4
+elmonte,"El Monte, Calif.",Asian,est,30th to 40th,0.24406863147524835,3
+elmonte,"El Monte, Calif.",African American,est,30th to 40th,0.0018060914539036203,1
+elmonte,"El Monte, Calif.",Latino,est,30th to 40th,0.7195632542484197,2
+elmonte,"El Monte, Calif.",White,est,30th to 40th,0.030457269518101963,4
+elmonte,"El Monte, Calif.",Asian,est,40th to 50th,0.269551221359591,3
+elmonte,"El Monte, Calif.",African American,est,40th to 50th,0.0038818405604999053,1
+elmonte,"El Monte, Calif.",Latino,est,40th to 50th,0.6731679606135201,2
+elmonte,"El Monte, Calif.",White,est,40th to 50th,0.037492899072145425,4
+elmonte,"El Monte, Calif.",Asian,est,50th to 60th,0.3210595820710013,3
+elmonte,"El Monte, Calif.",African American,est,50th to 60th,0.004505554260856056,1
+elmonte,"El Monte, Calif.",Latino,est,50th to 60th,0.6079390973355084,2
+elmonte,"El Monte, Calif.",White,est,50th to 60th,0.057251611900877804,4
+elmonte,"El Monte, Calif.",Asian,est,60th to 70th,0.3053362803915377,3
+elmonte,"El Monte, Calif.",African American,est,60th to 70th,0.001894537417113988,1
+elmonte,"El Monte, Calif.",Latino,est,60th to 70th,0.65858856962425,2
+elmonte,"El Monte, Calif.",White,est,60th to 70th,0.024392169245342595,4
+elmonte,"El Monte, Calif.",Asian,est,70th to 80th,0.221227382950942,3
+elmonte,"El Monte, Calif.",African American,est,70th to 80th,0.003357582540570789,1
+elmonte,"El Monte, Calif.",Latino,est,70th to 80th,0.7481813094571909,2
+elmonte,"El Monte, Calif.",White,est,70th to 80th,0.017596219610769136,4
+elmonte,"El Monte, Calif.",Asian,est,80th to 90th,0.28439198369565216,3
+elmonte,"El Monte, Calif.",African American,est,80th to 90th,8.491847826086956e-5,1
+elmonte,"El Monte, Calif.",Latino,est,80th to 90th,0.6600713315217391,2
+elmonte,"El Monte, Calif.",White,est,80th to 90th,0.037873641304347824,4
+elmonte,"El Monte, Calif.",Asian,est,90th to 100th,0.21466326720975062,3
+elmonte,"El Monte, Calif.",African American,est,90th to 100th,0.008457185498414278,1
+elmonte,"El Monte, Calif.",Latino,est,90th to 100th,0.7469062869224551,2
+elmonte,"El Monte, Calif.",White,est,90th to 100th,0.019215222933897144,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,0 to 10th,0.0417343293277038,3
+farmersbranch,"Farmers Branch, Texas",African American,est,0 to 10th,0.05505034101981163,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,0 to 10th,0.6131860993829166,2
+farmersbranch,"Farmers Branch, Texas",White,est,0 to 10th,0.2505683663527119,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,10th to 20th,0.031387319522912745,3
+farmersbranch,"Farmers Branch, Texas",African American,est,10th to 20th,0,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,10th to 20th,0.43565599497802887,2
+farmersbranch,"Farmers Branch, Texas",White,est,10th to 20th,0.49278091650973005,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,20th to 30th,0.08574879227053141,3
+farmersbranch,"Farmers Branch, Texas",African American,est,20th to 30th,0.019806763285024155,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,20th to 30th,0.586231884057971,2
+farmersbranch,"Farmers Branch, Texas",White,est,20th to 30th,0.30096618357487925,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,30th to 40th,0.03126776577600909,3
+farmersbranch,"Farmers Branch, Texas",African American,est,30th to 40th,0,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,30th to 40th,0.546048891415577,2
+farmersbranch,"Farmers Branch, Texas",White,est,30th to 40th,0.3911313246162592,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,40th to 50th,0.04977520873474631,3
+farmersbranch,"Farmers Branch, Texas",African American,est,40th to 50th,0.061335902376364805,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,40th to 50th,0.5369299935773925,2
+farmersbranch,"Farmers Branch, Texas",White,est,40th to 50th,0.33236994219653176,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,50th to 60th,0.07568653717347622,3
+farmersbranch,"Farmers Branch, Texas",African American,est,50th to 60th,0.06831882116543872,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,50th to 60th,0.17280643000669793,2
+farmersbranch,"Farmers Branch, Texas",White,est,50th to 60th,0.6332886805090422,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,60th to 70th,0.016304347826086956,3
+farmersbranch,"Farmers Branch, Texas",African American,est,60th to 70th,0,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,60th to 70th,0.41361556064073224,2
+farmersbranch,"Farmers Branch, Texas",White,est,60th to 70th,0.5411899313501144,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,70th to 80th,0.011549183592194345,3
+farmersbranch,"Farmers Branch, Texas",African American,est,70th to 80th,0.02867383512544803,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,70th to 80th,0.8128235762644365,2
+farmersbranch,"Farmers Branch, Texas",White,est,70th to 80th,0.14416567104739147,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,80th to 90th,0.017292490118577076,3
+farmersbranch,"Farmers Branch, Texas",African American,est,80th to 90th,0.08152173913043478,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,80th to 90th,0.5140810276679841,2
+farmersbranch,"Farmers Branch, Texas",White,est,80th to 90th,0.30533596837944665,4
+farmersbranch,"Farmers Branch, Texas",Asian,est,90th to 100th,0.19812614259597805,3
+farmersbranch,"Farmers Branch, Texas",African American,est,90th to 100th,0.12454296160877514,1
+farmersbranch,"Farmers Branch, Texas",Latino,est,90th to 100th,0.3296389396709324,2
+farmersbranch,"Farmers Branch, Texas",White,est,90th to 100th,0.3190127970749543,4
+forsythso,"Forsyth County, Ga.",Asian,est,0 to 10th,0.07813179906203162,3
+forsythso,"Forsyth County, Ga.",African American,est,0 to 10th,0.022337185127882804,1
+forsythso,"Forsyth County, Ga.",Latino,est,0 to 10th,0.07092781511386162,2
+forsythso,"Forsyth County, Ga.",White,est,0 to 10th,0.8133249528598366,4
+forsythso,"Forsyth County, Ga.",Asian,est,10th to 20th,0.20920727116274068,3
+forsythso,"Forsyth County, Ga.",African American,est,10th to 20th,0.028557599225556632,1
+forsythso,"Forsyth County, Ga.",Latino,est,10th to 20th,0.12267398085403894,2
+forsythso,"Forsyth County, Ga.",White,est,10th to 20th,0.6128858771646768,4
+forsythso,"Forsyth County, Ga.",Asian,est,20th to 30th,0.1091159516400551,3
+forsythso,"Forsyth County, Ga.",African American,est,20th to 30th,0.023873896852522572,1
+forsythso,"Forsyth County, Ga.",Latino,est,20th to 30th,0.11416619905116564,2
+forsythso,"Forsyth County, Ga.",White,est,20th to 30th,0.7297862572055298,4
+forsythso,"Forsyth County, Ga.",Asian,est,30th to 40th,0.08630412396410533,3
+forsythso,"Forsyth County, Ga.",African American,est,30th to 40th,0.012896582160545286,1
+forsythso,"Forsyth County, Ga.",Latino,est,30th to 40th,0.08046878830971411,2
+forsythso,"Forsyth County, Ga.",White,est,30th to 40th,0.7983131466679743,4
+forsythso,"Forsyth County, Ga.",Asian,est,40th to 50th,0.14063483832734547,3
+forsythso,"Forsyth County, Ga.",African American,est,40th to 50th,0.05129819622948998,1
+forsythso,"Forsyth County, Ga.",Latino,est,40th to 50th,0.15970961887477314,2
+forsythso,"Forsyth County, Ga.",White,est,40th to 50th,0.6299862957887329,4
+forsythso,"Forsyth County, Ga.",Asian,est,50th to 60th,0.22990006302331864,3
+forsythso,"Forsyth County, Ga.",African American,est,50th to 60th,0.036868641397317006,1
+forsythso,"Forsyth County, Ga.",Latino,est,50th to 60th,0.07207166651661115,2
+forsythso,"Forsyth County, Ga.",White,est,50th to 60th,0.6363554515170613,4
+forsythso,"Forsyth County, Ga.",Asian,est,60th to 70th,0.03984721305290955,3
+forsythso,"Forsyth County, Ga.",African American,est,60th to 70th,0.023814014901442988,1
+forsythso,"Forsyth County, Ga.",Latino,est,60th to 70th,0.0878524945770065,2
+forsythso,"Forsyth County, Ga.",White,est,60th to 70th,0.8286334056399133,4
+forsythso,"Forsyth County, Ga.",Asian,est,70th to 80th,0.11693158258465791,3
+forsythso,"Forsyth County, Ga.",African American,est,70th to 80th,0.03114489748905782,1
+forsythso,"Forsyth County, Ga.",Latino,est,70th to 80th,0.05980188896567611,2
+forsythso,"Forsyth County, Ga.",White,est,70th to 80th,0.7736466252015665,4
+forsythso,"Forsyth County, Ga.",Asian,est,80th to 90th,0.11292156119742326,3
+forsythso,"Forsyth County, Ga.",African American,est,80th to 90th,0.051829396656982864,1
+forsythso,"Forsyth County, Ga.",Latino,est,80th to 90th,0.06227106227106227,2
+forsythso,"Forsyth County, Ga.",White,est,80th to 90th,0.7480106100795756,4
+forsythso,"Forsyth County, Ga.",Asian,est,90th to 100th,0.06562348374575448,3
+forsythso,"Forsyth County, Ga.",African American,est,90th to 100th,0.023249231764515606,1
+forsythso,"Forsyth County, Ga.",Latino,est,90th to 100th,0.10896813844412098,2
+forsythso,"Forsyth County, Ga.",White,est,90th to 100th,0.7715914604560893,4
+frederick,"Frederick, Md.",Asian,est,0 to 10th,0.02628393567352585,3
+frederick,"Frederick, Md.",African American,est,0 to 10th,0.05049282379387861,1
+frederick,"Frederick, Md.",Latino,est,0 to 10th,0.1053086633235345,2
+frederick,"Frederick, Md.",White,est,0 to 10th,0.7904201971295175,4
+frederick,"Frederick, Md.",Asian,est,10th to 20th,0.05065104166666667,3
+frederick,"Frederick, Md.",African American,est,10th to 20th,0.16640625,1
+frederick,"Frederick, Md.",Latino,est,10th to 20th,0.084765625,2
+frederick,"Frederick, Md.",White,est,10th to 20th,0.6684895833333333,4
+frederick,"Frederick, Md.",Asian,est,20th to 30th,0.09627426424546023,3
+frederick,"Frederick, Md.",African American,est,20th to 30th,0.10535378835316218,1
+frederick,"Frederick, Md.",Latino,est,20th to 30th,0.06840951784596118,2
+frederick,"Frederick, Md.",White,est,20th to 30th,0.6732936756418284,4
+frederick,"Frederick, Md.",Asian,est,30th to 40th,0.0868471667406421,3
+frederick,"Frederick, Md.",African American,est,30th to 40th,0.19485130936529071,1
+frederick,"Frederick, Md.",Latino,est,30th to 40th,0.05104305370616955,2
+frederick,"Frederick, Md.",White,est,30th to 40th,0.647876904867584,4
+frederick,"Frederick, Md.",Asian,est,40th to 50th,0.08537632357149672,3
+frederick,"Frederick, Md.",African American,est,40th to 50th,0.1859200610512258,1
+frederick,"Frederick, Md.",Latino,est,40th to 50th,0.14633215682533626,2
+frederick,"Frederick, Md.",White,est,40th to 50th,0.5450729752933321,4
+frederick,"Frederick, Md.",Asian,est,50th to 60th,0.02933591231463572,3
+frederick,"Frederick, Md.",African American,est,50th to 60th,0.17988394584139264,1
+frederick,"Frederick, Md.",Latino,est,50th to 60th,0.07769181173436493,2
+frederick,"Frederick, Md.",White,est,50th to 60th,0.6495809155383624,4
+frederick,"Frederick, Md.",Asian,est,60th to 70th,0.03005037345839847,3
+frederick,"Frederick, Md.",African American,est,60th to 70th,0.11655376063922182,1
+frederick,"Frederick, Md.",Latino,est,60th to 70th,0.07851311446934167,2
+frederick,"Frederick, Md.",White,est,60th to 70th,0.7271148167448324,4
+frederick,"Frederick, Md.",Asian,est,70th to 80th,0.03229527104959631,3
+frederick,"Frederick, Md.",African American,est,70th to 80th,0.21914648212226068,1
+frederick,"Frederick, Md.",Latino,est,70th to 80th,0.222318339100346,2
+frederick,"Frederick, Md.",White,est,70th to 80th,0.48414071510957324,4
+frederick,"Frederick, Md.",Asian,est,80th to 90th,0.06575501891184173,3
+frederick,"Frederick, Md.",African American,est,80th to 90th,0.2018232955096499,1
+frederick,"Frederick, Md.",Latino,est,80th to 90th,0.3221801959072835,2
+frederick,"Frederick, Md.",White,est,80th to 90th,0.386674425370963,4
+frederick,"Frederick, Md.",Asian,est,90th to 100th,0.03706896551724138,3
+frederick,"Frederick, Md.",African American,est,90th to 100th,0.22351097178683385,1
+frederick,"Frederick, Md.",Latino,est,90th to 100th,0.2334639498432602,2
+frederick,"Frederick, Md.",White,est,90th to 100th,0.4726489028213166,4
+fresnopd,"Fresno, Calif.",Asian,est,0 to 10th,0.10279605263157894,3
+fresnopd,"Fresno, Calif.",African American,est,0 to 10th,0.04016755756578947,1
+fresnopd,"Fresno, Calif.",Latino,est,0 to 10th,0.4824475740131579,2
+fresnopd,"Fresno, Calif.",White,est,0 to 10th,0.3571905838815789,4
+fresnopd,"Fresno, Calif.",Asian,est,10th to 20th,0.12098178020192643,3
+fresnopd,"Fresno, Calif.",African American,est,10th to 20th,0.028973734091524504,1
+fresnopd,"Fresno, Calif.",Latino,est,10th to 20th,0.37277087926966074,2
+fresnopd,"Fresno, Calif.",White,est,10th to 20th,0.4492862945340606,4
+fresnopd,"Fresno, Calif.",Asian,est,20th to 30th,0.14521622975455,3
+fresnopd,"Fresno, Calif.",African American,est,20th to 30th,0.0555685423276006,1
+fresnopd,"Fresno, Calif.",Latino,est,20th to 30th,0.47241609617632324,2
+fresnopd,"Fresno, Calif.",White,est,20th to 30th,0.30126899315411587,4
+fresnopd,"Fresno, Calif.",Asian,est,30th to 40th,0.12449131319455314,3
+fresnopd,"Fresno, Calif.",African American,est,30th to 40th,0.06292064485835029,1
+fresnopd,"Fresno, Calif.",Latino,est,30th to 40th,0.4662897167005791,2
+fresnopd,"Fresno, Calif.",White,est,30th to 40th,0.31970965722335265,4
+fresnopd,"Fresno, Calif.",Asian,est,40th to 50th,0.1280440026426168,3
+fresnopd,"Fresno, Calif.",African American,est,40th to 50th,0.05644752408315024,1
+fresnopd,"Fresno, Calif.",Latino,est,40th to 50th,0.44982869082919785,2
+fresnopd,"Fresno, Calif.",White,est,40th to 50th,0.33496704411019096,4
+fresnopd,"Fresno, Calif.",Asian,est,50th to 60th,0.17047944710670165,3
+fresnopd,"Fresno, Calif.",African American,est,50th to 60th,0.07144749199316107,1
+fresnopd,"Fresno, Calif.",Latino,est,50th to 60th,0.4504418811857346,2
+fresnopd,"Fresno, Calif.",White,est,50th to 60th,0.275314855395285,4
+fresnopd,"Fresno, Calif.",Asian,est,60th to 70th,0.13922538249643224,3
+fresnopd,"Fresno, Calif.",African American,est,60th to 70th,0.06408682088214795,1
+fresnopd,"Fresno, Calif.",Latino,est,60th to 70th,0.5093259433805715,2
+fresnopd,"Fresno, Calif.",White,est,60th to 70th,0.2633002555507617,4
+fresnopd,"Fresno, Calif.",Asian,est,70th to 80th,0.12746483728626587,3
+fresnopd,"Fresno, Calif.",African American,est,70th to 80th,0.07653061224489796,1
+fresnopd,"Fresno, Calif.",Latino,est,70th to 80th,0.5728247380033095,2
+fresnopd,"Fresno, Calif.",White,est,70th to 80th,0.18343215664644236,4
+fresnopd,"Fresno, Calif.",Asian,est,80th to 90th,0.13960441582336708,3
+fresnopd,"Fresno, Calif.",African American,est,80th to 90th,0.07916991012667185,1
+fresnopd,"Fresno, Calif.",Latino,est,80th to 90th,0.521406836034251,2
+fresnopd,"Fresno, Calif.",White,est,80th to 90th,0.2316715023706744,4
+fresnopd,"Fresno, Calif.",Asian,est,90th to 100th,0.0914117570975878,3
+fresnopd,"Fresno, Calif.",African American,est,90th to 100th,0.11684343271034081,1
+fresnopd,"Fresno, Calif.",Latino,est,90th to 100th,0.5931416930737891,2
+fresnopd,"Fresno, Calif.",White,est,90th to 100th,0.17056845372825455,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,0 to 10th,0.013137151865475564,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,0 to 10th,0.02653704676826064,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,0 to 10th,0.20323173935890698,2
+ftmyerspd,"Fort Myers, Fla.",White,est,0 to 10th,0.7358118759852864,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,10th to 20th,0.009382967873533911,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,10th to 20th,0.059051504334523205,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,10th to 20th,0.19020907700152984,2
+ftmyerspd,"Fort Myers, Fla.",White,est,10th to 20th,0.7343192248852626,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,20th to 30th,0.010196822385582168,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,20th to 30th,0.2601375385345032,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,20th to 30th,0.22172160303533317,2
+ftmyerspd,"Fort Myers, Fla.",White,est,20th to 30th,0.49917002608489447,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,30th to 40th,0.08983451536643026,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,30th to 40th,0.08105369807497467,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,30th to 40th,0.2684903748733536,2
+ftmyerspd,"Fort Myers, Fla.",White,est,30th to 40th,0.5497016773612519,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,40th to 50th,0.014760914760914762,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,40th to 50th,0.2718295218295218,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,40th to 50th,0.33970893970893973,2
+ftmyerspd,"Fort Myers, Fla.",White,est,40th to 50th,0.3607068607068607,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,50th to 60th,0.011276625365446193,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,50th to 60th,0.2725880551301684,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,50th to 60th,0.1857162745371015,2
+ftmyerspd,"Fort Myers, Fla.",White,est,50th to 60th,0.506055965474036,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,60th to 70th,0.02590764892492069,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,60th to 70th,0.21008107155445893,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,60th to 70th,0.18452590764892493,2
+ftmyerspd,"Fort Myers, Fla.",White,est,60th to 70th,0.550052872752908,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,70th to 80th,0.0022391401701746527,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,70th to 80th,0.5153007911628601,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,70th to 80th,0.15450067174205107,2
+ftmyerspd,"Fort Myers, Fla.",White,est,70th to 80th,0.30900134348410213,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,80th to 90th,0.016397228637413396,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,80th to 90th,0.20623556581986144,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,80th to 90th,0.40011547344110854,2
+ftmyerspd,"Fort Myers, Fla.",White,est,80th to 90th,0.3480369515011547,4
+ftmyerspd,"Fort Myers, Fla.",Asian,est,90th to 100th,0.027118108577747355,3
+ftmyerspd,"Fort Myers, Fla.",African American,est,90th to 100th,0.1705018166499921,1
+ftmyerspd,"Fort Myers, Fla.",Latino,est,90th to 100th,0.24316781633405296,2
+ftmyerspd,"Fort Myers, Fla.",White,est,90th to 100th,0.5309883629087463,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,0 to 10th,0,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,0 to 10th,0,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,0 to 10th,0,2
+gloucestertwppd,"Gloucester township , N.J",White,est,0 to 10th,0,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,10th to 20th,0,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,10th to 20th,0,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,10th to 20th,0,2
+gloucestertwppd,"Gloucester township , N.J",White,est,10th to 20th,0,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,20th to 30th,0,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,20th to 30th,0,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,20th to 30th,0,2
+gloucestertwppd,"Gloucester township , N.J",White,est,20th to 30th,0,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,30th to 40th,0.03663570691434469,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,30th to 40th,0.11403508771929824,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,30th to 40th,0.05405056759545924,2
+gloucestertwppd,"Gloucester township , N.J",White,est,30th to 40th,0.7890866873065016,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,40th to 50th,0.030174588757695023,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,40th to 50th,0.16449692199011,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,40th to 50th,0.07235846200423857,2
+gloucestertwppd,"Gloucester township , N.J",White,est,40th to 50th,0.7194469674033707,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,50th to 60th,0.016350423899878886,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,50th to 60th,0.17268873637464674,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,50th to 60th,0.11273718207509084,2
+gloucestertwppd,"Gloucester township , N.J",White,est,50th to 60th,0.6691562373839322,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,60th to 70th,0.08219064926482736,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,60th to 70th,0.12134478770857426,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,60th to 70th,0.08491657029572112,2
+gloucestertwppd,"Gloucester township , N.J",White,est,60th to 70th,0.6908970758301669,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,70th to 80th,0.0313709917601509,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,70th to 80th,0.10205499851087065,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,70th to 80th,0.05142460041695622,2
+gloucestertwppd,"Gloucester township , N.J",White,est,70th to 80th,0.7974784076243423,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,80th to 90th,0.02951741371232235,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,80th to 90th,0.1997501171325941,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,80th to 90th,0.07004529126971731,2
+gloucestertwppd,"Gloucester township , N.J",White,est,80th to 90th,0.6522723723254724,4
+gloucestertwppd,"Gloucester township , N.J",Asian,est,90th to 100th,0.02542761648862966,3
+gloucestertwppd,"Gloucester township , N.J",African American,est,90th to 100th,0.2948423880988269,1
+gloucestertwppd,"Gloucester township , N.J",Latino,est,90th to 100th,0.10760862441837604,2
+gloucestertwppd,"Gloucester township , N.J",White,est,90th to 100th,0.5343076217314372,4
+gvpd,"Grass Valley, Calif.",Asian,est,0 to 10th,0,3
+gvpd,"Grass Valley, Calif.",African American,est,0 to 10th,5.945303210463733e-4,1
+gvpd,"Grass Valley, Calif.",Latino,est,0 to 10th,0.10136741973840666,2
+gvpd,"Grass Valley, Calif.",White,est,0 to 10th,0.8246135552913199,4
+gvpd,"Grass Valley, Calif.",Asian,est,10th to 20th,0.023325808878856283,3
+gvpd,"Grass Valley, Calif.",African American,est,10th to 20th,0,1
+gvpd,"Grass Valley, Calif.",Latino,est,10th to 20th,0.13243039879608728,2
+gvpd,"Grass Valley, Calif.",White,est,10th to 20th,0.7366440933032355,4
+gvpd,"Grass Valley, Calif.",Asian,est,20th to 30th,0.006360078277886497,3
+gvpd,"Grass Valley, Calif.",African American,est,20th to 30th,0.022504892367906065,1
+gvpd,"Grass Valley, Calif.",Latino,est,20th to 30th,0.0410958904109589,2
+gvpd,"Grass Valley, Calif.",White,est,20th to 30th,0.8625244618395304,4
+gvpd,"Grass Valley, Calif.",Asian,est,30th to 40th,0.001658374792703151,3
+gvpd,"Grass Valley, Calif.",African American,est,30th to 40th,0,1
+gvpd,"Grass Valley, Calif.",Latino,est,30th to 40th,0.10834715312327253,2
+gvpd,"Grass Valley, Calif.",White,est,30th to 40th,0.8369264787175235,4
+gvpd,"Grass Valley, Calif.",Asian,est,40th to 50th,0,3
+gvpd,"Grass Valley, Calif.",African American,est,40th to 50th,0.044481054365733116,1
+gvpd,"Grass Valley, Calif.",Latino,est,40th to 50th,0.011532125205930808,2
+gvpd,"Grass Valley, Calif.",White,est,40th to 50th,0.8797364085667215,4
+gvpd,"Grass Valley, Calif.",Asian,est,50th to 60th,0,3
+gvpd,"Grass Valley, Calif.",African American,est,50th to 60th,0,1
+gvpd,"Grass Valley, Calif.",Latino,est,50th to 60th,0,2
+gvpd,"Grass Valley, Calif.",White,est,50th to 60th,0.9154557463672391,4
+gvpd,"Grass Valley, Calif.",Asian,est,60th to 70th,0.009057971014492754,3
+gvpd,"Grass Valley, Calif.",African American,est,60th to 70th,0.021739130434782608,1
+gvpd,"Grass Valley, Calif.",Latino,est,60th to 70th,0.06702898550724638,2
+gvpd,"Grass Valley, Calif.",White,est,60th to 70th,0.802536231884058,4
+gvpd,"Grass Valley, Calif.",Asian,est,70th to 80th,0,3
+gvpd,"Grass Valley, Calif.",African American,est,70th to 80th,0,1
+gvpd,"Grass Valley, Calif.",Latino,est,70th to 80th,0.14695752009184845,2
+gvpd,"Grass Valley, Calif.",White,est,70th to 80th,0.8530424799081515,4
+gvpd,"Grass Valley, Calif.",Asian,est,80th to 90th,4.4169611307420494e-4,3
+gvpd,"Grass Valley, Calif.",African American,est,80th to 90th,0.002208480565371025,1
+gvpd,"Grass Valley, Calif.",Latino,est,80th to 90th,0.14708480565371024,2
+gvpd,"Grass Valley, Calif.",White,est,80th to 90th,0.8396643109540636,4
+gvpd,"Grass Valley, Calif.",Asian,est,90th to 100th,0.0471727585129647,3
+gvpd,"Grass Valley, Calif.",African American,est,90th to 100th,0,1
+gvpd,"Grass Valley, Calif.",Latino,est,90th to 100th,0.21118400499843798,2
+gvpd,"Grass Valley, Calif.",White,est,90th to 100th,0.7197750702905342,4
+haverhill,"Haverhill, Mass.",Asian,est,0 to 10th,0.014345991561181435,3
+haverhill,"Haverhill, Mass.",African American,est,0 to 10th,0.028129395218002812,1
+haverhill,"Haverhill, Mass.",Latino,est,0 to 10th,0.13023909985935303,2
+haverhill,"Haverhill, Mass.",White,est,0 to 10th,0.7974683544303798,4
+haverhill,"Haverhill, Mass.",Asian,est,10th to 20th,0.01439972241498959,3
+haverhill,"Haverhill, Mass.",African American,est,10th to 20th,0.012838306731436502,1
+haverhill,"Haverhill, Mass.",Latino,est,10th to 20th,0.04823039555863983,2
+haverhill,"Haverhill, Mass.",White,est,10th to 20th,0.8880985426786954,4
+haverhill,"Haverhill, Mass.",Asian,est,20th to 30th,0.029609965284868287,3
+haverhill,"Haverhill, Mass.",African American,est,20th to 30th,0.036961404941801106,1
+haverhill,"Haverhill, Mass.",Latino,est,20th to 30th,0.03818664488462324,2
+haverhill,"Haverhill, Mass.",White,est,20th to 30th,0.8770675924035124,4
+haverhill,"Haverhill, Mass.",Asian,est,30th to 40th,0.032320710223331946,3
+haverhill,"Haverhill, Mass.",African American,est,30th to 40th,0.02177833263975586,1
+haverhill,"Haverhill, Mass.",Latino,est,30th to 40th,0.19891801914273824,2
+haverhill,"Haverhill, Mass.",White,est,30th to 40th,0.714107365792759,4
+haverhill,"Haverhill, Mass.",Asian,est,40th to 50th,0.016054622624100387,3
+haverhill,"Haverhill, Mass.",African American,est,40th to 50th,0.03284738881712493,1
+haverhill,"Haverhill, Mass.",Latino,est,40th to 50th,0.06790920834102233,2
+haverhill,"Haverhill, Mass.",White,est,40th to 50th,0.8675032293781141,4
+haverhill,"Haverhill, Mass.",Asian,est,50th to 60th,0,3
+haverhill,"Haverhill, Mass.",African American,est,50th to 60th,0.019796682718031033,1
+haverhill,"Haverhill, Mass.",Latino,est,50th to 60th,0.24201890494025324,2
+haverhill,"Haverhill, Mass.",White,est,50th to 60th,0.7362225789192082,4
+haverhill,"Haverhill, Mass.",Asian,est,60th to 70th,0.004231082180634662,3
+haverhill,"Haverhill, Mass.",African American,est,60th to 70th,0.012042310821806347,1
+haverhill,"Haverhill, Mass.",Latino,est,60th to 70th,0.13588283157038242,2
+haverhill,"Haverhill, Mass.",White,est,60th to 70th,0.8413344182262001,4
+haverhill,"Haverhill, Mass.",Asian,est,70th to 80th,0.02613004955699054,3
+haverhill,"Haverhill, Mass.",African American,est,70th to 80th,0.037393001952245083,1
+haverhill,"Haverhill, Mass.",Latino,est,70th to 80th,0.16338789608049256,2
+haverhill,"Haverhill, Mass.",White,est,70th to 80th,0.7450067577714371,4
+haverhill,"Haverhill, Mass.",Asian,est,80th to 90th,0.0027667109340416113,3
+haverhill,"Haverhill, Mass.",African American,est,80th to 90th,0.03297919433377601,1
+haverhill,"Haverhill, Mass.",Latino,est,80th to 90th,0.3429614873837981,2
+haverhill,"Haverhill, Mass.",White,est,80th to 90th,0.5668437361664453,4
+haverhill,"Haverhill, Mass.",Asian,est,90th to 100th,0.007787295583490933,3
+haverhill,"Haverhill, Mass.",African American,est,90th to 100th,0.015352097007453554,1
+haverhill,"Haverhill, Mass.",Latino,est,90th to 100th,0.4143953721214818,2
+haverhill,"Haverhill, Mass.",White,est,90th to 100th,0.533429747469129,4
+homewood,"Homewood, Ala.",Asian,est,0 to 10th,0.057299451918286,3
+homewood,"Homewood, Ala.",African American,est,0 to 10th,0.10413552566018934,1
+homewood,"Homewood, Ala.",Latino,est,0 to 10th,0.015944195316392625,2
+homewood,"Homewood, Ala.",White,est,0 to 10th,0.763328350772297,4
+homewood,"Homewood, Ala.",Asian,est,10th to 20th,0.07497467071935157,3
+homewood,"Homewood, Ala.",African American,est,10th to 20th,0.09253630530226276,1
+homewood,"Homewood, Ala.",Latino,est,10th to 20th,0.01789935832489024,2
+homewood,"Homewood, Ala.",White,est,10th to 20th,0.7163120567375887,4
+homewood,"Homewood, Ala.",Asian,est,20th to 30th,0.006487488415199258,3
+homewood,"Homewood, Ala.",African American,est,20th to 30th,0.6047265987025023,1
+homewood,"Homewood, Ala.",Latino,est,20th to 30th,0.051899907321594066,2
+homewood,"Homewood, Ala.",White,est,20th to 30th,0.33688600556070436,4
+homewood,"Homewood, Ala.",Asian,est,30th to 40th,0.05386698766175143,3
+homewood,"Homewood, Ala.",African American,est,30th to 40th,0.15167017755040627,1
+homewood,"Homewood, Ala.",Latino,est,30th to 40th,0.053265121877821245,2
+homewood,"Homewood, Ala.",White,est,30th to 40th,0.7126090881733373,4
+homewood,"Homewood, Ala.",Asian,est,40th to 50th,0.018425460636515914,3
+homewood,"Homewood, Ala.",African American,est,40th to 50th,0.12939698492462312,1
+homewood,"Homewood, Ala.",Latino,est,40th to 50th,0.02847571189279732,2
+homewood,"Homewood, Ala.",White,est,40th to 50th,0.8082077051926299,4
+homewood,"Homewood, Ala.",Asian,est,50th to 60th,0.0028057049333645077,3
+homewood,"Homewood, Ala.",African American,est,50th to 60th,0.16343231236848257,1
+homewood,"Homewood, Ala.",Latino,est,50th to 60th,0.04068272153378536,2
+homewood,"Homewood, Ala.",White,est,50th to 60th,0.7839607201309329,4
+homewood,"Homewood, Ala.",Asian,est,60th to 70th,0.01812090756814375,3
+homewood,"Homewood, Ala.",African American,est,60th to 70th,0.09913202375513934,1
+homewood,"Homewood, Ala.",Latino,est,60th to 70th,0.019339119841632404,2
+homewood,"Homewood, Ala.",White,est,60th to 70th,0.8324958123953099,4
+homewood,"Homewood, Ala.",Asian,est,70th to 80th,0.04656319290465632,3
+homewood,"Homewood, Ala.",African American,est,70th to 80th,0.04841093865484109,1
+homewood,"Homewood, Ala.",Latino,est,70th to 80th,0.07243163340724317,2
+homewood,"Homewood, Ala.",White,est,70th to 80th,0.8325942350332595,4
+homewood,"Homewood, Ala.",Asian,est,80th to 90th,0.02303588748787585,3
+homewood,"Homewood, Ala.",African American,est,80th to 90th,0.2851600387972842,1
+homewood,"Homewood, Ala.",Latino,est,80th to 90th,0.03322017458777886,2
+homewood,"Homewood, Ala.",White,est,80th to 90th,0.6059650824442289,4
+homewood,"Homewood, Ala.",Asian,est,90th to 100th,0.05004101722723544,3
+homewood,"Homewood, Ala.",African American,est,90th to 100th,0.24145474432595024,1
+homewood,"Homewood, Ala.",Latino,est,90th to 100th,0.08859721082854799,2
+homewood,"Homewood, Ala.",White,est,90th to 100th,0.6166256494394312,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,0 to 10th,0.0115990057995029,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,0 to 10th,0.030378348522507596,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,0 to 10th,0.1132283899475283,2
+jacksonvilletx,"Jacksonville, Texas",White,est,0 to 10th,0.8144159072079536,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,10th to 20th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,10th to 20th,0.08287724784988272,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,10th to 20th,0.10711493354182955,2
+jacksonvilletx,"Jacksonville, Texas",White,est,10th to 20th,0.8100078186082877,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,20th to 30th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,20th to 30th,0.1728395061728395,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,20th to 30th,0.32316630355846043,2
+jacksonvilletx,"Jacksonville, Texas",White,est,20th to 30th,0.477124183006536,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,30th to 40th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,30th to 40th,0.037336652146857496,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,30th to 40th,0.05849408836341008,2
+jacksonvilletx,"Jacksonville, Texas",White,est,30th to 40th,0.879900435594275,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,40th to 50th,0.0105,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,40th to 50th,0.077,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,40th to 50th,0.5225,2
+jacksonvilletx,"Jacksonville, Texas",White,est,40th to 50th,0.3855,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,50th to 60th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,50th to 60th,0,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,50th to 60th,0.20747295968534907,2
+jacksonvilletx,"Jacksonville, Texas",White,est,50th to 60th,0.7925270403146509,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,60th to 70th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,60th to 70th,0.12752452394691285,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,60th to 70th,0.5470282746682055,2
+jacksonvilletx,"Jacksonville, Texas",White,est,60th to 70th,0.3035199076745528,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,70th to 80th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,70th to 80th,0.4197056941778631,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,70th to 80th,0.3915547024952015,2
+jacksonvilletx,"Jacksonville, Texas",White,est,70th to 80th,0.18873960332693537,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,80th to 90th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,80th to 90th,0.16497125165855817,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,80th to 90th,0.5484298982750995,2
+jacksonvilletx,"Jacksonville, Texas",White,est,80th to 90th,0.19106590004422822,4
+jacksonvilletx,"Jacksonville, Texas",Asian,est,90th to 100th,0,3
+jacksonvilletx,"Jacksonville, Texas",African American,est,90th to 100th,0.43039126478616924,1
+jacksonvilletx,"Jacksonville, Texas",Latino,est,90th to 100th,0.40400363967242947,2
+jacksonvilletx,"Jacksonville, Texas",White,est,90th to 100th,0.13102820746132848,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,0 to 10th,0,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,0 to 10th,0,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,0 to 10th,0,2
+jeffcomacc,"Jefferson County, Ala.",White,est,0 to 10th,0,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,10th to 20th,0,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,10th to 20th,0,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,10th to 20th,0,2
+jeffcomacc,"Jefferson County, Ala.",White,est,10th to 20th,0,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,20th to 30th,0,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,20th to 30th,0,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,20th to 30th,0,2
+jeffcomacc,"Jefferson County, Ala.",White,est,20th to 30th,0,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,30th to 40th,0,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,30th to 40th,0,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,30th to 40th,0,2
+jeffcomacc,"Jefferson County, Ala.",White,est,30th to 40th,0,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,40th to 50th,0,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,40th to 50th,0,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,40th to 50th,0,2
+jeffcomacc,"Jefferson County, Ala.",White,est,40th to 50th,0,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,50th to 60th,0.02033535497681056,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,50th to 60th,0.4008460323123184,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,50th to 60th,0.02945823352530452,2
+jeffcomacc,"Jefferson County, Ala.",White,est,50th to 60th,0.5311655878905255,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,60th to 70th,0.018117820404376653,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,60th to 70th,0.3864498349204617,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,60th to 70th,0.043466397446042186,2
+jeffcomacc,"Jefferson County, Ala.",White,est,60th to 70th,0.5311195394144451,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,70th to 80th,0.015168356789849,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,70th to 80th,0.4634471672623425,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,70th to 80th,0.0390238897344255,2
+jeffcomacc,"Jefferson County, Ala.",White,est,70th to 80th,0.4523145852215401,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,80th to 90th,0.015404929577464789,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,80th to 90th,0.34911971830985916,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,80th to 90th,0.028014964788732395,2
+jeffcomacc,"Jefferson County, Ala.",White,est,80th to 90th,0.5834507042253522,4
+jeffcomacc,"Jefferson County, Ala.",Asian,est,90th to 100th,0.00851641978990622,3
+jeffcomacc,"Jefferson County, Ala.",African American,est,90th to 100th,0.3880107366537429,1
+jeffcomacc,"Jefferson County, Ala.",Latino,est,90th to 100th,0.034286597960919464,2
+jeffcomacc,"Jefferson County, Ala.",White,est,90th to 100th,0.5500436314632556,4
+la,"Los Angeles, Calif.",Asian,est,0 to 10th,0.10489160366494768,3
+la,"Los Angeles, Calif.",African American,est,0 to 10th,0.07241204197094649,1
+la,"Los Angeles, Calif.",Latino,est,0 to 10th,0.4810923317907747,2
+la,"Los Angeles, Calif.",White,est,0 to 10th,0.3117136705981647,4
+la,"Los Angeles, Calif.",Asian,est,10th to 20th,0.10349477255965739,3
+la,"Los Angeles, Calif.",African American,est,10th to 20th,0.06529631657745887,1
+la,"Los Angeles, Calif.",Latino,est,10th to 20th,0.4393075659404486,2
+la,"Los Angeles, Calif.",White,est,10th to 20th,0.3588686065540042,4
+la,"Los Angeles, Calif.",Asian,est,20th to 30th,0.10439843456936661,3
+la,"Los Angeles, Calif.",African American,est,20th to 30th,0.08521966978147798,1
+la,"Los Angeles, Calif.",Latino,est,20th to 30th,0.4945327503093349,2
+la,"Los Angeles, Calif.",White,est,20th to 30th,0.2871495837275837,4
+la,"Los Angeles, Calif.",Asian,est,30th to 40th,0.10278110745517002,3
+la,"Los Angeles, Calif.",African American,est,30th to 40th,0.07632425068850578,1
+la,"Los Angeles, Calif.",Latino,est,30th to 40th,0.4724932892475108,2
+la,"Los Angeles, Calif.",White,est,30th to 40th,0.3175090973937341,4
+la,"Los Angeles, Calif.",Asian,est,40th to 50th,0.09373926558971347,3
+la,"Los Angeles, Calif.",African American,est,40th to 50th,0.09116422521005947,1
+la,"Los Angeles, Calif.",Latino,est,40th to 50th,0.5227526864955333,2
+la,"Los Angeles, Calif.",White,est,40th to 50th,0.2645543377371315,4
+la,"Los Angeles, Calif.",Asian,est,50th to 60th,0.1015845546758146,3
+la,"Los Angeles, Calif.",African American,est,50th to 60th,0.08546589685079968,1
+la,"Los Angeles, Calif.",Latino,est,50th to 60th,0.4876844775921303,2
+la,"Los Angeles, Calif.",White,est,50th to 60th,0.296649667417084,4
+la,"Los Angeles, Calif.",Asian,est,60th to 70th,0.1409572630841756,3
+la,"Los Angeles, Calif.",African American,est,60th to 70th,0.09102408045716899,1
+la,"Los Angeles, Calif.",Latino,est,60th to 70th,0.44853156614681716,2
+la,"Los Angeles, Calif.",White,est,60th to 70th,0.28978015774140603,4
+la,"Los Angeles, Calif.",Asian,est,70th to 80th,0.1160980941717591,3
+la,"Los Angeles, Calif.",African American,est,70th to 80th,0.09703013873539675,1
+la,"Los Angeles, Calif.",Latino,est,70th to 80th,0.5049030158081452,2
+la,"Los Angeles, Calif.",White,est,70th to 80th,0.25553478541597646,4
+la,"Los Angeles, Calif.",Asian,est,80th to 90th,0.13495070272867557,3
+la,"Los Angeles, Calif.",African American,est,80th to 90th,0.09098280370722872,1
+la,"Los Angeles, Calif.",Latino,est,80th to 90th,0.4985030631762782,2
+la,"Los Angeles, Calif.",White,est,80th to 90th,0.2517279455928147,4
+la,"Los Angeles, Calif.",Asian,est,90th to 100th,0.13539245349551218,3
+la,"Los Angeles, Calif.",African American,est,90th to 100th,0.0957002474429878,1
+la,"Los Angeles, Calif.",Latino,est,90th to 100th,0.4809898530135962,2
+la,"Los Angeles, Calif.",White,est,90th to 100th,0.2574460884350295,4
+livermore,"Livermore, Calif.",Asian,est,0 to 10th,0.02949517867271696,3
+livermore,"Livermore, Calif.",African American,est,0 to 10th,0.0025524673851389677,1
+livermore,"Livermore, Calif.",Latino,est,0 to 10th,0.18065796937039139,2
+livermore,"Livermore, Calif.",White,est,0 to 10th,0.7631877481565513,4
+livermore,"Livermore, Calif.",Asian,est,10th to 20th,0.06235399820305481,3
+livermore,"Livermore, Calif.",African American,est,10th to 20th,0.010062893081761006,1
+livermore,"Livermore, Calif.",Latino,est,10th to 20th,0.1559748427672956,2
+livermore,"Livermore, Calif.",White,est,10th to 20th,0.718418688230009,4
+livermore,"Livermore, Calif.",Asian,est,20th to 30th,0.04173940644342168,3
+livermore,"Livermore, Calif.",African American,est,20th to 30th,0.05046817965402317,1
+livermore,"Livermore, Calif.",Latino,est,20th to 30th,0.24440564989684177,2
+livermore,"Livermore, Calif.",White,est,20th to 30th,0.6229169973020156,4
+livermore,"Livermore, Calif.",Asian,est,30th to 40th,0.08791581805838425,3
+livermore,"Livermore, Calif.",African American,est,30th to 40th,0.010635890472957682,1
+livermore,"Livermore, Calif.",Latino,est,30th to 40th,0.12061552387417968,2
+livermore,"Livermore, Calif.",White,est,30th to 40th,0.7137361393980538,4
+livermore,"Livermore, Calif.",Asian,est,40th to 50th,0.09132996632996633,3
+livermore,"Livermore, Calif.",African American,est,40th to 50th,0.009364478114478115,1
+livermore,"Livermore, Calif.",Latino,est,40th to 50th,0.3501683501683502,2
+livermore,"Livermore, Calif.",White,est,40th to 50th,0.5117845117845118,4
+livermore,"Livermore, Calif.",Asian,est,50th to 60th,0.0893875998478509,3
+livermore,"Livermore, Calif.",African American,est,50th to 60th,0.014644351464435146,1
+livermore,"Livermore, Calif.",Latino,est,50th to 60th,0.2700646633701027,2
+livermore,"Livermore, Calif.",White,est,50th to 60th,0.5865348041080258,4
+livermore,"Livermore, Calif.",Asian,est,60th to 70th,0.15952495586583212,3
+livermore,"Livermore, Calif.",African American,est,60th to 70th,0.0274434280211844,1
+livermore,"Livermore, Calif.",Latino,est,60th to 70th,0.18496228534745626,2
+livermore,"Livermore, Calif.",White,est,60th to 70th,0.5851388220189375,4
+livermore,"Livermore, Calif.",Asian,est,70th to 80th,0.1490829164771866,3
+livermore,"Livermore, Calif.",African American,est,70th to 80th,0.012126724268606942,1
+livermore,"Livermore, Calif.",Latino,est,70th to 80th,0.20539639229953008,2
+livermore,"Livermore, Calif.",White,est,70th to 80th,0.5669243595573745,4
+livermore,"Livermore, Calif.",Asian,est,80th to 90th,0.38685361073420776,3
+livermore,"Livermore, Calif.",African American,est,80th to 90th,0.04002713704206241,1
+livermore,"Livermore, Calif.",Latino,est,80th to 90th,0.17254635911352328,2
+livermore,"Livermore, Calif.",White,est,80th to 90th,0.3673300165837479,4
+livermore,"Livermore, Calif.",Asian,est,90th to 100th,0.08934474042387712,3
+livermore,"Livermore, Calif.",African American,est,90th to 100th,0.01195800116663426,1
+livermore,"Livermore, Calif.",Latino,est,90th to 100th,0.15817616177328409,2
+livermore,"Livermore, Calif.",White,est,90th to 100th,0.7036748979195022,4
+merced,"Merced, Calif.",Asian,est,0 to 10th,0.07757847533632287,3
+merced,"Merced, Calif.",African American,est,0 to 10th,0.03497757847533632,1
+merced,"Merced, Calif.",Latino,est,0 to 10th,0.42212257100149475,2
+merced,"Merced, Calif.",White,est,0 to 10th,0.4467862481315396,4
+merced,"Merced, Calif.",Asian,est,10th to 20th,0.10683822466387162,3
+merced,"Merced, Calif.",African American,est,10th to 20th,0.01633656209339309,1
+merced,"Merced, Calif.",Latino,est,10th to 20th,0.3487060864536649,2
+merced,"Merced, Calif.",White,est,10th to 20th,0.48344658088766806,4
+merced,"Merced, Calif.",Asian,est,20th to 30th,0.11088504577822991,3
+merced,"Merced, Calif.",African American,est,20th to 30th,0.0348059875018166,1
+merced,"Merced, Calif.",Latino,est,20th to 30th,0.44085162040401105,2
+merced,"Merced, Calif.",White,est,20th to 30th,0.3919488446446737,4
+merced,"Merced, Calif.",Asian,est,30th to 40th,0.10835294117647058,3
+merced,"Merced, Calif.",African American,est,30th to 40th,0.04388235294117647,1
+merced,"Merced, Calif.",Latino,est,30th to 40th,0.4042352941176471,2
+merced,"Merced, Calif.",White,est,30th to 40th,0.4269411764705882,4
+merced,"Merced, Calif.",Asian,est,40th to 50th,0.09744245524296676,3
+merced,"Merced, Calif.",African American,est,40th to 50th,0.06687979539641943,1
+merced,"Merced, Calif.",Latino,est,40th to 50th,0.6163682864450127,2
+merced,"Merced, Calif.",White,est,40th to 50th,0.1883631713554987,4
+merced,"Merced, Calif.",Asian,est,50th to 60th,0.11507128309572301,3
+merced,"Merced, Calif.",African American,est,50th to 60th,0.0491061326091876,1
+merced,"Merced, Calif.",Latino,est,50th to 60th,0.634306404163838,2
+merced,"Merced, Calif.",White,est,50th to 60th,0.1797918081013804,4
+merced,"Merced, Calif.",Asian,est,60th to 70th,0.07884664455218168,3
+merced,"Merced, Calif.",African American,est,60th to 70th,0.11750446542485328,1
+merced,"Merced, Calif.",Latino,est,60th to 70th,0.5998979331462108,2
+merced,"Merced, Calif.",White,est,60th to 70th,0.18269966828272519,4
+merced,"Merced, Calif.",Asian,est,70th to 80th,0.2018881626724764,3
+merced,"Merced, Calif.",African American,est,70th to 80th,0.06327765674170903,1
+merced,"Merced, Calif.",Latino,est,70th to 80th,0.4978939724037763,2
+merced,"Merced, Calif.",White,est,70th to 80th,0.20755265068990558,4
+merced,"Merced, Calif.",Asian,est,80th to 90th,0.052659480473581904,3
+merced,"Merced, Calif.",African American,est,80th to 90th,0.050362254815338396,1
+merced,"Merced, Calif.",Latino,est,80th to 90th,0.6333274430111328,2
+merced,"Merced, Calif.",White,est,80th to 90th,0.2099310832302527,4
+merced,"Merced, Calif.",Asian,est,90th to 100th,0.08096336151678196,3
+merced,"Merced, Calif.",African American,est,90th to 100th,0.044581091468101464,1
+merced,"Merced, Calif.",Latino,est,90th to 100th,0.6386113246220856,2
+merced,"Merced, Calif.",White,est,90th to 100th,0.2177811939533692,4
+modesto,"Modesto, Calif.",Asian,est,0 to 10th,0.0370145323813864,3
+modesto,"Modesto, Calif.",African American,est,0 to 10th,0.0036457542154033117,1
+modesto,"Modesto, Calif.",Latino,est,0 to 10th,0.5862068965517241,2
+modesto,"Modesto, Calif.",White,est,0 to 10th,0.346042837612031,4
+modesto,"Modesto, Calif.",Asian,est,10th to 20th,0.03191003776090294,3
+modesto,"Modesto, Calif.",African American,est,10th to 20th,0.019419892941615835,1
+modesto,"Modesto, Calif.",Latino,est,10th to 20th,0.5350844433378978,2
+modesto,"Modesto, Calif.",White,est,10th to 20th,0.3793518403253247,4
+modesto,"Modesto, Calif.",Asian,est,20th to 30th,0.06725869115495232,3
+modesto,"Modesto, Calif.",African American,est,20th to 30th,0.027044755033049095,1
+modesto,"Modesto, Calif.",Latino,est,20th to 30th,0.3685857005903426,2
+modesto,"Modesto, Calif.",White,est,20th to 30th,0.4852918916191533,4
+modesto,"Modesto, Calif.",Asian,est,30th to 40th,0.06987367919281799,3
+modesto,"Modesto, Calif.",African American,est,30th to 40th,0.028918725669341384,1
+modesto,"Modesto, Calif.",Latino,est,30th to 40th,0.39107809644871694,2
+modesto,"Modesto, Calif.",White,est,30th to 40th,0.4730674505442123,4
+modesto,"Modesto, Calif.",Asian,est,40th to 50th,0.061635220125786164,3
+modesto,"Modesto, Calif.",African American,est,40th to 50th,0.03768746976294146,1
+modesto,"Modesto, Calif.",Latino,est,40th to 50th,0.48238993710691824,2
+modesto,"Modesto, Calif.",White,est,40th to 50th,0.3960328979196904,4
+modesto,"Modesto, Calif.",Asian,est,50th to 60th,0.09593570800719936,3
+modesto,"Modesto, Calif.",African American,est,50th to 60th,0.03683395420869784,1
+modesto,"Modesto, Calif.",Latino,est,50th to 60th,0.399397262567494,2
+modesto,"Modesto, Calif.",White,est,50th to 60th,0.4126240006697083,4
+modesto,"Modesto, Calif.",Asian,est,60th to 70th,0.06388858185033713,3
+modesto,"Modesto, Calif.",African American,est,60th to 70th,0.0615121034597104,1
+modesto,"Modesto, Calif.",Latino,est,60th to 70th,0.40074057698684645,2
+modesto,"Modesto, Calif.",White,est,60th to 70th,0.42588703437603626,4
+modesto,"Modesto, Calif.",Asian,est,70th to 80th,0.069471422077117,3
+modesto,"Modesto, Calif.",African American,est,70th to 80th,0.02438318799851221,1
+modesto,"Modesto, Calif.",Latino,est,70th to 80th,0.36826879365210563,2
+modesto,"Modesto, Calif.",White,est,70th to 80th,0.49778898210521966,4
+modesto,"Modesto, Calif.",Asian,est,80th to 90th,0.04769103233042376,3
+modesto,"Modesto, Calif.",African American,est,80th to 90th,0.06310040473984493,1
+modesto,"Modesto, Calif.",Latino,est,80th to 90th,0.44336080362802943,2
+modesto,"Modesto, Calif.",White,est,80th to 90th,0.4131272248500512,4
+modesto,"Modesto, Calif.",Asian,est,90th to 100th,0.10462147658000312,3
+modesto,"Modesto, Calif.",African American,est,90th to 100th,0.04986192882821862,1
+modesto,"Modesto, Calif.",Latino,est,90th to 100th,0.3341843380399104,2
+modesto,"Modesto, Calif.",White,est,90th to 100th,0.45516594591778253,4
+nilespolice,"Niles, Ill.",Asian,est,0 to 10th,0.3948119325551232,3
+nilespolice,"Niles, Ill.",African American,est,0 to 10th,0.010894941634241245,1
+nilespolice,"Niles, Ill.",Latino,est,0 to 10th,0.1437094682230869,2
+nilespolice,"Niles, Ill.",White,est,0 to 10th,0.421011673151751,4
+nilespolice,"Niles, Ill.",Asian,est,10th to 20th,0.14889867841409693,3
+nilespolice,"Niles, Ill.",African American,est,10th to 20th,0.012334801762114538,1
+nilespolice,"Niles, Ill.",Latino,est,10th to 20th,0.04522760646108664,2
+nilespolice,"Niles, Ill.",White,est,10th to 20th,0.7929515418502202,4
+nilespolice,"Niles, Ill.",Asian,est,20th to 30th,0.21778539931406174,3
+nilespolice,"Niles, Ill.",African American,est,20th to 30th,0.08255756981871631,1
+nilespolice,"Niles, Ill.",Latino,est,20th to 30th,0.13792258696717297,2
+nilespolice,"Niles, Ill.",White,est,20th to 30th,0.4826065654091132,4
+nilespolice,"Niles, Ill.",Asian,est,30th to 40th,0.13289349670122527,3
+nilespolice,"Niles, Ill.",African American,est,30th to 40th,0.058435438265786996,1
+nilespolice,"Niles, Ill.",Latino,est,30th to 40th,0.051837888784165884,2
+nilespolice,"Niles, Ill.",White,est,30th to 40th,0.7431668237511782,4
+nilespolice,"Niles, Ill.",Asian,est,40th to 50th,0.1381686905152609,3
+nilespolice,"Niles, Ill.",African American,est,40th to 50th,0.05612077453232688,1
+nilespolice,"Niles, Ill.",Latino,est,40th to 50th,0.10567771578601903,2
+nilespolice,"Niles, Ill.",White,est,40th to 50th,0.6970790941910076,4
+nilespolice,"Niles, Ill.",Asian,est,50th to 60th,0.2453054433087711,3
+nilespolice,"Niles, Ill.",African American,est,50th to 60th,0,1
+nilespolice,"Niles, Ill.",Latino,est,50th to 60th,0.028761587829807464,2
+nilespolice,"Niles, Ill.",White,est,50th to 60th,0.687901117185643,4
+nilespolice,"Niles, Ill.",Asian,est,60th to 70th,0.24708704592186428,3
+nilespolice,"Niles, Ill.",African American,est,60th to 70th,0.001028101439342015,1
+nilespolice,"Niles, Ill.",Latino,est,60th to 70th,0.02433173406442769,2
+nilespolice,"Niles, Ill.",White,est,60th to 70th,0.67854694996573,4
+nilespolice,"Niles, Ill.",Asian,est,70th to 80th,0.25477301654645734,3
+nilespolice,"Niles, Ill.",African American,est,70th to 80th,0.02078913873568095,1
+nilespolice,"Niles, Ill.",Latino,est,70th to 80th,0.17734408145948238,2
+nilespolice,"Niles, Ill.",White,est,70th to 80th,0.520789138735681,4
+nilespolice,"Niles, Ill.",Asian,est,80th to 90th,0.13609022556390976,3
+nilespolice,"Niles, Ill.",African American,est,80th to 90th,0.03443609022556391,1
+nilespolice,"Niles, Ill.",Latino,est,80th to 90th,0.21338345864661654,2
+nilespolice,"Niles, Ill.",White,est,80th to 90th,0.6069172932330827,4
+nilespolice,"Niles, Ill.",Asian,est,90th to 100th,0.226124460874923,3
+nilespolice,"Niles, Ill.",African American,est,90th to 100th,0.021359622098993634,1
+nilespolice,"Niles, Ill.",Latino,est,90th to 100th,0.11295953994660095,2
+nilespolice,"Niles, Ill.",White,est,90th to 100th,0.6194290408708154,4
+ocalapdcom,"Ocala, Fla.",Asian,est,0 to 10th,0,3
+ocalapdcom,"Ocala, Fla.",African American,est,0 to 10th,0,1
+ocalapdcom,"Ocala, Fla.",Latino,est,0 to 10th,0,2
+ocalapdcom,"Ocala, Fla.",White,est,0 to 10th,0,4
+ocalapdcom,"Ocala, Fla.",Asian,est,10th to 20th,0.0077189246739419745,3
+ocalapdcom,"Ocala, Fla.",African American,est,10th to 20th,0.1155177002927868,1
+ocalapdcom,"Ocala, Fla.",Latino,est,10th to 20th,0.06055363321799308,2
+ocalapdcom,"Ocala, Fla.",White,est,10th to 20th,0.8070268831514507,4
+ocalapdcom,"Ocala, Fla.",Asian,est,20th to 30th,0.005142589995324918,3
+ocalapdcom,"Ocala, Fla.",African American,est,20th to 30th,0.10331930808789154,1
+ocalapdcom,"Ocala, Fla.",Latino,est,20th to 30th,0.15275829827021972,2
+ocalapdcom,"Ocala, Fla.",White,est,20th to 30th,0.7094436652641422,4
+ocalapdcom,"Ocala, Fla.",Asian,est,30th to 40th,0.022418478260869564,3
+ocalapdcom,"Ocala, Fla.",African American,est,30th to 40th,0.09442934782608696,1
+ocalapdcom,"Ocala, Fla.",Latino,est,30th to 40th,0.16983695652173914,2
+ocalapdcom,"Ocala, Fla.",White,est,30th to 40th,0.6818953804347826,4
+ocalapdcom,"Ocala, Fla.",Asian,est,40th to 50th,0.02362077333764763,3
+ocalapdcom,"Ocala, Fla.",African American,est,40th to 50th,0.04400582430027503,1
+ocalapdcom,"Ocala, Fla.",Latino,est,40th to 50th,0.10904384403818153,2
+ocalapdcom,"Ocala, Fla.",White,est,40th to 50th,0.8108720271800679,4
+ocalapdcom,"Ocala, Fla.",Asian,est,50th to 60th,0.006288466684506289,3
+ocalapdcom,"Ocala, Fla.",African American,est,50th to 60th,0.21996253679421995,1
+ocalapdcom,"Ocala, Fla.",Latino,est,50th to 60th,0.06328605833556329,2
+ocalapdcom,"Ocala, Fla.",White,est,50th to 60th,0.6751404870216752,4
+ocalapdcom,"Ocala, Fla.",Asian,est,60th to 70th,0,3
+ocalapdcom,"Ocala, Fla.",African American,est,60th to 70th,0.3291381233073124,1
+ocalapdcom,"Ocala, Fla.",Latino,est,60th to 70th,0.19579416918910308,2
+ocalapdcom,"Ocala, Fla.",White,est,60th to 70th,0.45977377728214114,4
+ocalapdcom,"Ocala, Fla.",Asian,est,70th to 80th,0.025465525918470056,3
+ocalapdcom,"Ocala, Fla.",African American,est,70th to 80th,0.1720181177654756,1
+ocalapdcom,"Ocala, Fla.",Latino,est,70th to 80th,0.10397584297936588,2
+ocalapdcom,"Ocala, Fla.",White,est,70th to 80th,0.6463009562154001,4
+ocalapdcom,"Ocala, Fla.",Asian,est,80th to 90th,0.08826197387518142,3
+ocalapdcom,"Ocala, Fla.",African American,est,80th to 90th,0.11202830188679246,1
+ocalapdcom,"Ocala, Fla.",Latino,est,80th to 90th,0.17117198838896952,2
+ocalapdcom,"Ocala, Fla.",White,est,80th to 90th,0.5888062409288825,4
+ocalapdcom,"Ocala, Fla.",Asian,est,90th to 100th,0.002157218051600656,3
+ocalapdcom,"Ocala, Fla.",African American,est,90th to 100th,0.3463629303650013,1
+ocalapdcom,"Ocala, Fla.",Latino,est,90th to 100th,0.1417723703511951,2
+ocalapdcom,"Ocala, Fla.",White,est,90th to 100th,0.4915005608766934,4
+ocfl,"Orange County, Fla.",Asian,est,0 to 10th,0,3
+ocfl,"Orange County, Fla.",African American,est,0 to 10th,0,1
+ocfl,"Orange County, Fla.",Latino,est,0 to 10th,0,2
+ocfl,"Orange County, Fla.",White,est,0 to 10th,0,4
+ocfl,"Orange County, Fla.",Asian,est,10th to 20th,0,3
+ocfl,"Orange County, Fla.",African American,est,10th to 20th,0,1
+ocfl,"Orange County, Fla.",Latino,est,10th to 20th,0,2
+ocfl,"Orange County, Fla.",White,est,10th to 20th,0,4
+ocfl,"Orange County, Fla.",Asian,est,20th to 30th,0.025451797185853692,3
+ocfl,"Orange County, Fla.",African American,est,20th to 30th,0.1925667415031009,1
+ocfl,"Orange County, Fla.",Latino,est,20th to 30th,0.2739680352101718,2
+ocfl,"Orange County, Fla.",White,est,20th to 30th,0.47422588747860495,4
+ocfl,"Orange County, Fla.",Asian,est,30th to 40th,0.04212103187716168,3
+ocfl,"Orange County, Fla.",African American,est,30th to 40th,0.20537307514374464,1
+ocfl,"Orange County, Fla.",Latino,est,30th to 40th,0.2855726653889366,2
+ocfl,"Orange County, Fla.",White,est,30th to 40th,0.4331835305002974,4
+ocfl,"Orange County, Fla.",Asian,est,40th to 50th,0.04061570885551918,3
+ocfl,"Orange County, Fla.",African American,est,40th to 50th,0.13380753453012684,1
+ocfl,"Orange County, Fla.",Latino,est,40th to 50th,0.29715855632080085,2
+ocfl,"Orange County, Fla.",White,est,40th to 50th,0.5046328704226413,4
+ocfl,"Orange County, Fla.",Asian,est,50th to 60th,0.057212479423468264,3
+ocfl,"Orange County, Fla.",African American,est,50th to 60th,0.15092480978859638,1
+ocfl,"Orange County, Fla.",Latino,est,50th to 60th,0.2800546979300333,2
+ocfl,"Orange County, Fla.",White,est,50th to 60th,0.48019468315381525,4
+ocfl,"Orange County, Fla.",Asian,est,60th to 70th,0.046602561753759666,3
+ocfl,"Orange County, Fla.",African American,est,60th to 70th,0.26596908517019907,1
+ocfl,"Orange County, Fla.",Latino,est,60th to 70th,0.36948613124931295,2
+ocfl,"Orange County, Fla.",White,est,60th to 70th,0.27594600112017836,4
+ocfl,"Orange County, Fla.",Asian,est,70th to 80th,0.06828035192272387,3
+ocfl,"Orange County, Fla.",African American,est,70th to 80th,0.12112524890200675,1
+ocfl,"Orange County, Fla.",Latino,est,70th to 80th,0.3260886962006844,2
+ocfl,"Orange County, Fla.",White,est,70th to 80th,0.4478353174883375,4
+ocfl,"Orange County, Fla.",Asian,est,80th to 90th,0.04817878017625124,3
+ocfl,"Orange County, Fla.",African American,est,80th to 90th,0.24964194934389636,1
+ocfl,"Orange County, Fla.",Latino,est,80th to 90th,0.38075300310955706,2
+ocfl,"Orange County, Fla.",White,est,80th to 90th,0.2938918493477672,4
+ocfl,"Orange County, Fla.",Asian,est,90th to 100th,0.06117295055944123,3
+ocfl,"Orange County, Fla.",African American,est,90th to 100th,0.2891151881319569,1
+ocfl,"Orange County, Fla.",Latino,est,90th to 100th,0.2799659428725359,2
+ocfl,"Orange County, Fla.",White,est,90th to 100th,0.33484698344284847,4
+ocoeepd,"Ocoee, Fla.",Asian,est,0 to 10th,0.02892713291834493,3
+ocoeepd,"Ocoee, Fla.",African American,est,0 to 10th,0.37898205785426586,1
+ocoeepd,"Ocoee, Fla.",Latino,est,0 to 10th,0.29732698645184913,2
+ocoeepd,"Ocoee, Fla.",White,est,0 to 10th,0.24789454412303186,4
+ocoeepd,"Ocoee, Fla.",Asian,est,10th to 20th,0.03889356922212862,3
+ocoeepd,"Ocoee, Fla.",African American,est,10th to 20th,0.14869418702611625,1
+ocoeepd,"Ocoee, Fla.",Latino,est,10th to 20th,0.09632125807357483,2
+ocoeepd,"Ocoee, Fla.",White,est,10th to 20th,0.6526256669474867,4
+ocoeepd,"Ocoee, Fla.",Asian,est,20th to 30th,0.06398155100289607,3
+ocoeepd,"Ocoee, Fla.",African American,est,20th to 30th,0.15064893274696986,1
+ocoeepd,"Ocoee, Fla.",Latino,est,20th to 30th,0.16974149951732276,2
+ocoeepd,"Ocoee, Fla.",White,est,20th to 30th,0.585380242411241,4
+ocoeepd,"Ocoee, Fla.",Asian,est,30th to 40th,0.04183927091963546,3
+ocoeepd,"Ocoee, Fla.",African American,est,30th to 40th,0.2742336371168186,1
+ocoeepd,"Ocoee, Fla.",Latino,est,30th to 40th,0.20236122618061309,2
+ocoeepd,"Ocoee, Fla.",White,est,30th to 40th,0.4614747307373654,4
+ocoeepd,"Ocoee, Fla.",Asian,est,40th to 50th,0.09463103701887718,3
+ocoeepd,"Ocoee, Fla.",African American,est,40th to 50th,0.07452807060554058,1
+ocoeepd,"Ocoee, Fla.",Latino,est,40th to 50th,0.10304813271226608,2
+ocoeepd,"Ocoee, Fla.",White,est,40th to 50th,0.692816866879137,4
+ocoeepd,"Ocoee, Fla.",Asian,est,50th to 60th,0,3
+ocoeepd,"Ocoee, Fla.",African American,est,50th to 60th,0.14732142857142858,1
+ocoeepd,"Ocoee, Fla.",Latino,est,50th to 60th,0.08705357142857142,2
+ocoeepd,"Ocoee, Fla.",White,est,50th to 60th,0.765625,4
+ocoeepd,"Ocoee, Fla.",Asian,est,60th to 70th,0.07554865022334434,3
+ocoeepd,"Ocoee, Fla.",African American,est,60th to 70th,0.3373470576811031,1
+ocoeepd,"Ocoee, Fla.",Latino,est,60th to 70th,0.15964264905806952,2
+ocoeepd,"Ocoee, Fla.",White,est,60th to 70th,0.3664789279471742,4
+ocoeepd,"Ocoee, Fla.",Asian,est,70th to 80th,0.041560644614079725,3
+ocoeepd,"Ocoee, Fla.",African American,est,70th to 80th,0.2186990278593332,1
+ocoeepd,"Ocoee, Fla.",Latino,est,70th to 80th,0.3078227963724147,2
+ocoeepd,"Ocoee, Fla.",White,est,70th to 80th,0.3979904743263522,4
+ocoeepd,"Ocoee, Fla.",Asian,est,80th to 90th,0.002035475428903751,3
+ocoeepd,"Ocoee, Fla.",African American,est,80th to 90th,0.10526315789473684,1
+ocoeepd,"Ocoee, Fla.",Latino,est,80th to 90th,0.3640593195696423,2
+ocoeepd,"Ocoee, Fla.",White,est,80th to 90th,0.4889502762430939,4
+ocoeepd,"Ocoee, Fla.",Asian,est,90th to 100th,0.05206923570054847,3
+ocoeepd,"Ocoee, Fla.",African American,est,90th to 100th,0.20165253935465488,1
+ocoeepd,"Ocoee, Fla.",Latino,est,90th to 100th,0.22287912244461855,2
+ocoeepd,"Ocoee, Fla.",White,est,90th to 100th,0.4779542702471686,4
+piscataway,"Piscataway,  N.J",Asian,est,0 to 10th,0,3
+piscataway,"Piscataway,  N.J",African American,est,0 to 10th,0,1
+piscataway,"Piscataway,  N.J",Latino,est,0 to 10th,0,2
+piscataway,"Piscataway,  N.J",White,est,0 to 10th,0,4
+piscataway,"Piscataway,  N.J",Asian,est,10th to 20th,0,3
+piscataway,"Piscataway,  N.J",African American,est,10th to 20th,0,1
+piscataway,"Piscataway,  N.J",Latino,est,10th to 20th,0,2
+piscataway,"Piscataway,  N.J",White,est,10th to 20th,0,4
+piscataway,"Piscataway,  N.J",Asian,est,20th to 30th,0.00816743236345074,3
+piscataway,"Piscataway,  N.J",African American,est,20th to 30th,0.08473711077080143,1
+piscataway,"Piscataway,  N.J",Latino,est,20th to 30th,0.30627871362940273,2
+piscataway,"Piscataway,  N.J",White,est,20th to 30th,0.600816743236345,4
+piscataway,"Piscataway,  N.J",Asian,est,30th to 40th,0.21121177802944507,3
+piscataway,"Piscataway,  N.J",African American,est,30th to 40th,0.18941109852774632,1
+piscataway,"Piscataway,  N.J",Latino,est,30th to 40th,0.1966308040770102,2
+piscataway,"Piscataway,  N.J",White,est,30th to 40th,0.3721687429218573,4
+piscataway,"Piscataway,  N.J",Asian,est,40th to 50th,0.2691013935607881,3
+piscataway,"Piscataway,  N.J",African American,est,40th to 50th,0.15697581291045973,1
+piscataway,"Piscataway,  N.J",Latino,est,40th to 50th,0.11388755406054782,2
+piscataway,"Piscataway,  N.J",White,est,40th to 50th,0.43392599711677077,4
+piscataway,"Piscataway,  N.J",Asian,est,50th to 60th,0.42034536891679747,3
+piscataway,"Piscataway,  N.J",African American,est,50th to 60th,0.18455259026687598,1
+piscataway,"Piscataway,  N.J",Latino,est,50th to 60th,0.10430141287284145,2
+piscataway,"Piscataway,  N.J",White,est,50th to 60th,0.2706436420722135,4
+piscataway,"Piscataway,  N.J",Asian,est,60th to 70th,0.37576187101346564,3
+piscataway,"Piscataway,  N.J",African American,est,60th to 70th,0.2002834868887314,1
+piscataway,"Piscataway,  N.J",Latino,est,60th to 70th,0.126293408929837,2
+piscataway,"Piscataway,  N.J",White,est,60th to 70th,0.2557051736357194,4
+piscataway,"Piscataway,  N.J",Asian,est,70th to 80th,0.4430663831797779,3
+piscataway,"Piscataway,  N.J",African American,est,70th to 80th,0.1441058351051264,1
+piscataway,"Piscataway,  N.J",Latino,est,70th to 80th,0.098747932908103,2
+piscataway,"Piscataway,  N.J",White,est,70th to 80th,0.28171509567682496,4
+piscataway,"Piscataway,  N.J",Asian,est,80th to 90th,0.38922406569465395,3
+piscataway,"Piscataway,  N.J",African American,est,80th to 90th,0.24174627115803587,1
+piscataway,"Piscataway,  N.J",Latino,est,80th to 90th,0.15996313055136585,2
+piscataway,"Piscataway,  N.J",White,est,80th to 90th,0.19054801407742583,4
+piscataway,"Piscataway,  N.J",Asian,est,90th to 100th,0.2548161120840631,3
+piscataway,"Piscataway,  N.J",African American,est,90th to 100th,0.2121278458844133,1
+piscataway,"Piscataway,  N.J",Latino,est,90th to 100th,0.15586690017513136,2
+piscataway,"Piscataway,  N.J",White,est,90th to 100th,0.32913747810858146,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,0 to 10th,0.030452168563518917,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,0 to 10th,0.4669332513072901,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,0 to 10th,0.11657951399569363,2
+plainfieldpdnj,"Plainfield, N.J",White,est,0 to 10th,0.3663488157490003,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,10th to 20th,0.014093529788597053,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,10th to 20th,0.5083279948750801,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,10th to 20th,0.23062139654067906,2
+plainfieldpdnj,"Plainfield, N.J",White,est,10th to 20th,0.17905188981422165,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,20th to 30th,0.024329278453591067,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,20th to 30th,0.5712381269788369,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,20th to 30th,0.28678553574404264,2
+plainfieldpdnj,"Plainfield, N.J",White,est,20th to 30th,0.08765205799033494,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,30th to 40th,0.005718741876787107,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,30th to 40th,0.48739277358981026,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,30th to 40th,0.37171822199116195,2
+plainfieldpdnj,"Plainfield, N.J",White,est,30th to 40th,0.08162204315050689,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,40th to 50th,0.006869220607661823,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,40th to 50th,0.4058124174372523,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,40th to 50th,0.39128137384412154,2
+plainfieldpdnj,"Plainfield, N.J",White,est,40th to 50th,0.12892998678996037,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,50th to 60th,0.002055733211512106,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,50th to 60th,0.37254454088624944,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,50th to 60th,0.5324349017816354,2
+plainfieldpdnj,"Plainfield, N.J",White,est,50th to 60th,0.024440383736866148,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,60th to 70th,0.004565167769915545,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,60th to 70th,0.4923533439853915,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,60th to 70th,0.3994521798676101,2
+plainfieldpdnj,"Plainfield, N.J",White,est,60th to 70th,0.03218443277790459,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,70th to 80th,0.003234003234003234,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,70th to 80th,0.37583737583737586,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,70th to 80th,0.4717024717024717,2
+plainfieldpdnj,"Plainfield, N.J",White,est,70th to 80th,0.0544005544005544,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,80th to 90th,0.0071140165352816765,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,80th to 90th,0.2274562584118439,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,80th to 90th,0.6648721399730821,2
+plainfieldpdnj,"Plainfield, N.J",White,est,80th to 90th,0.049990386464141515,4
+plainfieldpdnj,"Plainfield, N.J",Asian,est,90th to 100th,0,3
+plainfieldpdnj,"Plainfield, N.J",African American,est,90th to 100th,0.22367610837438423,1
+plainfieldpdnj,"Plainfield, N.J",Latino,est,90th to 100th,0.7004310344827587,2
+plainfieldpdnj,"Plainfield, N.J",White,est,90th to 100th,0.02139778325123153,4
+portagemipd,"Portage, Mich.",Asian,est,0 to 10th,0.04550804236955669,3
+portagemipd,"Portage, Mich.",African American,est,0 to 10th,0.02451941938014908,1
+portagemipd,"Portage, Mich.",Latino,est,0 to 10th,0.036288740682620634,2
+portagemipd,"Portage, Mich.",White,est,0 to 10th,0.8571989015300118,4
+portagemipd,"Portage, Mich.",Asian,est,10th to 20th,0.040626529613313755,3
+portagemipd,"Portage, Mich.",African American,est,10th to 20th,0.00930004894762604,1
+portagemipd,"Portage, Mich.",Latino,est,10th to 20th,0.028634361233480177,2
+portagemipd,"Portage, Mich.",White,est,10th to 20th,0.902104747919726,4
+portagemipd,"Portage, Mich.",Asian,est,20th to 30th,0.012147984538928768,3
+portagemipd,"Portage, Mich.",African American,est,20th to 30th,0.09239830664457942,1
+portagemipd,"Portage, Mich.",Latino,est,20th to 30th,0.04030922142462728,2
+portagemipd,"Portage, Mich.",White,est,20th to 30th,0.8290079145959874,4
+portagemipd,"Portage, Mich.",Asian,est,30th to 40th,0.04141238012205754,3
+portagemipd,"Portage, Mich.",African American,est,30th to 40th,0.04010462074978204,1
+portagemipd,"Portage, Mich.",Latino,est,30th to 40th,0.044899738448125545,2
+portagemipd,"Portage, Mich.",White,est,30th to 40th,0.8471374600406858,4
+portagemipd,"Portage, Mich.",Asian,est,40th to 50th,0.010428222764588418,3
+portagemipd,"Portage, Mich.",African American,est,40th to 50th,0.006656312402928777,1
+portagemipd,"Portage, Mich.",Latino,est,40th to 50th,0.05058797426225871,2
+portagemipd,"Portage, Mich.",White,est,40th to 50th,0.9099179054803639,4
+portagemipd,"Portage, Mich.",Asian,est,50th to 60th,0.023003079152327476,3
+portagemipd,"Portage, Mich.",African American,est,50th to 60th,0.0396667270422025,1
+portagemipd,"Portage, Mich.",Latino,est,50th to 60th,0.04238362615468212,2
+portagemipd,"Portage, Mich.",White,est,50th to 60th,0.846404636841152,4
+portagemipd,"Portage, Mich.",Asian,est,60th to 70th,0.02861104108898412,3
+portagemipd,"Portage, Mich.",African American,est,60th to 70th,0.05432316612049408,1
+portagemipd,"Portage, Mich.",Latino,est,60th to 70th,0.11381396521300731,2
+portagemipd,"Portage, Mich.",White,est,60th to 70th,0.7629190824300479,4
+portagemipd,"Portage, Mich.",Asian,est,70th to 80th,0.014908684308609765,3
+portagemipd,"Portage, Mich.",African American,est,70th to 80th,0.03689899366380917,1
+portagemipd,"Portage, Mich.",Latino,est,70th to 80th,0.03168095415579575,2
+portagemipd,"Portage, Mich.",White,est,70th to 80th,0.8777487886693999,4
+portagemipd,"Portage, Mich.",Asian,est,80th to 90th,0.022678951098511695,3
+portagemipd,"Portage, Mich.",African American,est,80th to 90th,0.09886605244507442,1
+portagemipd,"Portage, Mich.",Latino,est,80th to 90th,0.014528703047484054,2
+portagemipd,"Portage, Mich.",White,est,80th to 90th,0.7622253720765415,4
+portagemipd,"Portage, Mich.",Asian,est,90th to 100th,0.04841255920014033,3
+portagemipd,"Portage, Mich.",African American,est,90th to 100th,0.14506226977723208,1
+portagemipd,"Portage, Mich.",Latino,est,90th to 100th,0.015611296263813365,2
+portagemipd,"Portage, Mich.",White,est,90th to 100th,0.7318014383441501,4
+salisbury,"Salisbury, Md.",Asian,est,0 to 10th,0,3
+salisbury,"Salisbury, Md.",African American,est,0 to 10th,0,1
+salisbury,"Salisbury, Md.",Latino,est,0 to 10th,0,2
+salisbury,"Salisbury, Md.",White,est,0 to 10th,0,4
+salisbury,"Salisbury, Md.",Asian,est,10th to 20th,0,3
+salisbury,"Salisbury, Md.",African American,est,10th to 20th,0,1
+salisbury,"Salisbury, Md.",Latino,est,10th to 20th,0,2
+salisbury,"Salisbury, Md.",White,est,10th to 20th,0,4
+salisbury,"Salisbury, Md.",Asian,est,20th to 30th,0.07251060391840032,3
+salisbury,"Salisbury, Md.",African American,est,20th to 30th,0.22783276105837205,1
+salisbury,"Salisbury, Md.",Latino,est,20th to 30th,0.04483942637850939,2
+salisbury,"Salisbury, Md.",White,est,20th to 30th,0.5942233892143002,4
+salisbury,"Salisbury, Md.",Asian,est,30th to 40th,0.07269338303821063,3
+salisbury,"Salisbury, Md.",African American,est,30th to 40th,0.3012581547064306,1
+salisbury,"Salisbury, Md.",Latino,est,30th to 40th,0.07187791239515377,2
+salisbury,"Salisbury, Md.",White,est,30th to 40th,0.532502329916123,4
+salisbury,"Salisbury, Md.",Asian,est,40th to 50th,0.030969558331866973,3
+salisbury,"Salisbury, Md.",African American,est,40th to 50th,0.413865915889495,1
+salisbury,"Salisbury, Md.",Latino,est,40th to 50th,0.07654407883160302,2
+salisbury,"Salisbury, Md.",White,est,40th to 50th,0.46207988738342426,4
+salisbury,"Salisbury, Md.",Asian,est,50th to 60th,0.027647494445815848,3
+salisbury,"Salisbury, Md.",African American,est,50th to 60th,0.35645519624784006,1
+salisbury,"Salisbury, Md.",Latino,est,50th to 60th,0.0014811157738829918,2
+salisbury,"Salisbury, Md.",White,est,50th to 60th,0.5487533942236484,4
+salisbury,"Salisbury, Md.",Asian,est,60th to 70th,0.08145580589254767,3
+salisbury,"Salisbury, Md.",African American,est,60th to 70th,0.34563010646199555,1
+salisbury,"Salisbury, Md.",Latino,est,60th to 70th,0.11364199059173062,2
+salisbury,"Salisbury, Md.",White,est,60th to 70th,0.45035899975241395,4
+salisbury,"Salisbury, Md.",Asian,est,70th to 80th,0.02684124386252046,3
+salisbury,"Salisbury, Md.",African American,est,70th to 80th,0.2889252591380251,1
+salisbury,"Salisbury, Md.",Latino,est,70th to 80th,0.028368794326241134,2
+salisbury,"Salisbury, Md.",White,est,70th to 80th,0.6228041462084015,4
+salisbury,"Salisbury, Md.",Asian,est,80th to 90th,0.01552157041771285,3
+salisbury,"Salisbury, Md.",African American,est,80th to 90th,0.567678612188998,1
+salisbury,"Salisbury, Md.",Latino,est,80th to 90th,0.044053868979685,2
+salisbury,"Salisbury, Md.",White,est,80th to 90th,0.3136270257931979,4
+salisbury,"Salisbury, Md.",Asian,est,90th to 100th,0.02285633162975582,3
+salisbury,"Salisbury, Md.",African American,est,90th to 100th,0.5373367404883589,1
+salisbury,"Salisbury, Md.",Latino,est,90th to 100th,0.1466496308915389,2
+salisbury,"Salisbury, Md.",White,est,90th to 100th,0.2614991482112436,4
+southjordan,"South Jordan, Utah",Asian,est,0 to 10th,0.016661427224143353,3
+southjordan,"South Jordan, Utah",African American,est,0 to 10th,0.0011526773551294143,1
+southjordan,"South Jordan, Utah",Latino,est,0 to 10th,0.07303782877501834,2
+southjordan,"South Jordan, Utah",White,est,0 to 10th,0.8718432358797024,4
+southjordan,"South Jordan, Utah",Asian,est,10th to 20th,0.01956521739130435,3
+southjordan,"South Jordan, Utah",African American,est,10th to 20th,0,1
+southjordan,"South Jordan, Utah",Latino,est,10th to 20th,0.03217391304347826,2
+southjordan,"South Jordan, Utah",White,est,10th to 20th,0.8795652173913043,4
+southjordan,"South Jordan, Utah",Asian,est,20th to 30th,0.004873591227535791,3
+southjordan,"South Jordan, Utah",African American,est,20th to 30th,0,1
+southjordan,"South Jordan, Utah",Latino,est,20th to 30th,0.0721900700578739,2
+southjordan,"South Jordan, Utah",White,est,20th to 30th,0.9046603716113311,4
+southjordan,"South Jordan, Utah",Asian,est,30th to 40th,0.023507659799260432,3
+southjordan,"South Jordan, Utah",African American,est,30th to 40th,0,1
+southjordan,"South Jordan, Utah",Latino,est,30th to 40th,0.017696777601690437,2
+southjordan,"South Jordan, Utah",White,est,30th to 40th,0.9170628631801373,4
+southjordan,"South Jordan, Utah",Asian,est,40th to 50th,0.03072227873855544,3
+southjordan,"South Jordan, Utah",African American,est,40th to 50th,0.08911495422177008,1
+southjordan,"South Jordan, Utah",Latino,est,40th to 50th,0.004476093591047813,2
+southjordan,"South Jordan, Utah",White,est,40th to 50th,0.871617497456765,4
+southjordan,"South Jordan, Utah",Asian,est,50th to 60th,0.00795474633197808,3
+southjordan,"South Jordan, Utah",African American,est,50th to 60th,0.002474809969948736,1
+southjordan,"South Jordan, Utah",Latino,est,50th to 60th,0.05639031288668906,2
+southjordan,"South Jordan, Utah",White,est,50th to 60th,0.890931589181545,4
+southjordan,"South Jordan, Utah",Asian,est,60th to 70th,0.03316469926925239,3
+southjordan,"South Jordan, Utah",African American,est,60th to 70th,0.0193929173693086,1
+southjordan,"South Jordan, Utah",Latino,est,60th to 70th,0.024451939291736932,2
+southjordan,"South Jordan, Utah",White,est,60th to 70th,0.9204609331084879,4
+southjordan,"South Jordan, Utah",Asian,est,70th to 80th,0.010391333185938536,3
+southjordan,"South Jordan, Utah",African American,est,70th to 80th,0,1
+southjordan,"South Jordan, Utah",Latino,est,70th to 80th,0.03205836833959761,2
+southjordan,"South Jordan, Utah",White,est,70th to 80th,0.9453902277249613,4
+southjordan,"South Jordan, Utah",Asian,est,80th to 90th,0.043804933371136945,3
+southjordan,"South Jordan, Utah",African American,est,80th to 90th,0.010206974766090162,1
+southjordan,"South Jordan, Utah",Latino,est,80th to 90th,0.0494754749078537,2
+southjordan,"South Jordan, Utah",White,est,80th to 90th,0.8683016728097533,4
+southjordan,"South Jordan, Utah",Asian,est,90th to 100th,0.04733028107091962,3
+southjordan,"South Jordan, Utah",African American,est,90th to 100th,0.004972559958764137,1
+southjordan,"South Jordan, Utah",Latino,est,90th to 100th,0.07931839543979867,2
+southjordan,"South Jordan, Utah",White,est,90th to 100th,0.8312664867651072,4
+tacoma,"Tacoma, Wash.",Asian,est,0 to 10th,0.07529055078322384,3
+tacoma,"Tacoma, Wash.",African American,est,0 to 10th,0.04878496945197299,1
+tacoma,"Tacoma, Wash.",Latino,est,0 to 10th,0.07891956451835179,2
+tacoma,"Tacoma, Wash.",White,est,0 to 10th,0.726537737149157,4
+tacoma,"Tacoma, Wash.",Asian,est,10th to 20th,0.072215045826413235,3
+tacoma,"Tacoma, Wash.",African American,est,10th to 20th,0.06477209817309466,1
+tacoma,"Tacoma, Wash.",Latino,est,10th to 20th,0.07295318939533739,2
+tacoma,"Tacoma, Wash.",White,est,10th to 20th,0.6984068401304053,4
+tacoma,"Tacoma, Wash.",Asian,est,20th to 30th,0.07897397017942887,3
+tacoma,"Tacoma, Wash.",African American,est,20th to 30th,0.10392974475612839,1
+tacoma,"Tacoma, Wash.",Latino,est,20th to 30th,0.1111321708364923,2
+tacoma,"Tacoma, Wash.",White,est,20th to 30th,0.6020975486479656,4
+tacoma,"Tacoma, Wash.",Asian,est,30th to 40th,0.13554550489200665,3
+tacoma,"Tacoma, Wash.",African American,est,30th to 40th,0.1022706294997231,1
+tacoma,"Tacoma, Wash.",Latino,est,30th to 40th,0.08639468340409821,2
+tacoma,"Tacoma, Wash.",White,est,30th to 40th,0.5312442311242385,4
+tacoma,"Tacoma, Wash.",Asian,est,40th to 50th,0.08607868568958063,3
+tacoma,"Tacoma, Wash.",African American,est,40th to 50th,0.09926502377864245,1
+tacoma,"Tacoma, Wash.",Latino,est,40th to 50th,0.14262862083873756,2
+tacoma,"Tacoma, Wash.",White,est,40th to 50th,0.5573281452658885,4
+tacoma,"Tacoma, Wash.",Asian,est,50th to 60th,0.08535208376103469,3
+tacoma,"Tacoma, Wash.",African American,est,50th to 60th,0.0751898994046397,1
+tacoma,"Tacoma, Wash.",Latino,est,50th to 60th,0.1546397043728187,2
+tacoma,"Tacoma, Wash.",White,est,50th to 60th,0.5789878874974338,4
+tacoma,"Tacoma, Wash.",Asian,est,60th to 70th,0.08398126877540202,3
+tacoma,"Tacoma, Wash.",African American,est,60th to 70th,0.12837957236260825,1
+tacoma,"Tacoma, Wash.",Latino,est,60th to 70th,0.11967662131118573,2
+tacoma,"Tacoma, Wash.",White,est,60th to 70th,0.547490722742534,4
+tacoma,"Tacoma, Wash.",Asian,est,70th to 80th,0.07314788416894066,3
+tacoma,"Tacoma, Wash.",African American,est,70th to 80th,0.10100598704842585,1
+tacoma,"Tacoma, Wash.",Latino,est,70th to 80th,0.15692583391031645,2
+tacoma,"Tacoma, Wash.",White,est,70th to 80th,0.5508491833991773,4
+tacoma,"Tacoma, Wash.",Asian,est,80th to 90th,0.07454585248413219,3
+tacoma,"Tacoma, Wash.",African American,est,80th to 90th,0.08636463121033049,1
+tacoma,"Tacoma, Wash.",Latino,est,80th to 90th,0.11586780477128475,2
+tacoma,"Tacoma, Wash.",White,est,80th to 90th,0.623856423725104,4
+tacoma,"Tacoma, Wash.",Asian,est,90th to 100th,0.09121102817756509,3
+tacoma,"Tacoma, Wash.",African American,est,90th to 100th,0.11599585729081104,1
+tacoma,"Tacoma, Wash.",Latino,est,90th to 100th,0.16724402699903576,2
+tacoma,"Tacoma, Wash.",White,est,90th to 100th,0.5381950644619835,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,0 to 10th,0.05472312703583062,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,0 to 10th,0.3346905537459283,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,0 to 10th,0.12068403908794788,2
+templeterracepd,"Temple Terrace, Fla.",White,est,0 to 10th,0.4252442996742671,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,10th to 20th,0.010845986984815618,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,10th to 20th,5.422993492407809e-4,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,10th to 20th,0.07537960954446854,2
+templeterracepd,"Temple Terrace, Fla.",White,est,10th to 20th,0.85412147505423,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,20th to 30th,0.0828941063727839,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,20th to 30th,0.21322472448490656,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,20th to 30th,0.13655965500718736,2
+templeterracepd,"Temple Terrace, Fla.",White,est,20th to 30th,0.518926689027312,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,30th to 40th,0.028439153439153438,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,30th to 40th,0.027777777777777776,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,30th to 40th,0.18386243386243387,2
+templeterracepd,"Temple Terrace, Fla.",White,est,30th to 40th,0.7592592592592593,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,40th to 50th,0.01903435468895079,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,40th to 50th,0.3465645311049211,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,40th to 50th,0.2226090993500464,2
+templeterracepd,"Temple Terrace, Fla.",White,est,40th to 50th,0.3895078922934076,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,50th to 60th,0.03554059109614665,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,50th to 60th,0.14104002992891881,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,50th to 60th,0.18219229330340442,2
+templeterracepd,"Temple Terrace, Fla.",White,est,50th to 60th,0.6019453797231575,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,60th to 70th,0.10273972602739725,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,60th to 70th,0.30600972160848433,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,60th to 70th,0.12969509500662837,2
+templeterracepd,"Temple Terrace, Fla.",White,est,60th to 70th,0.4239946973044631,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,70th to 80th,0.05811258278145695,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,70th to 80th,0.24850993377483444,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,70th to 80th,0.21490066225165563,2
+templeterracepd,"Temple Terrace, Fla.",White,est,70th to 80th,0.43211920529801323,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,80th to 90th,0.008071025020177562,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,80th to 90th,0.2175141242937853,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,80th to 90th,0.2732041969330105,2
+templeterracepd,"Temple Terrace, Fla.",White,est,80th to 90th,0.49556093623890235,4
+templeterracepd,"Temple Terrace, Fla.",Asian,est,90th to 100th,0.07582322357019064,3
+templeterracepd,"Temple Terrace, Fla.",African American,est,90th to 100th,0.2179376083188908,1
+templeterracepd,"Temple Terrace, Fla.",Latino,est,90th to 100th,0.23006932409012132,2
+templeterracepd,"Temple Terrace, Fla.",White,est,90th to 100th,0.4302426343154246,4
+tracypd,"Tracy, Calif.",Asian,est,0 to 10th,0.07025178737954615,3
+tracypd,"Tracy, Calif.",African American,est,0 to 10th,0.04911408144233758,1
+tracypd,"Tracy, Calif.",Latino,est,0 to 10th,0.4910371982178013,2
+tracypd,"Tracy, Calif.",White,est,0 to 10th,0.30639311988394985,4
+tracypd,"Tracy, Calif.",Asian,est,10th to 20th,0.12474203164411832,3
+tracypd,"Tracy, Calif.",African American,est,10th to 20th,0.02476496216464114,1
+tracypd,"Tracy, Calif.",Latino,est,10th to 20th,0.4471451501949094,2
+tracypd,"Tracy, Calif.",White,est,10th to 20th,0.3581747305663839,4
+tracypd,"Tracy, Calif.",Asian,est,20th to 30th,0.09571546278494919,3
+tracypd,"Tracy, Calif.",African American,est,20th to 30th,0.051771491348530624,1
+tracypd,"Tracy, Calif.",Latino,est,20th to 30th,0.44301016204339466,2
+tracypd,"Tracy, Calif.",White,est,20th to 30th,0.3622631145289756,4
+tracypd,"Tracy, Calif.",Asian,est,30th to 40th,0.17486794551014734,3
+tracypd,"Tracy, Calif.",African American,est,30th to 40th,0.03350013900472616,1
+tracypd,"Tracy, Calif.",Latino,est,30th to 40th,0.3516819571865443,2
+tracypd,"Tracy, Calif.",White,est,30th to 40th,0.35293299972199055,4
+tracypd,"Tracy, Calif.",Asian,est,40th to 50th,0.04899249308573686,3
+tracypd,"Tracy, Calif.",African American,est,40th to 50th,0.010865270644014224,1
+tracypd,"Tracy, Calif.",Latino,est,40th to 50th,0.4401422362702489,2
+tracypd,"Tracy, Calif.",White,est,40th to 50th,0.4658237850651916,4
+tracypd,"Tracy, Calif.",Asian,est,50th to 60th,0.13096470047142694,3
+tracypd,"Tracy, Calif.",African American,est,50th to 60th,0.046107853282741175,1
+tracypd,"Tracy, Calif.",Latino,est,50th to 60th,0.388064849948258,2
+tracypd,"Tracy, Calif.",White,est,50th to 60th,0.33390824422214554,4
+tracypd,"Tracy, Calif.",Asian,est,60th to 70th,0.1532580569277817,3
+tracypd,"Tracy, Calif.",African American,est,60th to 70th,0.028816749000235238,1
+tracypd,"Tracy, Calif.",Latino,est,60th to 70th,0.49047282992237123,2
+tracypd,"Tracy, Calif.",White,est,60th to 70th,0.2959303693248647,4
+tracypd,"Tracy, Calif.",Asian,est,70th to 80th,0.10633853977479114,3
+tracypd,"Tracy, Calif.",African American,est,70th to 80th,0.08009444242644388,1
+tracypd,"Tracy, Calif.",Latino,est,70th to 80th,0.4041046131492917,2
+tracypd,"Tracy, Calif.",White,est,70th to 80th,0.35788231020704686,4
+tracypd,"Tracy, Calif.",Asian,est,80th to 90th,0.175424988688514,3
+tracypd,"Tracy, Calif.",African American,est,80th to 90th,0.051903561502165345,1
+tracypd,"Tracy, Calif.",Latino,est,80th to 90th,0.30166117251632085,2
+tracypd,"Tracy, Calif.",White,est,80th to 90th,0.3920237864391442,4
+tracypd,"Tracy, Calif.",Asian,est,90th to 100th,0.26044340723453907,3
+tracypd,"Tracy, Calif.",African American,est,90th to 100th,0.05635939323220537,1
+tracypd,"Tracy, Calif.",Latino,est,90th to 100th,0.35840140023337225,2
+tracypd,"Tracy, Calif.",White,est,90th to 100th,0.26114352392065343,4
+turlockpolice,"Turlock, Calif.",Asian,est,0 to 10th,0.0019364392299806355,3
+turlockpolice,"Turlock, Calif.",African American,est,0 to 10th,0,1
+turlockpolice,"Turlock, Calif.",Latino,est,0 to 10th,0.3163230436268368,2
+turlockpolice,"Turlock, Calif.",White,est,0 to 10th,0.6665907278733341,4
+turlockpolice,"Turlock, Calif.",Asian,est,10th to 20th,0.043028778988544285,3
+turlockpolice,"Turlock, Calif.",African American,est,10th to 20th,9.779267951941883e-4,1
+turlockpolice,"Turlock, Calif.",Latino,est,10th to 20th,0.3088851634534786,2
+turlockpolice,"Turlock, Calif.",White,est,10th to 20th,0.5841017043867002,4
+turlockpolice,"Turlock, Calif.",Asian,est,20th to 30th,0.041607497869923314,3
+turlockpolice,"Turlock, Calif.",African American,est,20th to 30th,0.04813973303038909,1
+turlockpolice,"Turlock, Calif.",Latino,est,20th to 30th,0.2634194831013916,2
+turlockpolice,"Turlock, Calif.",White,est,20th to 30th,0.621130360692985,4
+turlockpolice,"Turlock, Calif.",Asian,est,30th to 40th,0.02939464493597206,3
+turlockpolice,"Turlock, Calif.",African American,est,30th to 40th,0.02110011641443539,1
+turlockpolice,"Turlock, Calif.",Latino,est,30th to 40th,0.4628928987194412,2
+turlockpolice,"Turlock, Calif.",White,est,30th to 40th,0.46842258440046564,4
+turlockpolice,"Turlock, Calif.",Asian,est,40th to 50th,0.13180216625342556,3
+turlockpolice,"Turlock, Calif.",African American,est,40th to 50th,0.03164556962025317,1
+turlockpolice,"Turlock, Calif.",Latino,est,40th to 50th,0.23248075166383922,2
+turlockpolice,"Turlock, Calif.",White,est,40th to 50th,0.5312540780373222,4
+turlockpolice,"Turlock, Calif.",Asian,est,50th to 60th,0.03309492059643593,3
+turlockpolice,"Turlock, Calif.",African American,est,50th to 60th,0.00630379439932113,1
+turlockpolice,"Turlock, Calif.",Latino,est,50th to 60th,0.3926536549884834,2
+turlockpolice,"Turlock, Calif.",White,est,50th to 60th,0.5485513395563099,4
+turlockpolice,"Turlock, Calif.",Asian,est,60th to 70th,0.019577269577269577,3
+turlockpolice,"Turlock, Calif.",African American,est,60th to 70th,0.022695772695772696,1
+turlockpolice,"Turlock, Calif.",Latino,est,60th to 70th,0.520963270963271,2
+turlockpolice,"Turlock, Calif.",White,est,60th to 70th,0.3925848925848926,4
+turlockpolice,"Turlock, Calif.",Asian,est,70th to 80th,0.045041378374711706,3
+turlockpolice,"Turlock, Calif.",African American,est,70th to 80th,0.0385293718627052,1
+turlockpolice,"Turlock, Calif.",Latino,est,70th to 80th,0.4958621625288292,2
+turlockpolice,"Turlock, Calif.",White,est,70th to 80th,0.3694207027540361,4
+turlockpolice,"Turlock, Calif.",Asian,est,80th to 90th,0.023925385239253853,3
+turlockpolice,"Turlock, Calif.",African American,est,80th to 90th,0.012570965125709651,1
+turlockpolice,"Turlock, Calif.",Latino,est,80th to 90th,0.5585969180859692,2
+turlockpolice,"Turlock, Calif.",White,est,80th to 90th,0.3781427412814274,4
+turlockpolice,"Turlock, Calif.",Asian,est,90th to 100th,0.0426856380613606,3
+turlockpolice,"Turlock, Calif.",African American,est,90th to 100th,0.010004446420631391,1
+turlockpolice,"Turlock, Calif.",Latino,est,90th to 100th,0.4603156958648288,2
+turlockpolice,"Turlock, Calif.",White,est,90th to 100th,0.46987550022232105,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,0 to 10th,0.0220349967595593,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,0 to 10th,0.016418232879671635,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,0 to 10th,0.016202203499675955,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,0 to 10th,0.9334629509613307,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,10th to 20th,0.004281821720513819,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,10th to 20th,0.07746204748929544,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,10th to 20th,0.079408330089529,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,10th to 20th,0.8388478007006618,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,20th to 30th,0.0101905183872397,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,20th to 30th,0,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,20th to 30th,0.02525476295968099,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,20th to 30th,0.9096145325653522,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,30th to 40th,0,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,30th to 40th,0.007808433107756377,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,30th to 40th,0.12493492972410203,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,30th to 40th,0.8459135866736075,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,40th to 50th,0,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,40th to 50th,0.02106186924089513,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,40th to 50th,0.028521281263712155,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,40th to 50th,0.9319877139096094,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,50th to 60th,0.019880715705765408,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,50th to 60th,0.04837640821736249,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,50th to 60th,0.16467859509609012,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,50th to 60th,0.5778661365142479,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,60th to 70th,0.05203816131830009,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,60th to 70th,0.04567794160161896,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,60th to 70th,0.2168256721595837,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,60th to 70th,0.6837236195432206,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,70th to 80th,0.07622504537205081,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,70th to 80th,0,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,70th to 80th,0.0852994555353902,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,70th to 80th,0.7687840290381125,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,80th to 90th,0.18398072869617585,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,80th to 90th,0.006925624811803674,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,80th to 90th,0.1556760012044565,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,80th to 90th,0.6440831074977417,4
+westspringfieldpolice,"West Springfield Town, Mass.",Asian,est,90th to 100th,0.0500406834825061,3
+westspringfieldpolice,"West Springfield Town, Mass.",African American,est,90th to 100th,0.03498779495524817,1
+westspringfieldpolice,"West Springfield Town, Mass.",Latino,est,90th to 100th,0.06997558991049634,2
+westspringfieldpolice,"West Springfield Town, Mass.",White,est,90th to 100th,0.7965825874694874,4

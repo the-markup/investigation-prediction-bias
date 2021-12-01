@@ -1,0 +1,40 @@
+client,Client Name,UCR Department,first_prediction_date,final_prediction_date,Confirmed Start Date ,Confirmed End Date,Usable,Active,EPSG
+alexandriapd,"Alexandria,  La. ",LA0400100,2019-04-30,2021-01-30,2019-01-01,Current,True,TRUE,26981
+birminghampd,"Birmingham, Ala.",AL0010200,2019-03-06,2021-01-30,2019-09-01,Current,True,TRUE,26929
+boonecounty,"Boone County, Ind.",IN0060000,2018-02-24,2021-01-30,2017-12-01,Current,True,TRUE,26973
+cpso,"Calcasieu Parish, La.",LA0100000,2019-04-09,2021-01-30,2019-04-09,2021-01-30,True,UNKNOWN,26945
+clovisca,"Clovis, Calif.",CA0100100,2018-02-16,2021-01-30,2018-05-01,2019-04-30,True,FALSE,26945
+cpd,"Cocoa, Fla.",FL0050200,2018-02-15,2018-10-01,2015-08-31,2018-08-31,True,FALSE,26960
+decaturga,"Decatur, Ga.",GA0440100,2018-02-21,2021-01-30,2018-02-21,Current,True,TRUE,26967
+elmonte,"El Monte, Calif.",CA0192200,2018-02-21,2021-01-30,2018-02-21,Current,True,TRUE,26945
+elgin,"Elgin, Ill.",IL0450600,2018-02-16,2020-07-14,2018-02-16,2020-07-14,True,FALSE,26971
+farmersbranch,"Farmers Branch, Texas",TX0571000,2018-02-21,2018-10-01,2018-02-21,2018-09-29,True,FALSE,32137
+forsythso,"Forsyth County, Ga.",GA0580000,2018-12-12,2021-01-30,2018-10-01,Current,True,TRUE,26967
+ftmyerspd,"Fort Myers, Fla.",FL0360100,2019-12-14,2021-01-30,2019-10-01,Current,True,TRUE,26985
+frederick,"Frederick, Md.",MD0110300,2018-02-22,2019-07-25,2018-04-01,2019-04-08,True,FALSE,26985
+fresnopd,"Fresno, Calif.",CA0100500,2018-02-15,2020-06-23,2016-04-01,2020-06-01,True,FALSE,26945
+gloucestertwppd,"Gloucester township , N.J",NJ0041500,2018-02-22,2021-01-30,2019-03-22,Current,True,TRUE,32111
+gvpd,"Grass Valley, Calif.",CA0290100,2018-08-30,2019-09-03,2018-07-01,2019-09-03,True,FALSE,26945
+haverhill,"Haverhill, Mass.",MA0051100,2018-02-22,2021-01-30,2013-06-28,Current,True,TRUE,26986
+homewood,"Homewood, Ala.",AL0011000,2018-02-22,2021-01-30,2018-02-22,Current,True,UNKNOWN,26929
+jacksonvilletx,"Jacksonville, Texas",TX0370100,2018-02-24,2020-01-02,2018-02-24,2019-10-30,True,FALSE,32137
+jeffcomacc,"Jefferson County, Ala.",AL0010000,2018-02-23,2021-01-26,2018-02-23,Current,True,UNKNOWN,26929
+livermore,"Livermore, Calif.",CA0010700,2018-02-16,2019-03-01,2015-02-16,2020-02-01,True,FALSE,26945
+la,"Los Angeles, Calif.",CA0194200,2018-02-15,2020-04-03,2011-01-01,2020-4-15,True,FALSE,26945
+merced,"Merced, Calif.",CA0240600,2018-02-22,2020-07-27,2015-07-01,2020-07-01,True,FALSE,26945
+modesto,"Modesto, Calif.",CA0500200,2018-02-22,2021-01-30,2018-02-22,2020-09-23,True,TRUE,26944
+nilespolice,"Niles, Ill.",IL0167300,2018-08-24,2020-11-03,2018-08-24,2020-09-23,True,FALSE,26971
+ocalapdcom,"Ocala, Fla.",FL0420100,2018-02-24,2019-03-12,2016-02-01,2019-03-01,True,FALSE,26960
+ocoeepd,"Ocoee, Fla.",FL0480300,2019-05-14,2021-01-30,2019-06-04,Current,True,TRUE,26958
+ocfl,"Orange County, Fla.",FL0480000,2018-02-23,2020-11-03,2017-12-20,2020-09-30,True,FALSE,26958
+piscataway,"Piscataway,  N.J.",NJ0121700,2018-10-25,2021-01-30,2018-10-25,2021-01-30,True,FALSE,32111
+plainfieldpdnj,"Plainfield, N.J.",NJ0201200,2018-02-24,2020-03-24,2018-02-24,2019-01-01,True,FALSE,32111
+portagemipd,"Portage, Mich.",MI3967800,2019-06-20,2021-01-30,2019-06-20,Current,True,TRUE,26990
+reading,"Reading, Pa.",,2018-02-24,2018-09-28,2018-02-24,2018-09-28,False,TRUE,
+salisbury,"Salisbury, Md.",MD0230300,2018-02-27,2021-01-30,2018-02-27,Current,True,TRUE,26985
+southjordan,"South Jordan, Utah",UT0181800,2018-02-23,2020-06-23,2016-05-01,2020-05-01,True,FALSE,32143
+tacoma,"Tacoma, Wash.",WA0270300,2018-02-23,2020-03-27,2013-03-01,2020-03-27,True,FALSE,32148
+templeterracepd,"Temple Terrace, Fla.",FL0290300,2019-02-01,2021-01-30,2019-02-01,Current,True,TRUE,26959
+tracypd,"Tracy, Calif.",CA0390600,2018-02-23,2021-01-30,2015-08-14,Current,True,TRUE,26944
+turlockpolice,"Turlock, Calif.",CA0500700,2018-02-22,2020-06-23,2017-03-22,2020-05-12,True,FALSE,26942
+westspringfieldpolice,"West Springfield Town, Mass.",MA0072100,2018-02-23,2020-01-16,2016-01-12,2019-11-30,True,FALSE,26986

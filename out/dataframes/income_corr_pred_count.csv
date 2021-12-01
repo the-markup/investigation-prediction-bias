@@ -1,0 +1,153 @@
+department,demo,value,plot_name
+alexandriapd,Less than 45k,0.3953488372093023,income_corr_pred_count
+alexandriapd,Between 75 and 100k,-0.220148718744487,income_corr_pred_count
+alexandriapd,Between 120 and 150k,-0.3114324008140452,income_corr_pred_count
+alexandriapd,Greater than 200k,-0.26370314277899143,income_corr_pred_count
+birminghampd,Less than 45k,0.4376007632973059,income_corr_pred_count
+birminghampd,Between 75 and 100k,-0.28937624117325905,income_corr_pred_count
+birminghampd,Between 120 and 150k,-0.36527384239713206,income_corr_pred_count
+birminghampd,Greater than 200k,-0.2386254119299305,income_corr_pred_count
+boonecounty,Less than 45k,0.12328117591275485,income_corr_pred_count
+boonecounty,Between 75 and 100k,-0.07432872990355373,income_corr_pred_count
+boonecounty,Between 120 and 150k,-0.03052806976051994,income_corr_pred_count
+boonecounty,Greater than 200k,-0.35028942450227135,income_corr_pred_count
+clovisca,Less than 45k,0.13876444846325225,income_corr_pred_count
+clovisca,Between 75 and 100k,-0.11876481075217667,income_corr_pred_count
+clovisca,Between 120 and 150k,-0.12728459430429317,income_corr_pred_count
+clovisca,Greater than 200k,-0.12688348297447574,income_corr_pred_count
+cpd,Less than 45k,0.4726143421795595,income_corr_pred_count
+cpd,Between 75 and 100k,-0.3801186257198279,income_corr_pred_count
+cpd,Between 120 and 150k,-0.4281193898865272,income_corr_pred_count
+cpd,Greater than 200k,-0.47198806473230737,income_corr_pred_count
+cpso,Less than 45k,-0.17885084382011515,income_corr_pred_count
+cpso,Between 75 and 100k,0.10221505311453018,income_corr_pred_count
+cpso,Between 120 and 150k,0.22703190852197694,income_corr_pred_count
+cpso,Greater than 200k,0.2670202381813405,income_corr_pred_count
+decaturga,Less than 45k,0.05263157894736842,income_corr_pred_count
+decaturga,Between 75 and 100k,-0.10755924040071703,income_corr_pred_count
+decaturga,Between 120 and 150k,-0.13082706766917293,income_corr_pred_count
+decaturga,Greater than 200k,0.09473684210526316,income_corr_pred_count
+elgin,Less than 45k,0.4527408920667348,income_corr_pred_count
+elgin,Between 75 and 100k,-0.1642151855635002,income_corr_pred_count
+elgin,Between 120 and 150k,-0.2931520600985582,income_corr_pred_count
+elgin,Greater than 200k,-0.20714765817153935,income_corr_pred_count
+elmonte,Less than 45k,0.33931890893916206,income_corr_pred_count
+elmonte,Between 75 and 100k,-0.18293107090226993,income_corr_pred_count
+elmonte,Between 120 and 150k,-0.3612270821218812,income_corr_pred_count
+elmonte,Greater than 200k,-0.3268070011477212,income_corr_pred_count
+farmersbranch,Less than 45k,-0.2556451612903226,income_corr_pred_count
+farmersbranch,Between 75 and 100k,0.2693819955216343,income_corr_pred_count
+farmersbranch,Between 120 and 150k,0.06373538235379568,income_corr_pred_count
+farmersbranch,Greater than 200k,0.22573120913819664,income_corr_pred_count
+forsythso,Less than 45k,0.08711309268627283,income_corr_pred_count
+forsythso,Between 75 and 100k,0.10203206722112663,income_corr_pred_count
+forsythso,Between 120 and 150k,-0.1266305758731951,income_corr_pred_count
+forsythso,Greater than 200k,-0.1928052893405333,income_corr_pred_count
+frederick,Less than 45k,0.34087373606429877,income_corr_pred_count
+frederick,Between 75 and 100k,-0.15475360958749426,income_corr_pred_count
+frederick,Between 120 and 150k,-0.21412712856180827,income_corr_pred_count
+frederick,Greater than 200k,-0.4154713378663086,income_corr_pred_count
+fresnopd,Less than 45k,0.5033473564597883,income_corr_pred_count
+fresnopd,Between 75 and 100k,-0.37003776401285393,income_corr_pred_count
+fresnopd,Between 120 and 150k,-0.2760257599936477,income_corr_pred_count
+fresnopd,Greater than 200k,-0.3759391678037129,income_corr_pred_count
+ftmyerspd,Less than 45k,0.26896983613401526,income_corr_pred_count
+ftmyerspd,Between 75 and 100k,-0.14059504640071688,income_corr_pred_count
+ftmyerspd,Between 120 and 150k,-0.11317898336181434,income_corr_pred_count
+ftmyerspd,Greater than 200k,-0.2606632710651601,income_corr_pred_count
+gloucestertwppd,Less than 45k,0.034439513795099366,income_corr_pred_count
+gloucestertwppd,Between 75 and 100k,-0.022573980433397416,income_corr_pred_count
+gloucestertwppd,Between 120 and 150k,0.0664671354040793,income_corr_pred_count
+gloucestertwppd,Greater than 200k,-0.0026654788434256707,income_corr_pred_count
+gvpd,Less than 45k,0.5529411764705882,income_corr_pred_count
+gvpd,Between 75 and 100k,-0.3176470588235294,income_corr_pred_count
+gvpd,Between 120 and 150k,0.050751921892255226,income_corr_pred_count
+gvpd,Greater than 200k,-0.5333479658513638,income_corr_pred_count
+haverhill,Less than 45k,0.6542213883677297,income_corr_pred_count
+haverhill,Between 75 and 100k,-0.09943714821763601,income_corr_pred_count
+haverhill,Between 120 and 150k,-0.2711403395673876,income_corr_pred_count
+haverhill,Greater than 200k,-0.2737779708463412,income_corr_pred_count
+homewood,Less than 45k,0.2713043478260869,income_corr_pred_count
+homewood,Between 75 and 100k,-0.047836487323493986,income_corr_pred_count
+homewood,Between 120 and 150k,-0.36759021279890164,income_corr_pred_count
+homewood,Greater than 200k,-0.35918220683590363,income_corr_pred_count
+jacksonvilletx,Less than 45k,0.6593406593406593,income_corr_pred_count
+jacksonvilletx,Between 75 and 100k,-0.13736263736263737,income_corr_pred_count
+jacksonvilletx,Between 120 and 150k,-0.2656427334694695,income_corr_pred_count
+jacksonvilletx,Greater than 200k,-0.5425894130440228,income_corr_pred_count
+jeffcomacc,Less than 45k,0.04052489995290213,income_corr_pred_count
+jeffcomacc,Between 75 and 100k,0.07438964896440914,income_corr_pred_count
+jeffcomacc,Between 120 and 150k,-0.02803869965046666,income_corr_pred_count
+jeffcomacc,Greater than 200k,-0.09730951186860833,income_corr_pred_count
+la,Less than 45k,0.22642333693047337,income_corr_pred_count
+la,Between 75 and 100k,-0.04139537564058392,income_corr_pred_count
+la,Between 120 and 150k,-0.07249549671680128,income_corr_pred_count
+la,Greater than 200k,-0.15998260853311844,income_corr_pred_count
+livermore,Less than 45k,0.18877551020408162,income_corr_pred_count
+livermore,Between 75 and 100k,-0.187532227930218,income_corr_pred_count
+livermore,Between 120 and 150k,0.11241077975209304,income_corr_pred_count
+livermore,Greater than 200k,-0.045268271517742924,income_corr_pred_count
+merced,Less than 45k,0.670204081632653,income_corr_pred_count
+merced,Between 75 and 100k,-0.4108069282729112,income_corr_pred_count
+merced,Between 120 and 150k,-0.3160110974295525,income_corr_pred_count
+merced,Greater than 200k,-0.4346135740069061,income_corr_pred_count
+modesto,Less than 45k,0.2327035112580696,income_corr_pred_count
+modesto,Between 75 and 100k,-0.08763723181023138,income_corr_pred_count
+modesto,Between 120 and 150k,0.07850139970936032,income_corr_pred_count
+modesto,Greater than 200k,-0.13909450443782315,income_corr_pred_count
+nilespolice,Less than 45k,0.24192665571975916,income_corr_pred_count
+nilespolice,Between 75 and 100k,-0.0810071154898741,income_corr_pred_count
+nilespolice,Between 120 and 150k,0.0849548618857704,income_corr_pred_count
+nilespolice,Greater than 200k,-0.16196233346609776,income_corr_pred_count
+ocalapdcom,Less than 45k,0.3994517013384938,income_corr_pred_count
+ocalapdcom,Between 75 and 100k,-0.09977403852929023,income_corr_pred_count
+ocalapdcom,Between 120 and 150k,-0.2929931312052451,income_corr_pred_count
+ocalapdcom,Greater than 200k,-0.06464729778752594,income_corr_pred_count
+ocfl,Less than 45k,0.26233031925911704,income_corr_pred_count
+ocfl,Between 75 and 100k,0.11318860200094695,income_corr_pred_count
+ocfl,Between 120 and 150k,-0.21422278958640784,income_corr_pred_count
+ocfl,Greater than 200k,-0.30959022335176345,income_corr_pred_count
+ocoeepd,Less than 45k,0.09999999999999998,income_corr_pred_count
+ocoeepd,Between 75 and 100k,-0.014285714285714282,income_corr_pred_count
+ocoeepd,Between 120 and 150k,0.19839150013118909,income_corr_pred_count
+ocoeepd,Greater than 200k,-0.018018749253911177,income_corr_pred_count
+piscataway,Less than 45k,0.0151742993848257,income_corr_pred_count
+piscataway,Between 75 and 100k,-0.055093217595494265,income_corr_pred_count
+piscataway,Between 120 and 150k,-0.14833549833002344,income_corr_pred_count
+piscataway,Greater than 200k,0.18687404135522315,income_corr_pred_count
+plainfieldpdnj,Less than 45k,0.607843137254902,income_corr_pred_count
+plainfieldpdnj,Between 75 and 100k,-0.09719887955182073,income_corr_pred_count
+plainfieldpdnj,Between 120 and 150k,-0.5379928579619444,income_corr_pred_count
+plainfieldpdnj,Greater than 200k,-0.4531459536009036,income_corr_pred_count
+portagemipd,Less than 45k,0.3769289533995416,income_corr_pred_count
+portagemipd,Between 75 and 100k,-0.10543204248051842,income_corr_pred_count
+portagemipd,Between 120 and 150k,-0.5112334030672184,income_corr_pred_count
+portagemipd,Greater than 200k,-0.3529834969113165,income_corr_pred_count
+salisbury,Less than 45k,0.4927413671599718,income_corr_pred_count
+salisbury,Between 75 and 100k,-0.2753221361569693,income_corr_pred_count
+salisbury,Between 120 and 150k,-0.16782860031543698,income_corr_pred_count
+salisbury,Greater than 200k,-0.30024059218644605,income_corr_pred_count
+southjordan,Less than 45k,0.2128740824392998,income_corr_pred_count
+southjordan,Between 75 and 100k,-0.21964991530208922,income_corr_pred_count
+southjordan,Between 120 and 150k,-0.29305477131564084,income_corr_pred_count
+southjordan,Greater than 200k,0.3642010163749294,income_corr_pred_count
+tacoma,Less than 45k,0.39180731606503166,income_corr_pred_count
+tacoma,Between 75 and 100k,-0.29566807888162394,income_corr_pred_count
+tacoma,Between 120 and 150k,-0.21598730340886876,income_corr_pred_count
+tacoma,Greater than 200k,-0.22521752673951653,income_corr_pred_count
+templeterracepd,Less than 45k,-0.006495726495726495,income_corr_pred_count
+templeterracepd,Between 75 and 100k,-0.04513592132987359,income_corr_pred_count
+templeterracepd,Between 120 and 150k,-0.13001095345021843,income_corr_pred_count
+templeterracepd,Greater than 200k,-0.09256318125725942,income_corr_pred_count
+tracypd,Less than 45k,0.12516469038208167,income_corr_pred_count
+tracypd,Between 75 and 100k,0.08168642951251646,income_corr_pred_count
+tracypd,Between 120 and 150k,-0.21278419606426952,income_corr_pred_count
+tracypd,Greater than 200k,-0.08055618981880631,income_corr_pred_count
+turlockpolice,Less than 45k,0.4665505226480837,income_corr_pred_count
+turlockpolice,Between 75 and 100k,0.09233851657349815,income_corr_pred_count
+turlockpolice,Between 120 and 150k,-0.3165572737433301,income_corr_pred_count
+turlockpolice,Greater than 200k,-0.43168247181104286,income_corr_pred_count
+westspringfieldpolice,Less than 45k,0.6691729323308271,income_corr_pred_count
+westspringfieldpolice,Between 75 and 100k,-0.17293233082706766,income_corr_pred_count
+westspringfieldpolice,Between 120 and 150k,-0.7052322216096802,income_corr_pred_count
+westspringfieldpolice,Greater than 200k,-0.16687197658103375,income_corr_pred_count

@@ -1,0 +1,9 @@
+demo_val,pop_buckets,num_jur,min_pop_est,pct,plot_name,total_num_jur
+Between 120 and 150k,gt_p50,18,est,0.47368421052631576,prank_has_maj,38
+Between 120 and 150k,lt_p50,17,lb,0.4473684210526316,prank_has_maj,38
+Between 75 and 100k,gt_p50,21,est,0.5526315789473685,prank_has_maj,38
+Between 75 and 100k,lt_p50,14,"lb, ub",0.3684210526315789,prank_has_maj,38
+Greater than 200k,gt_p50,13,"est, lb, ub",0.34210526315789475,prank_has_maj,38
+Greater than 200k,lt_p50,23,"est, lb, ub",0.6052631578947368,prank_has_maj,38
+Less than 45k,gt_p50,33,ub,0.868421052631579,prank_has_maj,38
+Less than 45k,lt_p50,3,"est, ub",0.07894736842105263,prank_has_maj,38

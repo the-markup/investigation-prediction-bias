@@ -1,0 +1,131 @@
+---
+title: "Jurisdiction Demographic Proportions Cheatsheet"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+options(tidyverse.quiet = TRUE)
+```
+
+## Jurisdiction Demographic Proportions Cheatsheet
+
+This pdf contains the demographic proportions for our disparate impact analysis for all jurisdictions.
+
+
+```{r dept_plot,  message=FALSE, warning=FALSE,  fig.show="hold", out.width="100%" }
+library(targets)
+# 
+# tar_load(appendix_plots_bg_race)
+tar_load(demo_prop_buckets_bg_race)
+tar_load(demo_prop_buckets_bg_income)
+
+plot_demo <- function(bg_demo_prop_at_pred_rank, analysis_demo, d) {
+  plot.grey_box <- c(
+    "Most Targeted\nBlock Groups",
+    "Median Targeted\nBlock Groups",
+    "Least Targeted\nBlock Groups",
+    "Jurisdiction Total"
+  )
+  names(plot.grey_box) <- c("in_max_tb", "in_med_tb", "in_min_tb", "total")
+
+  race.labs <- list(
+    title = glue("Races composition of most, median and least targeted block groups"),
+    x = "Race",
+    y = "Proportion of Block Group ",
+    levels = c("White", "Asian", "Latino", "Black"),
+    factor_names = c("white" = "White", "asian" = "Asian", "latino" = "Latino", "black" = "Black")
+  )
+
+  income.labs <- list(
+    title = glue("Household income composition of most, median and least targeted block groups"),
+    subtitle = "",
+    y = "Percentage Of Block Groups",
+    levels = c(
+      "Greater than 200k",
+      "Between 120 and 150k",
+      "Between 75 and 100k",
+      "Less than 45k"
+    ),
+    factor_names = c(
+      "lt.45k" = "Less than 45k",
+      "bw.75.100k" = " $75k - 100k",
+      "bw.120.150k" = "$120k - 150k",
+      "gt.200k" = "$200k and above"
+    )
+  )
+
+  plot.labs <- list(
+    race = race.labs,
+    income = income.labs
+  )
+
+  legend.labs <- list(
+    race = "Race",
+    income = "Household Income"
+  )
+
+  analysis_demo_label <- legend.labs[[analysis_demo]]
+
+  bg_demo_prop_at_pred_rank %>%
+    pivot_longer(
+      contains("__"),
+      names_to = "demo__prank",
+      values_to = "values"
+    ) %>%
+    separate(demo__prank, c("demo", "prank_filter"), sep = "__") %>%
+    separate(demo, c("demo", "pop_est"), sep = "_") %>%
+    group_by(demo, prank_filter) %>%
+    summarise(
+      name = d,
+      min_value = min(values),
+      min_pop_est = paste(pop_est[which(values == min(values))], collapse = ", "),
+      plot_name = "dept_prank_demo"
+    ) %>%
+    mutate(
+      demo = plot.labs[[analysis_demo]][["factor_names"]][demo],
+      demo = as_factor(demo),
+      demo = fct_relevel(demo, levels = plot.labs[[analysis_demo]][["levels"]]),
+    ) %>%
+    # filter(prank_filter == targeting_group) %>%
+    remove_missing() %>%
+    ggplot(aes(x = demo, y = min_value)) +
+    geom_col(aes(fill = demo)) +
+    scale_fill_discrete(name = legend.labs[[analysis_demo]]) +
+    # scale_y_continuous(labels = scales::percent) +
+    # geom_text(aes(label = format(round(min_value, digits = 1)*100), digits=2, nsmall=1), size = 4, nudge_y = 0.02,  color = "black") +
+    facet_grid(name ~ prank_filter, labeller = labeller(prank_filter = plot.grey_box)) +
+    labs(
+      title = plot.labs[[analysis_demo]][["title"]],
+      subtitle = plot.labs[[analysis_demo]][["subtitle"]],
+      x = plot.labs[[analysis_demo]]["x"],
+      y = plot.labs[[analysis_demo]][["y"]],
+      fill = plot.labs[[analysis_demo]]["x"]
+    ) +
+    theme(
+      legend.position = "top",
+      axis.title.x = element_blank(),
+      axis.text.x = element_blank(),
+      axis.ticks.x = element_blank()
+    )
+}
+```
+
+## Race Analysis
+
+```{r race, message=FALSE, warning=FALSE }
+map(1:38, function(x) {
+  dept<-demo_prop_buckets_bg_income$department[[x]]
+  plot_demo(demo_prop_buckets_bg_race %>% filter(department == dept) , "race",  dept)
+})
+
+```
+
+## Income Analysis
+
+```{r income, message=FALSE, warning=FALSE}
+map(1:38, function(x) {
+  dept<-demo_prop_buckets_bg_income$department[[x]]
+  plot_demo(demo_prop_buckets_bg_income %>% filter(department == dept) , "income",  dept)
+})
+```

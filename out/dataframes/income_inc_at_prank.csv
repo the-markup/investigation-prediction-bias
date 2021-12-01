@@ -1,0 +1,13 @@
+demo,prank_filter,pct_inc,min_pop_est,plot_name
+Between 120 and 150k,in_max_tb,-0.26155089780238994,est,income_inc_at_prank
+Between 120 and 150k,in_med_tb,-0.0013606517208262744,est,income_inc_at_prank
+Between 120 and 150k,in_min_tb,0.20216166922622145,est,income_inc_at_prank
+Between 75 and 100k,in_max_tb,-0.03665939356480963,est,income_inc_at_prank
+Between 75 and 100k,in_med_tb,-0.10358795983629013,est,income_inc_at_prank
+Between 75 and 100k,in_min_tb,0.09004405820093955,est,income_inc_at_prank
+Greater than 200k,in_max_tb,-0.2679389207798609,est,income_inc_at_prank
+Greater than 200k,in_med_tb,-0.04333432664130796,est,income_inc_at_prank
+Greater than 200k,in_min_tb,0.48045009027027796,est,income_inc_at_prank
+Less than 45k,in_max_tb,0.18546016808576288,est,income_inc_at_prank
+Less than 45k,in_med_tb,0.06940405024791933,est,income_inc_at_prank
+Less than 45k,in_min_tb,-0.16897364950973695,est,income_inc_at_prank

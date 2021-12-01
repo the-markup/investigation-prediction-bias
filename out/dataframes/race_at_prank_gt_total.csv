@@ -1,0 +1,13 @@
+demo,prank_filter,num_jur,min_pop_est,pct,plot_name
+Asian,in_max_tb,13,lb,0.34210526315789475,prank_gt_total
+Asian,in_med_tb,9,lb,0.23684210526315788,prank_gt_total
+Asian,in_min_tb,4,lb,0.10526315789473684,prank_gt_total
+African American,in_max_tb,25,ub,0.6578947368421053,prank_gt_total
+African American,in_med_tb,12,lb,0.3157894736842105,prank_gt_total
+African American,in_min_tb,6,lb,0.15789473684210525,prank_gt_total
+Latino,in_max_tb,21,lb,0.5526315789473685,prank_gt_total
+Latino,in_med_tb,15,lb,0.39473684210526316,prank_gt_total
+Latino,in_min_tb,7,lb,0.18421052631578946,prank_gt_total
+White,in_max_tb,8,"est, lb, ub",0.21052631578947367,prank_gt_total
+White,in_med_tb,19,"est, ub",0.5,prank_gt_total
+White,in_min_tb,28,lb,0.7368421052631579,prank_gt_total
