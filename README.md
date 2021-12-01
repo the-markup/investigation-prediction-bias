@@ -8,7 +8,7 @@
 
 _Satellite view of the neighborhood of Northridge, in Los Angeles, Calif., with PredPol predictions heat map overlay_
 
-This repository contains the code and data for the analysis we carried out for our [investigation](https://themarkup.org/prediction-bias/2021/12/01/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them), which is described in detail in our (methodology)[https://themarkup.org/show-your-work/2021/12/01/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods]. It relies on the R package [Targets](https://docs.ropensci.org/targets/) to generate a reproducible analysis pipeline.
+This repository contains the code and data for the analysis we carried out for our [investigation](https://themarkup.org/prediction-bias/2021/12/01/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them), which is described in detail in our [methodology](https://themarkup.org/show-your-work/2021/12/01/)how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods]. It relies on the R package [Targets](https://docs.ropensci.org/targets/) to generate a reproducible analysis pipeline.
 
 For the sake of convenience, we've already committed the output from the pipeline to the repository. You will find it in the `out` folder. If you want to re-run the analysis and verify the steps yourself, follow the instructions in the TK section of the Readme.
 
@@ -86,43 +86,43 @@ The `out` folder contains the latest output from the analysis already. If you re
 
 Data sheets looking at each department in our analysis individually. These are also available in PDF form at `datasheets/pdfs`.
 
-| Department            | URL                                                                                                             |
-| :-------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| alexandriapd          | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/alexandriapd.html)          |
-| birminghampd          | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/birminghampd.html)          |
-| boonecounty           | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/boonecounty.html)           |
-| clovisca              | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/clovisca.html)              |
-| cpd                   | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/cpd.html)                   |
-| cpso                  | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/cpso.html)                  |
-| decaturga             | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/decaturga.html)             |
-| elgin                 | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/elgin.html)                 |
-| elmonte               | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/elmonte.html)               |
-| farmersbranch         | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/farmersbranch.html)         |
-| forsythso             | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/forsythso.html)             |
-| frederick             | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/frederick.html)             |
-| fresnopd              | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/fresnopd.html)              |
-| ftmyerspd             | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/ftmyerspd.html)             |
-| gloucestertwppd       | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/gloucestertwppd.html)       |
-| gvpd                  | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/gvpd.html)                  |
-| haverhill             | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/haverhill.html)             |
-| homewood              | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/homewood.html)              |
-| jacksonvilletx        | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/jacksonvilletx.html)        |
-| jeffcomacc            | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/jeffcomacc.html)            |
-| la                    | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/la.html)                    |
-| livermore             | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/livermore.html)             |
-| merced                | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/merced.html)                |
-| modesto               | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/modesto.html)               |
-| nilespolice           | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/nilespolice.html)           |
-| ocalapdcom            | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/ocalapdcom.html)            |
-| ocfl                  | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/ocfl.html)                  |
-| ocoeepd               | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/ocoeepd.html)               |
-| piscataway            | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/piscataway.html)            |
-| plainfieldpdnj        | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/plainfieldpdnj.html)        |
-| portagemipd           | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/portagemipd.html)           |
-| salisbury             | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/salisbury.html)             |
-| southjordan           | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/southjordan.html)           |
-| tacoma                | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/tacoma.html)                |
-| templeterracepd       | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/templeterracepd.html)       |
-| tracypd               | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/tracypd.html)               |
-| turlockpolice         | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/turlockpolice.html)         |
-| westspringfieldpolice | [Link](https://markup-investigations-policing.s3.us-east-2.amazonaws.com/datasheets/westspringfieldpolice.html) |
+| Department            | URL                                                                                                                     |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| alexandriapd          | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/alexandriapd.html)          |
+| birminghampd          | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/birminghampd.html)          |
+| boonecounty           | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/boonecounty.html)           |
+| clovisca              | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/clovisca.html)              |
+| cpd                   | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/cpd.html)                   |
+| cpso                  | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/cpso.html)                  |
+| decaturga             | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/decaturga.html)             |
+| elgin                 | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/elgin.html)                 |
+| elmonte               | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/elmonte.html)               |
+| farmersbranch         | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/farmersbranch.html)         |
+| forsythso             | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/forsythso.html)             |
+| frederick             | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/frederick.html)             |
+| fresnopd              | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/fresnopd.html)              |
+| ftmyerspd             | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/ftmyerspd.html)             |
+| gloucestertwppd       | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/gloucestertwppd.html)       |
+| gvpd                  | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/gvpd.html)                  |
+| haverhill             | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/haverhill.html)             |
+| homewood              | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/homewood.html)              |
+| jacksonvilletx        | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/jacksonvilletx.html)        |
+| jeffcomacc            | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/jeffcomacc.html)            |
+| la                    | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/la.html)                    |
+| livermore             | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/livermore.html)             |
+| merced                | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/merced.html)                |
+| modesto               | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/modesto.html)               |
+| nilespolice           | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/nilespolice.html)           |
+| ocalapdcom            | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/ocalapdcom.html)            |
+| ocfl                  | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/ocfl.html)                  |
+| ocoeepd               | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/ocoeepd.html)               |
+| piscataway            | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/piscataway.html)            |
+| plainfieldpdnj        | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/plainfieldpdnj.html)        |
+| portagemipd           | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/portagemipd.html)           |
+| salisbury             | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/salisbury.html)             |
+| southjordan           | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/southjordan.html)           |
+| tacoma                | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/tacoma.html)                |
+| templeterracepd       | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/templeterracepd.html)       |
+| tracypd               | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/tracypd.html)               |
+| turlockpolice         | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/turlockpolice.html)         |
+| westspringfieldpolice | [Link](https://markup-public-data.s3.us-east-1.amazonaws.com/predictive-policing/datasheets/westspringfieldpolice.html) |
