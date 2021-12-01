@@ -363,7 +363,7 @@ stat_demo_at_tb <- function(bg_demo_prop_at_pred_rank, demo_group, targeting_gro
 ```
 # `r params$client_name`
 
-The Markup and Gizmodo have obtained and analyzed actual predictions for more than three dozen departments that used PredPol predictive policing software for at least six months between 2018 and 2020. This data sheet provides the findings from our _disparate impact analysis_ and _public housing analysis_  for `r params$client_name` To learn more about the project read, our [investigation](https://themarkup.org/prediction-bias/2021/12/01/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them). For more details on how we did this analysis, read our [methodology](https://themarkup.org/show-your-work/2021/12/01/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods).
+The Markup and Gizmodo have obtained and analyzed actual predictions for more than three dozen departments that used PredPol predictive policing software for at least six months between 2018 and 2020. This data sheet provides the findings from our _disparate impact analysis_ and _public housing analysis_  for `r params$client_name` To learn more about the project read, our [investigation](https://themarkup.org/prediction-bias/2021/12/02/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them). For more details on how we did this analysis, read our [methodology](https://themarkup.org/show-your-work/2021/12/02/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods).
 
 ## Findings {.tabset}
 
@@ -578,7 +578,7 @@ The grid drawn on this map provides an approximate aggregation of the prediction
 
 This map shows the predictions aggregated to the level of the Census block group.
 Aggregating prediction data to the geographic area of a Census block group introduces additional complexity to the analysis, and hence this map should be interpreted with some caution.
-See the limitations section of the [methodology](https://themarkup.org/show-your-work/2021/12/01/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods) for more details.
+See the limitations section of the [methodology](https://themarkup.org/show-your-work/2021/12/02/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods) for more details.
 
 
 ```{r pred_map_bg, message=FALSE, warning=FALSE}
@@ -694,7 +694,7 @@ block groups as the five percent around the median block group for
 predictions. And we defined the least-targeted block groups as those with the
 bottom five percent of predictions.
 
-In some of the larger jurisdictions, more than five percent of block groups got zero predictions. In those cases, we chose the most populated block groups with no predictions for the five percent. Learn more about how we did this in our [methodology](https://themarkup.org/show-your-work/2021/12/01/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods).
+In some of the larger jurisdictions, more than five percent of block groups got zero predictions. In those cases, we chose the most populated block groups with no predictions for the five percent. Learn more about how we did this in our [methodology](https://themarkup.org/show-your-work/2021/12/02/how-we-determined-crime-prediction-software-disproportionately-targeted-low-income-black-and-latino-neighborhoods).
 
 We identified public housing through HUD's online lookup tool available at [https://resources.hud.gov](https://resources.hud.gov)
 
