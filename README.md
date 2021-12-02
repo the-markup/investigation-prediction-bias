@@ -47,7 +47,7 @@ In this repository the data used as the input for analysis is stored in the `in`
 
 #### PredPol (now Geolitica) Reports
 
-You can download the raw PredPol reports used as the basis of this analysis here. TK LINK.
+You can download the raw PredPol reports used as the basis of this analysis [here](https://markup-public-data.s3.amazonaws.com/predictive-policing/raw-predictions.tar.xz).
 Note: The addresses listed in the prediction reports are the center of the prediction box. The actual predictions encompass the entire box, not just the address marked at the center.
 
 #### Datasheets folder
